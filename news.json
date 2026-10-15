@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Latest AI News",
+    "summary": "Explore the latest developments in Artificial Intelligence.",
+    "source": "Google News",
+    "link": "https://news.google.com/search?q=AI"
+  },
+  {
+    "title": "Technology News India",
+    "summary": "Discover the latest technology updates from India.",
+    "source": "Google News",
+    "link": "https://news.google.com/search?q=technology+India"
+  },
+  {
+    "title": "AI Business and Startups",
+    "summary": "Explore AI business innovations and startup developments.",
+    "source": "Google News",
+    "link": "https://news.google.com/search?q=AI+startups"
+  }
+]
