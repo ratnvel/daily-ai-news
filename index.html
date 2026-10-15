@@ -1,206 +1,112 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="mr">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="description" content="Read the latest AI, technology, business and India news.">
-<title>Daily AI News | Latest Technology Updates</title>
+<meta name="description" content="ताज्या AI, तंत्रज्ञान, व्यवसाय आणि भारतातील बातम्या मराठीत वाचा.">
+<title>दैनिक AI न्यूज | तंत्रज्ञानाच्या ताज्या बातम्या</title>
 
 <style>
-* { box-sizing: border-box; }
-
-body {
-    margin: 0;
-    font-family: Arial, sans-serif;
-    background: #f4f7fb;
-    color: #172033;
-}
-
-header {
-    background: #101827;
-    color: white;
-    padding: 25px 7%;
-}
-
-header h1 { margin: 0 0 8px; }
-
-header p { margin: 0; color: #cbd5e1; }
-
-nav {
-    background: #ffffff;
-    padding: 15px 7%;
-    display: flex;
-    gap: 22px;
-    flex-wrap: wrap;
-    border-bottom: 1px solid #ddd;
-}
-
-nav a {
-    color: #172033;
-    text-decoration: none;
-    font-weight: bold;
-}
-
-.container {
-    max-width: 1100px;
-    margin: 30px auto;
-    padding: 0 20px;
-}
-
-.hero {
-    background: linear-gradient(120deg, #172554, #2563eb);
-    color: white;
-    padding: 35px;
-    border-radius: 15px;
-    margin-bottom: 30px;
-}
-
-.hero h2 { font-size: 30px; }
-
-#status {
-    color: #64748b;
-    margin-bottom: 20px;
-}
-
-.news-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
-    gap: 20px;
-}
-
-.news-card {
-    background: white;
-    border-radius: 12px;
-    padding: 22px;
-    box-shadow: 0 3px 12px #0000000b;
-}
-
-.news-card h3 { line-height: 1.5; }
-
-.news-card p {
-    color: #64748b;
-    line-height: 1.6;
-}
-
-.news-card a {
-    color: #2563eb;
-    font-weight: bold;
-    text-decoration: none;
-}
-
-footer {
-    margin-top: 50px;
-    background: #101827;
-    color: white;
-    padding: 30px 7%;
-    text-align: center;
-}
-
-footer a {
-    color: #bfdbfe;
-    margin: 0 8px;
-}
-
-@media (max-width: 600px) {
-    .hero h2 { font-size: 23px; }
-    .hero { padding: 25px; }
-}
+*{box-sizing:border-box}
+body{margin:0;font-family:Arial,sans-serif;background:#f4f7fb;color:#172033}
+header{background:#101827;color:white;padding:25px 7%}
+header h1{margin:0 0 8px}
+header p{color:#cbd5e1}
+nav{background:white;padding:15px 7%;display:flex;gap:22px;flex-wrap:wrap}
+nav a{color:#172033;text-decoration:none;font-weight:bold}
+.container{max-width:1100px;margin:30px auto;padding:0 20px}
+.hero{background:linear-gradient(120deg,#172554,#2563eb);color:white;padding:35px;border-radius:15px;margin-bottom:30px}
+.hero h2{font-size:30px}
+#status{color:#64748b}
+.news-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:20px}
+.news-card{background:white;border-radius:12px;padding:22px;box-shadow:0 3px 12px #0000000b}
+.news-card h3{line-height:1.5}
+.news-card p{color:#64748b;line-height:1.6}
+.news-card a{color:#2563eb;font-weight:bold;text-decoration:none}
+footer{margin-top:50px;background:#101827;color:white;padding:30px 7%;text-align:center}
+footer a{color:#bfdbfe;margin:0 8px}
+@media(max-width:600px){.hero h2{font-size:23px}.hero{padding:25px}}
 </style>
 </head>
 
 <body>
-
 <header>
-    <h1>📰 Daily AI News</h1>
-    <p>Your daily source for AI, technology and business news.</p>
+<h1>📰 दैनिक AI न्यूज</h1>
+<p>कृत्रिम बुद्धिमत्ता, तंत्रज्ञान आणि व्यवसायाच्या ताज्या बातम्या.</p>
 </header>
 
 <nav>
-    <a href="#latest">Latest News</a>
-    <a href="#ai">Artificial Intelligence</a>
-    <a href="#india">India</a>
-    <a href="#technology">Technology</a>
+<a href="#latest">ताज्या बातम्या</a>
+<a href="#ai">कृत्रिम बुद्धिमत्ता</a>
+<a href="#india">भारत</a>
+<a href="#technology">तंत्रज्ञान</a>
 </nav>
 
 <main class="container">
+<section class="hero">
+<h2>ताज्या बातम्यांसोबत राहा अपडेट!</h2>
+<p>AI, तंत्रज्ञान, व्यवसाय आणि भारतातील महत्त्वाच्या घडामोडी जाणून घ्या.</p>
+</section>
 
-    <section class="hero">
-        <h2>Stay Ahead with the Latest News</h2>
-        <p>Discover important developments in AI, technology, business and India.</p>
-    </section>
+<h2 id="latest">🗞️ आजच्या ताज्या बातम्या</h2>
+<p id="status">बातम्या लोड होत आहेत...</p>
 
-    <h2 id="latest">Latest News</h2>
-    <p id="status">Loading news...</p>
-
-    <section class="news-grid" id="news">
-        <article class="news-card">
-            <h3>Daily AI News</h3>
-            <p>Our automated news digest will appear here after integration.</p>
-        </article>
-    </section>
-
+<section class="news-grid" id="news"></section>
 </main>
 
 <footer>
-    <p>© 2026 Daily AI News</p>
-    <a href="about.html">About</a>
-    <a href="privacy.html">Privacy Policy</a>
-    <a href="contact.html">Contact</a>
+<p>© 2026 दैनिक AI न्यूज</p>
+<a href="about.html">आमच्याबद्दल</a>
+<a href="privacy.html">गोपनीयता धोरण</a>
+<a href="contact.html">संपर्क</a>
 </footer>
 
 <script>
-async function loadNews() {
-    const status = document.getElementById("status");
-    const newsContainer = document.getElementById("news");
+async function loadNews(){
+ const status=document.getElementById("status");
+ const container=document.getElementById("news");
 
-    try {
-        const response = await fetch("./news.json");
+ try{
+  const response=await fetch("./news.json");
+  if(!response.ok) throw new Error("News unavailable");
 
-        if (!response.ok) {
-            throw new Error("News file is not available yet.");
-        }
+  const stories=await response.json();
+  container.innerHTML="";
 
-        const stories = await response.json();
+  stories.forEach(story=>{
+   const card=document.createElement("article");
+   card.className="news-card";
 
-        newsContainer.innerHTML = "";
+   const title=document.createElement("h3");
+   title.textContent=story.title||"बातमी";
 
-        stories.forEach(story => {
-            const card = document.createElement("article");
-            card.className = "news-card";
+   const summary=document.createElement("p");
+   summary.textContent=story.summary||story.description||"";
 
-            const title = document.createElement("h3");
-            title.textContent = story.title || "Untitled news";
+   const source=document.createElement("p");
+   source.textContent="स्रोत: "+(story.source||"बातमी प्रकाशक");
 
-            const summary = document.createElement("p");
-            summary.textContent = story.summary || story.description || "";
+   card.append(title,summary,source);
 
-            const source = document.createElement("p");
-            source.textContent = "Source: " + (story.source || "News publisher");
+   if(story.link){
+    const link=document.createElement("a");
+    link.href=story.link;
+    link.target="_blank";
+    link.rel="noopener noreferrer";
+    link.textContent="मूळ बातमी वाचा →";
+    card.appendChild(link);
+   }
 
-            card.append(title, summary, source);
+   container.appendChild(card);
+  });
 
-            if (story.link) {
-                const link = document.createElement("a");
-                link.href = story.link;
-                link.target = "_blank";
-                link.rel = "noopener noreferrer";
-                link.textContent = "Read original article →";
-                card.appendChild(link);
-            }
+  status.textContent="ताज्या बातम्या यशस्वीपणे लोड झाल्या.";
 
-            newsContainer.appendChild(card);
-        });
-
-        status.textContent = "Latest news digest loaded.";
-
-    } catch (error) {
-        status.textContent =
-            "News feed integration pending. Please check back soon.";
-    }
+ }catch(error){
+  status.textContent="बातम्या सध्या उपलब्ध नाहीत. कृपया पुन्हा प्रयत्न करा.";
+ }
 }
-
 loadNews();
 </script>
-
 </body>
 </html>
