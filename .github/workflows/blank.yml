@@ -1,0 +1,35 @@
+name: Daily AI News Bot
+
+on:
+  schedule:
+    - cron: "30 1 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  collect-news:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Get repository files
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install packages
+        run: pip install -r requirements.txt
+
+      - name: Collect daily news
+        run: python app.py
+
+      - name: Save news digest
+        run: |
+          git config user.name "daily-ai-news-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add output/
+          git diff --cached --quiet || (git commit -m "Add daily news digest" && git push)
