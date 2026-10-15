@@ -1,111 +1,139 @@
 import os
 import re
 import html
+import json
 import feedparser
-import requests
 from datetime import datetime, timezone
 from email.utils import parsedate_to_datetime
 
+# मराठी बातम्यांसाठी RSS स्रोत
 FEEDS = [
-    ("Google News India - AI", "https://news.google.com/rss/search?q=AI+technology+India&hl=en-IN&gl=IN&ceid=IN:en"),
-    ("Google News India - Technology", "https://news.google.com/rss/search?q=technology+India&hl=en-IN&gl=IN&ceid=IN:en"),
-    ("Google News India - Business", "https://news.google.com/rss/search?q=startups+business+India&hl=en-IN&gl=IN&ceid=IN:en"),
+    (
+        "AI आणि कृत्रिम बुद्धिमत्ता",
+        "https://news.google.com/rss/search?q=AI+OR+%E0%A4%95%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%AE+%E0%A4%AC%E0%A5%81%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%BF%E0%A4%AE%E0%A4%A4%E0%A5%8D%E0%A4%A4%E0%A4%BE&hl=mr-IN&gl=IN&ceid=IN:mr",
+    ),
+    (
+        "तंत्रज्ञान",
+        "https://news.google.com/rss/search?q=%E0%A4%A4%E0%A4%82%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%BE%E0%A4%A8&hl=mr-IN&gl=IN&ceid=IN:mr",
+    ),
+    (
+        "भारत आणि स्टार्टअप",
+        "https://news.google.com/rss/search?q=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4+%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%9F%E0%A4%85%E0%A4%AA&hl=mr-IN&gl=IN&ceid=IN:mr",
+    ),
 ]
 
-OUT_DIR = "output"
-MAX_PER_FEED = int(os.getenv("MAX_PER_FEED", "5"))
-WP_URL = os.getenv("WP_URL", "").rstrip("/")
-WP_USERNAME = os.getenv("WP_USERNAME", "")
-WP_APP_PASSWORD = os.getenv("WP_APP_PASSWORD", "")
-AUTO_PUBLISH = os.getenv("AUTO_PUBLISH", "false").lower() == "true"
+MAX_NEWS = 10
 
-def clean(s):
-    s = html.unescape(re.sub(r"<[^>]+>", " ", s or ""))
-    return re.sub(r"\s+", " ", s).strip()
+
+def clean_text(text):
+    text = html.unescape(re.sub(r"<[^>]+>", " ", text or ""))
+    return re.sub(r"\s+", " ", text).strip()
+
 
 def parse_date(entry):
     try:
-        return parsedate_to_datetime(entry.get("published", "")).astimezone(timezone.utc)
+        return parsedate_to_datetime(
+            entry.get("published", "")
+        ).astimezone(timezone.utc)
     except Exception:
         try:
-            return datetime(*entry.published_parsed[:6], tzinfo=timezone.utc)
+            return datetime(
+                *entry.published_parsed[:6],
+                tzinfo=timezone.utc
+            )
         except Exception:
             return None
 
-def collect():
-    items, seen = [], set()
-    for category, url in FEEDS:
-        feed = feedparser.parse(url)
-        for e in feed.entries[:MAX_PER_FEED]:
-            link = e.get("link", "")
-            title = clean(e.get("title", ""))
-            summary = clean(e.get("summary", e.get("description", "")))
-            key = link or title.lower()
-            if not title or key in seen:
-                continue
-            seen.add(key)
-            items.append({
-                "category": category,
-                "title": title,
-                "summary": summary[:700],
-                "link": link,
-                "published": parse_date(e)
-            })
-    items.sort(key=lambda x: x["published"] or datetime.min.replace(tzinfo=timezone.utc), reverse=True)
-    return items
 
-def make_article(items):
-    today = datetime.now().strftime("%d %B %Y")
-    lines = [
-        f"# India AI & Technology News Digest — {today}",
-        "",
-        "> This is an automated news roundup. Read the original sources before relying on a claim. Headlines and short descriptions are attributed to their publishers; this digest does not reproduce full articles.",
-        "",
-    ]
-    for category in sorted(set(x["category"] for x in items)):
-        lines += [f"## {category}", ""]
-        for x in [z for z in items if z["category"] == category]:
-            lines += [f"### {x['title']}", ""]
-            if x["summary"]:
-                lines += [x["summary"], ""]
-            if x["link"]:
-                lines += [f"Source: {x['link']}", ""]
-    lines += ["## Editorial note", "", "This digest was generated from public RSS feeds. Automated collection can contain errors, duplicates, or incomplete context. Verify important details and add original analysis before publishing commercially.", ""]
-    return "\n".join(lines)
+def collect_news():
+    news = []
+    seen_links = set()
 
-def publish_to_wordpress(title, content):
-    if not (WP_URL and WP_USERNAME and WP_APP_PASSWORD):
-        raise RuntimeError("WordPress credentials are missing. Set WP_URL, WP_USERNAME and WP_APP_PASSWORD.")
-    endpoint = f"{WP_URL}/wp-json/wp/v2/posts"
-    status = "publish" if AUTO_PUBLISH else "draft"
-    r = requests.post(
-        endpoint,
-        auth=(WP_USERNAME, WP_APP_PASSWORD),
-        json={"title": title, "content": content.replace("\n", "<br>"), "status": status},
-        timeout=30,
+    for category, feed_url in FEEDS:
+        try:
+            feed = feedparser.parse(feed_url)
+
+            for entry in feed.entries:
+                link = entry.get("link", "")
+                title = clean_text(entry.get("title", ""))
+                summary = clean_text(
+                    entry.get("summary", entry.get("description", ""))
+                )
+
+                if not title or not link or link in seen_links:
+                    continue
+
+                seen_links.add(link)
+
+                published = parse_date(entry)
+
+                news.append({
+                    "category": category,
+                    "title": title,
+                    "summary": summary[:500],
+                    "source": entry.get("source", {}).get(
+                        "title", category
+                    ),
+                    "link": link,
+                    "published": (
+                        published.isoformat() if published else ""
+                    ),
+                })
+
+        except Exception as error:
+            print(f"Feed error ({category}): {error}")
+
+    news.sort(
+        key=lambda item: item["published"],
+        reverse=True
     )
-    r.raise_for_status()
-    return r.json().get("link", "(post created)")
+
+    return news[:MAX_NEWS]
+
+
+def save_news(news):
+    # वेबसाइटच्या index.html ला हा JSON वाचता येईल.
+    with open("news.json", "w", encoding="utf-8") as file:
+        json.dump(
+            news,
+            file,
+            ensure_ascii=False,
+            indent=2
+        )
+
+    os.makedirs("output", exist_ok=True)
+
+    today = datetime.now().strftime("%Y-%m-%d")
+    markdown_path = f"output/news-digest-{today}.md"
+
+    with open(markdown_path, "w", encoding="utf-8") as file:
+        file.write(f"# दैनिक AI आणि तंत्रज्ञान बातम्या — {today}\n\n")
+
+        for number, item in enumerate(news, start=1):
+            file.write(f"## {number}. {item['title']}\n\n")
+            file.write(f"**विभाग:** {item['category']}\n\n")
+
+            if item["summary"]:
+                file.write(f"{item['summary']}\n\n")
+
+            file.write(f"[मूळ बातमी वाचा]({item['link']})\n\n")
+            file.write("---\n\n")
+
+    print(f"एकूण बातम्या: {len(news)}")
+    print("वेबसाइट डेटा तयार: news.json")
+    print(f"Markdown फाइल तयार: {markdown_path}")
+
 
 def main():
-    os.makedirs(OUT_DIR, exist_ok=True)
-    items = collect()
-    if not items:
-        raise SystemExit("No RSS items retrieved. Check internet or try again later.")
-    content = make_article(items)
-    stamp = datetime.now().strftime("%Y-%m-%d")
-    path = os.path.join(OUT_DIR, f"news-digest-{stamp}.md")
-    with open(path, "w", encoding="utf-8") as f:
-        f.write(content)
-    print(f"Saved {len(items)} stories to {path}")
-    if WP_URL and WP_USERNAME and WP_APP_PASSWORD:
-        title = f"India AI & Technology News Digest — {datetime.now().strftime('%d %B %Y')}"
-        try:
-            print("WordPress result:", publish_to_wordpress(title, content))
-        except Exception as ex:
-            print("WordPress publishing failed:", ex)
-    else:
-        print("WordPress not configured; generated a local Markdown draft only.")
+    news = collect_news()
+
+    if not news:
+        raise SystemExit(
+            "बातम्या मिळाल्या नाहीत. RSS स्रोत किंवा इंटरनेट तपासा."
+        )
+
+    save_news(news)
+
 
 if __name__ == "__main__":
     main()
