@@ -1,0 +1,102 @@
+# दैनिक AI आणि तंत्रज्ञान बातम्या — 2026-10-18
+
+## 1. India’s surge in the space sector, driven by ‘startups’ - tarunbharat.com
+
+**विभाग:** भारत आणि स्टार्टअप
+
+India’s surge in the space sector, driven by ‘startups’ tarunbharat.com
+
+[मूळ बातमी वाचा](https://news.google.com/rss/articles/CBMihwFBVV95cUxPaU9uTHV1ZkQ5X19YMndUa2ZKOG1BVVNoN2pjcldLT0Z5eVNsMjI5czQ2MG1Dc2lBR1M0SGlmMzhjMzJiTXNCWDNpZk1IaG5WRk1kMjdJLTl1LTRTWXo5bU1rUU1paUdjZ1FzR1VvLWUtekpRUXIyUUQtQnNZTXRZQXF0QlNEa0U?oc=5)
+
+---
+
+## 2. Women In Agriculture : महिला सक्षमीकरणातून शेतीला नवी दिशा - Agrowon
+
+**विभाग:** तंत्रज्ञान
+
+Women In Agriculture : महिला सक्षमीकरणातून शेतीला नवी दिशा Agrowon
+
+[मूळ बातमी वाचा](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVzVHcWlRMkFHM1MybDBXNkJfb2hmNWNuZlpwUm9WVGNVSzVEdlhSVGQtckl3RUhjN3VRTTRmalZNMnVVaGZ1NWY4ME40bHh6ckRRNnVLaC1oUGVjOTM3NXFCLUJnZENxb2VKWmhTT0xYYmxZRUk0OU9TVXp5emZiWlBJR2FTYTBtV25aTHZUMUUzRTlTY0JnWWdBQjZxVUJCVFBYY2pWQTJndw?oc=5)
+
+---
+
+## 3. गुगल, मेटा आणि रिलायन्स एकत्र! भारतातील AI तंत्रज्ञानाच्या विकासाला मिळणार आणखी वेग - Maharashtra Times
+
+**विभाग:** AI आणि कृत्रिम बुद्धिमत्ता
+
+गुगल, मेटा आणि रिलायन्स एकत्र! भारतातील AI तंत्रज्ञानाच्या विकासाला मिळणार आणखी वेग Maharashtra Times
+
+[मूळ बातमी वाचा](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQMThPN3kxaXBKNFF1dDNYVTNRdTdwOVYzWEI1bENSeUJyYTBRYmJFeWJXV2U5dUVsMFk1eG9VelpuemhSQnBQbURtUF9yOVJuaHNsZGtfRmlyZXhJNGZiMlB5X2o5bk5qYzlNbTZGeVF1bkxldVR5OFY0S2FVOGFWdWc3Nkx2cU0zSDd6TTRvQWpnQ01fVnQtTVgxUnFaSEVmT0lHb1MtSUozMFNoWUZweWdPVkJoZDRQQTE3QWQ3YnJXaklCUVVITXpfOXlXb0dqTnRiTDBpd2x4cG1ZTEM00gHfAUFVX3lxTFAxOE83eTFpcEo0UXV0M1hVM1F1N3A5VjNYQjVsQ1J5QnJhMFFiYkV5YldXZTl1RWwwWTV4b1V6Wm56aFJCcFBtRG1QX3I5Um5oc2xka19GaXJleEk0ZmIyUHlfajluTmpjOU1tNkZ5UXVuTGV1VHk4VjRLYVU4YVZ1Zzc2THZxTTNIN3pNNG9BamdDTV9WdC1NWDFScVpIRWZPSUdvUy1JSjMwU2hZRnB5Z09WQmhkNFBBMTdBZDdicldqSUJRVUhNel85eVdvR2pOdGJMMGl3bHhwbVlMQzQ?oc=5)
+
+---
+
+## 4. गुगल, मेटा आणि रिलायन्स एकत्र! भारतातील AI तंत्रज्ञानाच्या विकासाला मिळणार आणखी वेग - Maharashtra Times
+
+**विभाग:** तंत्रज्ञान
+
+गुगल, मेटा आणि रिलायन्स एकत्र! भारतातील AI तंत्रज्ञानाच्या विकासाला मिळणार आणखी वेग Maharashtra Times
+
+[मूळ बातमी वाचा](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQWDZYWnN2OEkwbEhLNEhlbXptZjVlUUFPdkRKSE04bWFIOGVKYXpNTm11Y3lNY2VSQnhrVzFSd2p6YkdMQjhGS0FEWGtfM24xTHN0aVJHZFpnZUZLaGg5clVzU1VFVmlnYjV4enZsVGNoV1pVQURfb29YUkl3aFNKZGtiQWRLOVV4NTdfc1hjc3VidDB4aXhyZ3VZYnY2YkxTOEZaS3hJMTY4Q2VkeHpYdXAyd3hGaHJTeVVQWmN6VFZLYzdkM3FHc3BIcDZBRkI3aHVFRXdjSUwxZ9IB3wFBVV95cUxQMThPN3kxaXBKNFF1dDNYVTNRdTdwOVYzWEI1bENSeUJyYTBRYmJFeWJXV2U5dUVsMFk1eG9VelpuemhSQnBQbURtUF9yOVJuaHNsZGtfRmlyZXhJNGZiMlB5X2o5bk5qYzlNbTZGeVF1bkxldVR5OFY0S2FVOGFWdWc3Nkx2cU0zSDd6TTRvQWpnQ01fVnQtTVgxUnFaSEVmT0lHb1MtSUozMFNoWUZweWdPVkJoZDRQQTE3QWQ3YnJXaklCUVVITXpfOXlXb0dqTnRiTDBpd2x4cG1ZTEM0?oc=5)
+
+---
+
+## 5. Integrated Farming: एकात्मिक शेतीतूनच शाश्वत शेती शक्य : डॉ. शरद गडाख - Agrowon
+
+**विभाग:** तंत्रज्ञान
+
+Integrated Farming: एकात्मिक शेतीतूनच शाश्वत शेती शक्य : डॉ. शरद गडाख Agrowon
+
+[मूळ बातमी वाचा](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOODRxX1hKNFJ4UnIwRkFkT3BKc3pFTElQTjROZlB6NW1IUGFieUlmZ3dlV0FyU2dwWEdGR2x0REc3REwxYjV2TGJFWDdWdjJ6aDd3dEZBeXVEbFcwYWFWTWJrQW9GaVJnaHlFN05lMmNMcWxXU1lvTFA5Q0hBbFhFejlKVWw0RWlQWkcwTUpBeUFMb1JGckVQTGRLcEpNd3laQVlKQzhqaWRaRGM?oc=5)
+
+---
+
+## 6. Post Harvest Technology: फ्रेश कट व्यवसायातील महत्त्वाचा टप्पा : पिलिंग - Agrowon
+
+**विभाग:** तंत्रज्ञान
+
+Post Harvest Technology: फ्रेश कट व्यवसायातील महत्त्वाचा टप्पा : पिलिंग Agrowon
+
+[मूळ बातमी वाचा](https://news.google.com/rss/articles/CBMilgFBVV95cUxQVktpMjNnaEt2dkVhYkZ0Q0xtMjJBajVDUUhLN3p3dFFhYmNYX0phcXQtbTBSVU5hX21seVZoY3QwS2ZPWXU4dVp4bkVYUmlKb044V0pFUzVIclY3UFZKNHpESjJudC1MRTVIVS1iWWNPZkc2YmVLQXJ6OGtub1VLWVB5ZGtpM3VUamZPT25ldHNWWUs3NGc?oc=5)
+
+---
+
+## 7. पुण्यात 8 ऑक्टोबरपासून ‘एडब्ल्यूटीआयएस’ तंत्रज्ञान प्रदर्शन: संशोधन, उद्योग, नवकल्पनांचा संगम घडवणारे प्रदर... - Divya Marathi
+
+**विभाग:** तंत्रज्ञान
+
+पुण्यात 8 ऑक्टोबरपासून ‘एडब्ल्यूटीआयएस’ तंत्रज्ञान प्रदर्शन: संशोधन, उद्योग, नवकल्पनांचा संगम घडवणारे प्रदर... Divya Marathi
+
+[मूळ बातमी वाचा](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQUmZyTEYxV1JNVEd2a3NLd2JPUmV6RUIzZVZQMVJJNDU1X1d3aHRJMFlCamk0ay1kQW5DS25UZjhwbldhbjRoTG5TMzJiMkpnaHFib18yZGFYd3k4ZFE2ZzdQaUhOdVVGQUhSTTlNYzJiUUE1bFJqZ1ZRRlBNa0Z0aHF2b0F1ODcyT1hSVTk0OGRoRTgtZXlBTmZKTUlxbG9Ncm5GaDRKcERXY1ZCMTdrWHg0WHdCYm9JbmtQQUJDaFUwcHN4R3NBX2tJeTIxcV80UUU1Q09aY9IB3AFBVV95cUxQMnBpTUp6QVNjSkdfN3Nfd2ZLcXhxUkszRUxzdTJ2TGp5QmRnYzRzUXg3cm5GR0xXS3pOc3ZTQkpab25Nbl9sbUVpemtUempOeWNYMFRWREhVYm1DMVJhNVRhWldEWUNJajJFd0ljdU91bWhEdEcxRkZMY1daYUFnZjJpNUpFR3BlbDZJZzZZNkRTeTFxV0p3ZHdDSGdvekJVUUExbW44QnJsbmtMNmlqal9rVzRWY3lNYjk0SWd3WFlGNjN1cmtsdTlDQ0RobldZd25Hd2ZnN2FMU1VL?oc=5)
+
+---
+
+## 8. शैक्षणिक: राष्ट्रीय नवोपक्रम कृत्रिम बुद्धिमत्ता, तंत्रज्ञानाच्या क्षेत्रामधील नावीन्यपूर्ण शोधाला मिळाले यश - Divya Marathi
+
+**विभाग:** तंत्रज्ञान
+
+शैक्षणिक: राष्ट्रीय नवोपक्रम कृत्रिम बुद्धिमत्ता, तंत्रज्ञानाच्या क्षेत्रामधील नावीन्यपूर्ण शोधाला मिळाले यश Divya Marathi
+
+[मूळ बातमी वाचा](https://news.google.com/rss/articles/CBMinAJBVV95cUxNM01DVGozd3FYVXFMcDVtd3pjb3JSZnhSTmFIaGw0dmtTekJ5QWdsS3lSRFgxbi15aXFrS2I1Zl9kS09jVG5xUWl4Vlp4bnpKak9FcWVYUm01RUtUSWo5M2hOMHY5R1RCWkVpSzhtdEY5Tk5zNkFnTUJhN0Etek5kRktWOGhOR3RQSzhTSkQxQmJ1aU5HWmNlVVNOVVdlZlpJNEF4YU11am5SU1kxWXRvdWNRNGNPVDVZb0hqVzhHeWtseWhXcDFyYTQwRUJwdWRPUEdfQy1tdXdfeDkweXEwUHlaTzA0MVctV3RhN1Myc2YwMFFHdzhTT18waDk4dDVyRFoxSHpyempORGlJYy1EYWlzVTV3b0xndER6StIBogJBVV95cUxPekI0U2ZvVVMzSkJEaHB6eFlHdDgtQXFTQy1Ub1pOODN4c3VCcnd6ZS1OeFF0TThqbElpeGlBSU45UzJqcWhVdVN5WEhwVTZIc1pybEoza21MeWQtcklidU9UX21TeW50UUxLWDk3ckhlNGdrbGkzNTZWUlIzZ2lqR05TVzVUSW54R3VneGVtUjdrSF93X0xlcEkzb2pGeUVLRGZmcDc3Umt0VVlfRU9LOWlZSk52d3didmdfMnpVUi16LUJoaFJzZGZVbmpBMEthQ012Y1pFc1RYNFZkb1FnQ0tRV0JwWXFiVHVDeHMxWmhTbGFvb1BSUWxKNTJwSE1Yclkxa2FLOUdPVU84ZkFFNkV4R05RUlBKTXZpUTFtSGVlZw?oc=5)
+
+---
+
+## 9. Baramati Innovation Valley: बारामतीत उभारणार‘इनोव्हेशन व्हॅली’ : पवार - Agrowon
+
+**विभाग:** तंत्रज्ञान
+
+Baramati Innovation Valley: बारामतीत उभारणार‘इनोव्हेशन व्हॅली’ : पवार Agrowon
+
+[मूळ बातमी वाचा](https://news.google.com/rss/articles/CBMinwFBVV95cUxOUDlWSE9ON3pQQ2hwazhrYzdXZ1VtQWF0cE9zTzVuM3lRSUppMVZKTi1VZzF2ODBsbjVkV2gzU2p1eDF1ZWRtZDh3MGxydlRkYjludWR5LVV6Y3VHQ21EOEtYZmNWeW1ab2dRX0NBY3BkUDJQNlRZdUlsUXBsZ0JBRS11V0tSVkwxZmVGNEd4QUNLV1UyU0FQWXJ1S0dQaVE?oc=5)
+
+---
+
+## 10. Integrated Farming: एकात्मिक शेती दुष्काळात फायदेशीर ठरेल : कुलगुरू खर्चे - Agrowon
+
+**विभाग:** तंत्रज्ञान
+
+Integrated Farming: एकात्मिक शेती दुष्काळात फायदेशीर ठरेल : कुलगुरू खर्चे Agrowon
+
+[मूळ बातमी वाचा](https://news.google.com/rss/articles/CBMirwFBVV95cUxNaXNzQ1RsU0VQTUNKVkV4VDNEd2ZRNnd6emxteER5WmZkUHZicGtXUkRVN3FzdU5aU1FWbEcwT0tyYlBCNmtfVW1LRDFyMUJ5eUlBcTVZbHcyaDBhRXJOTGljZG05cmZKNVlJMlhRSVR6NnZKcWJRYTdjalhoekFjWXF6bWhpNUZzSjhxZkh2YTAwSVF0OHAyV2J6aFhfQUg3V29mc3hqNXQ5UnFpc1hV?oc=5)
+
+---
+
