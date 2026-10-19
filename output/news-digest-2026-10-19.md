@@ -1,0 +1,102 @@
+# दैनिक AI आणि तंत्रज्ञान बातम्या — 2026-10-19
+
+## 1. देशातील 3 IITs मेडिकल कॉलेज का बनवत आहेत?: येथे डॉक्टर नव्हे, मेडिकल इंजिनिअर्सचे शिक्षण होईल; IIT संचालकां... - Divya Marathi
+
+**विभाग:** तंत्रज्ञान
+
+देशातील 3 IITs मेडिकल कॉलेज का बनवत आहेत?: येथे डॉक्टर नव्हे, मेडिकल इंजिनिअर्सचे शिक्षण होईल; IIT संचालकां... Divya Marathi
+
+[मूळ बातमी वाचा](https://news.google.com/rss/articles/CBMixgFBVV95cUxNQ1ZHNGpGSVpia3AxbUhSOGtsSTNLbno2Nm92QmZhTTJ3WS1sMzd4dmE0d0RMaEhqNEx4blZ6MnlFaXJITWkzMml2ZEw1Q3lWZzNhbEhNVWZUYl9UaDBLQUhCOUExTU5rdnI3UFVOOTRIUVFuUUdOeF9pdk5zUTU5ekxjVWpQeG1UVE03OWJLY0UyNlY2elpCdHppcVo3aWpwQ1BSUmVDa0Y4QUd1MFJseFpFVXhOY2p3SEs0NHUyZ0JkMG9oWnfSAcsBQVVfeXFMTWU2R0NkemR3X2lqSHo4TzliWlFMNFhkVkFVaExZelJsZVJvU2pUeHZIOUV2enhmY1VKcVlMd3ZuRWlVZFd3VFUzcktuUWFoeFV3TF9Ybk9VWWxveHAzXzFwYjA1Mzk1RUxYb1hFdFZWTU51cFE3QkJUaDdQQ3A4UmpKUW9pSUJuTkJZVXY1bEtrcXZvdjFLb1ZoSVc0Z2V5cWtZUXh2ZDZYaEtZamx6NHg3bnRUQjJmWDdOM05LZTVYbFFpWUQ3eHpET2s?oc=5)
+
+---
+
+## 2. राजनाथ सिंह ताजिकिस्तानच्या दौऱ्यावर! SCO च्या बैठकीत करणार भारताचे प्रतिनिधित्व - Hindusthan Post
+
+**विभाग:** भारत आणि स्टार्टअप
+
+राजनाथ सिंह ताजिकिस्तानच्या दौऱ्यावर! SCO च्या बैठकीत करणार भारताचे प्रतिनिधित्व Hindusthan Post
+
+[मूळ बातमी वाचा](https://news.google.com/rss/articles/CBMimAFBVV95cUxPWElLbGFvZTRVLXpLajMwUk1fZzJYRTFEUGVrczlSR3BhZHFEbkJVNDlFNzVXaHFzLXE4cHl4ekRHOFN6TDByU09LT25PdkRGTy0wU3cwVVJpbWNZZS1iYUpuY0ZOQXdVQlFzUWhibTN1Q2tXX1JLUFpBX3k1UWR3RDRFeFZfUzV5Yk92N0Mxc05uclFyVHkxcw?oc=5)
+
+---
+
+## 3. AI In Agriculture : ‘एआय’च्या आधुनिक तंत्रज्ञानामुळे दुष्काळातही फळबागांना संजीवनी; सातारा जिल्ह्यात कृषी विभागाचा उपक्रम - Agrowon
+
+**विभाग:** तंत्रज्ञान
+
+AI In Agriculture : ‘एआय’च्या आधुनिक तंत्रज्ञानामुळे दुष्काळातही फळबागांना संजीवनी; सातारा जिल्ह्यात कृषी विभागाचा उपक्रम Agrowon
+
+[मूळ बातमी वाचा](https://news.google.com/rss/articles/CBMixgFBVV95cUxNY1BuZkFNRzNqSFF4bndSTzdKZkxlMW50aWhJc3JYT0hXYWFyM0hRZmZhVDhRV3NsQ0xGOEtiOC14X0FhZDVFbUxkQmlDQmxsZGxUOFloOERFeEl0dDd2V1NtTmdlRThCYnZHbVFabmE4QnFLN0huSTMyMzJzdTFWSVMtZ2l3QUJiMEk5V3J1Z0ltSngwWUQ4MTY5T1h1dGFMYnEtZVNKRWpQREtOY1FwZ3hENC1NT3NDdUVsSFlmazhSc2N1OGc?oc=5)
+
+---
+
+## 4. टेक सीईओने मुलींना लिहिले पत्र: घाबरून मागे राहू नका, इतिहास साक्षीदार आहे- नव्या तंत्रज्ञानाने नोकऱ्या हिर... - Divya Marathi
+
+**विभाग:** तंत्रज्ञान
+
+टेक सीईओने मुलींना लिहिले पत्र: घाबरून मागे राहू नका, इतिहास साक्षीदार आहे- नव्या तंत्रज्ञानाने नोकऱ्या हिर... Divya Marathi
+
+[मूळ बातमी वाचा](https://news.google.com/rss/articles/CBMivwFBVV95cUxQemNzLWFJVF9CUjE4T3d4R2QzbDdRelpEc3RjMWlLamc3MWJvNzJhUnpycWJaSkpuZkY2bmtnYnEtYmNrTUxLdnVKeFFBQjN6V1Y3aU02YVRkWWxzaDc5UmdWU1YzV29hRXRzMC1zZXE5bWtaSWNiZEJEV0ZFeFdkVUVHbDlXUlQxcjdxek1HbWNIYnBlNjA3eFZMbjJ4TUVGMEVEd3pVY0Zld2ZmZmhCLWJkM05yeUxPN3JELTJrNNIBxAFBVV95cUxOWGVTSVVNay1XektBZm9MYm1zWF82MFJpc3JPdEQwQkdnSExuLWNMcGNpM1NTdmR1U3J2T0V3SnVzYmxSVUxjQU1QOUp1VzE3RUQ1dkdkRmd2VHVJWmhfWkppVkZBa2s3SHVIQTlmeVF3blJWOTA2QTNIZXJlbmhlaFRFa0pQNFN1X3gybDFUczYwd0VzQ09xMERmR1hEWGMybDljVU1ESElTSGV0TUhPX1RGaG84SGg3aHZkdWNEMDZ3RjFf?oc=5)
+
+---
+
+## 5. वायटूकेपासून एआयपर्यंत; तंत्रज्ञान बदललं, पण पर्यायांच्या गर्दीत ग्राहकांचा गोंधळ कायम Online Shopping Decision Fatigue - Esakal
+
+**विभाग:** तंत्रज्ञान
+
+वायटूकेपासून एआयपर्यंत; तंत्रज्ञान बदललं, पण पर्यायांच्या गर्दीत ग्राहकांचा गोंधळ कायम Online Shopping Decision Fatigue Esakal
+
+[मूळ बातमी वाचा](https://news.google.com/rss/articles/CBMinAFBVV95cUxQU2hDMDVLT1pPVlNFTVVxTEgwNmpmVHdqdzl1eGR0V3pSWHFqSndqM2hZM014WmFuVUN3ektvNHlwdjdNN1kySmtWWjllTUR5NFhnWEhJLWpDNmNvQkxiN0ExdjJFNVQxX1lOSmxvbzFRb3J0UTRMZjEtN3RiWGo1SVVjd0F2b2hLQ2hRLW1fNWQ1SnpYNzBqZ2RoMTE?oc=5)
+
+---
+
+## 6. India’s surge in the space sector, driven by ‘startups’ - tarunbharat.com
+
+**विभाग:** भारत आणि स्टार्टअप
+
+India’s surge in the space sector, driven by ‘startups’ tarunbharat.com
+
+[मूळ बातमी वाचा](https://news.google.com/rss/articles/CBMihwFBVV95cUxPaU9uTHV1ZkQ5X19YMndUa2ZKOG1BVVNoN2pjcldLT0Z5eVNsMjI5czQ2MG1Dc2lBR1M0SGlmMzhjMzJiTXNCWDNpZk1IaG5WRk1kMjdJLTl1LTRTWXo5bU1rUU1paUdjZ1FzR1VvLWUtekpRUXIyUUQtQnNZTXRZQXF0QlNEa0U?oc=5)
+
+---
+
+## 7. हरवलेल्या क्षमतेचा शोध! - My Mahanagar
+
+**विभाग:** तंत्रज्ञान
+
+हरवलेल्या क्षमतेचा शोध! My Mahanagar
+
+[मूळ बातमी वाचा](https://news.google.com/rss/articles/CBMiowJBVV95cUxOdkFDYW9nX0hncWZZeWJYTVZpMXctVUdKelFQd2lQSVB4dGZieEN3ME1PLVRUb3hORGRkTHh0V2VUX21tNTVMSllUOVpYVE5xQ01CdXhJeTZLbm5GOGdtUExDbkFmR0lnVWprNTNqZDBEakJRNC1IbTJ4UmV3dTNvbkQtQ3hLclA1dnAtYzdOaEg1VHROanBIci1qLW9nbHA2d1h6MFo4TlF2b0RVQnpOZHZCbnF4WTJKWXlLWlpyajBPeThKSVcxd0Z0cHFZbkI3SFV1Rk5hQ1hvaWxwUXlhRk1VRzBjQjdWQ1VYU1RsWWlGUmNYbXNwUmw5MEFYaTI4OWEyZmFzRVlCYlQ2b1pRdE1iNnZYNWtkWVdrTm9Na2Z5bUXSAagCQVVfeXFMUDZlZG5jN01tbDRTcjBEWEU3N3NuaThobE45OEJLU3VYS0dObVliQ0xHbjR6amJLQWs2ZlZHYVkydFdmck4wWk1mczc4SWdKLXJZcnN4THVZVjhxMG9rWHlzdV9TRzRFd0V3UDhwQm5DN2V6UmNvVzdCaE5LSXFnY0FmeTk2VW5COUM3b2c2TGszSTc3YmtfU1VCT0xLd1F6V1ByNHVjblVWbDRrMUVJdHN6X1lCeXNZU3FtMlNWSXJsSWgwTWxJN2RWOFA5SHZySDZKbFlQZW1CVHFHZHcyaS1mZGlmZzVQaDY2NU45X3NJVS1hc3UwSFdtU2k1UFZUYXd0R0xiLVZhUUNCZkIzUGRxT2FMc085MVE0bjVqb1d1bk1NTFh2QVQ?oc=5)
+
+---
+
+## 8. Women In Agriculture : महिला सक्षमीकरणातून शेतीला नवी दिशा - Agrowon
+
+**विभाग:** तंत्रज्ञान
+
+Women In Agriculture : महिला सक्षमीकरणातून शेतीला नवी दिशा Agrowon
+
+[मूळ बातमी वाचा](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVzVHcWlRMkFHM1MybDBXNkJfb2hmNWNuZlpwUm9WVGNVSzVEdlhSVGQtckl3RUhjN3VRTTRmalZNMnVVaGZ1NWY4ME40bHh6ckRRNnVLaC1oUGVjOTM3NXFCLUJnZENxb2VKWmhTT0xYYmxZRUk0OU9TVXp5emZiWlBJR2FTYTBtV25aTHZUMUUzRTlTY0JnWWdBQjZxVUJCVFBYY2pWQTJndw?oc=5)
+
+---
+
+## 9. गुगल, मेटा आणि रिलायन्स एकत्र! भारतातील AI तंत्रज्ञानाच्या विकासाला मिळणार आणखी वेग - Maharashtra Times
+
+**विभाग:** AI आणि कृत्रिम बुद्धिमत्ता
+
+गुगल, मेटा आणि रिलायन्स एकत्र! भारतातील AI तंत्रज्ञानाच्या विकासाला मिळणार आणखी वेग Maharashtra Times
+
+[मूळ बातमी वाचा](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQMThPN3kxaXBKNFF1dDNYVTNRdTdwOVYzWEI1bENSeUJyYTBRYmJFeWJXV2U5dUVsMFk1eG9VelpuemhSQnBQbURtUF9yOVJuaHNsZGtfRmlyZXhJNGZiMlB5X2o5bk5qYzlNbTZGeVF1bkxldVR5OFY0S2FVOGFWdWc3Nkx2cU0zSDd6TTRvQWpnQ01fVnQtTVgxUnFaSEVmT0lHb1MtSUozMFNoWUZweWdPVkJoZDRQQTE3QWQ3YnJXaklCUVVITXpfOXlXb0dqTnRiTDBpd2x4cG1ZTEM00gHfAUFVX3lxTFAxOE83eTFpcEo0UXV0M1hVM1F1N3A5VjNYQjVsQ1J5QnJhMFFiYkV5YldXZTl1RWwwWTV4b1V6Wm56aFJCcFBtRG1QX3I5Um5oc2xka19GaXJleEk0ZmIyUHlfajluTmpjOU1tNkZ5UXVuTGV1VHk4VjRLYVU4YVZ1Zzc2THZxTTNIN3pNNG9BamdDTV9WdC1NWDFScVpIRWZPSUdvUy1JSjMwU2hZRnB5Z09WQmhkNFBBMTdBZDdicldqSUJRVUhNel85eVdvR2pOdGJMMGl3bHhwbVlMQzQ?oc=5)
+
+---
+
+## 10. पुण्यात 8 ऑक्टोबरपासून ‘एडब्ल्यूटीआयएस’ तंत्रज्ञान प्रदर्शन: संशोधन, उद्योग, नवकल्पनांचा संगम घडवणारे प्रदर... - Divya Marathi
+
+**विभाग:** तंत्रज्ञान
+
+पुण्यात 8 ऑक्टोबरपासून ‘एडब्ल्यूटीआयएस’ तंत्रज्ञान प्रदर्शन: संशोधन, उद्योग, नवकल्पनांचा संगम घडवणारे प्रदर... Divya Marathi
+
+[मूळ बातमी वाचा](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQUmZyTEYxV1JNVEd2a3NLd2JPUmV6RUIzZVZQMVJJNDU1X1d3aHRJMFlCamk0ay1kQW5DS25UZjhwbldhbjRoTG5TMzJiMkpnaHFib18yZGFYd3k4ZFE2ZzdQaUhOdVVGQUhSTTlNYzJiUUE1bFJqZ1ZRRlBNa0Z0aHF2b0F1ODcyT1hSVTk0OGRoRTgtZXlBTmZKTUlxbG9Ncm5GaDRKcERXY1ZCMTdrWHg0WHdCYm9JbmtQQUJDaFUwcHN4R3NBX2tJeTIxcV80UUU1Q09aY9IB3AFBVV95cUxQMnBpTUp6QVNjSkdfN3Nfd2ZLcXhxUkszRUxzdTJ2TGp5QmRnYzRzUXg3cm5GR0xXS3pOc3ZTQkpab25Nbl9sbUVpemtUempOeWNYMFRWREhVYm1DMVJhNVRhWldEWUNJajJFd0ljdU91bWhEdEcxRkZMY1daYUFnZjJpNUpFR3BlbDZJZzZZNkRTeTFxV0p3ZHdDSGdvekJVUUExbW44QnJsbmtMNmlqal9rVzRWY3lNYjk0SWd3WFlGNjN1cmtsdTlDQ0RobldZd25Hd2ZnN2FMU1VL?oc=5)
+
+---
+
