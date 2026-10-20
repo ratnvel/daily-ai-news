@@ -1,0 +1,102 @@
+# दैनिक AI आणि तंत्रज्ञान बातम्या — 2026-10-20
+
+## 1. शैक्षणिक: राष्ट्रीय नवोपक्रम कृत्रिम बुद्धिमत्ता, तंत्रज्ञानाच्या क्षेत्रामधील नावीन्यपूर्ण शोधाला मिळाले यश - Divya Marathi
+
+**विभाग:** AI आणि कृत्रिम बुद्धिमत्ता
+
+शैक्षणिक: राष्ट्रीय नवोपक्रम कृत्रिम बुद्धिमत्ता, तंत्रज्ञानाच्या क्षेत्रामधील नावीन्यपूर्ण शोधाला मिळाले यश Divya Marathi
+
+[मूळ बातमी वाचा](https://news.google.com/rss/articles/CBMinAJBVV95cUxNM01DVGozd3FYVXFMcDVtd3pjb3JSZnhSTmFIaGw0dmtTekJ5QWdsS3lSRFgxbi15aXFrS2I1Zl9kS09jVG5xUWl4Vlp4bnpKak9FcWVYUm01RUtUSWo5M2hOMHY5R1RCWkVpSzhtdEY5Tk5zNkFnTUJhN0Etek5kRktWOGhOR3RQSzhTSkQxQmJ1aU5HWmNlVVNOVVdlZlpJNEF4YU11am5SU1kxWXRvdWNRNGNPVDVZb0hqVzhHeWtseWhXcDFyYTQwRUJwdWRPUEdfQy1tdXdfeDkweXEwUHlaTzA0MVctV3RhN1Myc2YwMFFHdzhTT18waDk4dDVyRFoxSHpyempORGlJYy1EYWlzVTV3b0xndER6StIBogJBVV95cUxPekI0U2ZvVVMzSkJEaHB6eFlHdDgtQXFTQy1Ub1pOODN4c3VCcnd6ZS1OeFF0TThqbElpeGlBSU45UzJqcWhVdVN5WEhwVTZIc1pybEoza21MeWQtcklidU9UX21TeW50UUxLWDk3ckhlNGdrbGkzNTZWUlIzZ2lqR05TVzVUSW54R3VneGVtUjdrSF93X0xlcEkzb2pGeUVLRGZmcDc3Umt0VVlfRU9LOWlZSk52d3didmdfMnpVUi16LUJoaFJzZGZVbmpBMEthQ012Y1pFc1RYNFZkb1FnQ0tRV0JwWXFiVHVDeHMxWmhTbGFvb1BSUWxKNTJwSE1Yclkxa2FLOUdPVU84ZkFFNkV4R05RUlBKTXZpUTFtSGVlZw?oc=5)
+
+---
+
+## 2. Empowering Women Farmers : शेतकरी महिलांचे श्रम कमी करणाऱ्या उपकरणांचे प्रात्यक्षिक - Agrowon
+
+**विभाग:** तंत्रज्ञान
+
+Empowering Women Farmers : शेतकरी महिलांचे श्रम कमी करणाऱ्या उपकरणांचे प्रात्यक्षिक Agrowon
+
+[मूळ बातमी वाचा](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNblZYOGVtU1hUVllIdVUxMzZwVnR6WUtNbFRRa2YzOUFIVzFkWW1LR19pWllmWUREWTJ3MmZNLVZJdkMwUEV4MWozNkVLa2Z5NlF5UnhPN1FCWWdRV0VoRlo0dDRXU0NEMU9kNmJIZXlXc3EwTnd5SDZjMkxsaURqMTYtLVp5anhfNTRnN0pTRl8xU3h2dzRmbUJnUGNvNnBuRnc4bjN0bkY?oc=5)
+
+---
+
+## 3. Nashik Crime News : AI चा वापर करून नोकरीच्या नावाखाली लाखोंची फसवणूक! दहावी पास ओला चालक पोलिसांच्या जाळ्यात - Prahaar.in
+
+**विभाग:** AI आणि कृत्रिम बुद्धिमत्ता
+
+Nashik Crime News : AI चा वापर करून नोकरीच्या नावाखाली लाखोंची फसवणूक! दहावी पास ओला चालक पोलिसांच्या जाळ्यात Prahaar.in
+
+[मूळ बातमी वाचा](https://news.google.com/rss/articles/CBMigwJBVV95cUxNMjlpNVdPdHVQT28wYXlVV1ZrbnR4VXVPY1YwMWNBV2tnZmdTMHQ5ODk5WDVPcGI2VTdubEZXdzZPZ3FhX2JmYXp1M3FYRnFXN1M3el9IUTRQeldPc083NE1rZkpFZVVyOWR4bmtqV1R0cDA2WS1QTVpsY1VmaVRQdnE5eC1EWUVXZkhUTjhLWExrZkdpZTNuOEJQRXNlN0dVWHRmMFN6RGVMTjVRVm8wbG1NS3Q3UUVMQ1NJai1QRHVjY1hkWndqdnJUbTVud2N0MUNiUzFCNlNXSHMwMmE5cU5oN012M2NOeHYtdXI5OUp2THZ0YjNuNnc3Z1lqUUp6OGdJ?oc=5)
+
+---
+
+## 4. 5G, 6G, सॅटेलाइट आणि AI! जिओ प्लॅटफॉर्म्सची जागतिक झेप, पेटंट अर्जांच्या यादीत मिळवलं टॉप २० मध्ये स्थान - Maharashtra Times
+
+**विभाग:** तंत्रज्ञान
+
+5G, 6G, सॅटेलाइट आणि AI! जिओ प्लॅटफॉर्म्सची जागतिक झेप, पेटंट अर्जांच्या यादीत मिळवलं टॉप २० मध्ये स्थान Maharashtra Times
+
+[मूळ बातमी वाचा](https://news.google.com/rss/articles/CBMi9gFBVV95cUxPS1FqWWdDT3lpUWQxcUg0V2d6XzNnVUVMZDU4aGNveG5ZZHlkTVJDekljNlNqZ0F4M19wV1JqQmt2SFY3a3ZFTHBYUkJ6R05xUEdaNGEwT1J6RWs5T2plNTdCV055TEhUcThuR3hCV0dRQUVCYWpWSlFsZ0xHeE5fVElEV016SmdiZlM4aDNvenFvVS1mbElIeUhqVUMzWmgtcnZkNmlCSWttYk4xTG5RdDBEWXduVGNlT3RJOG4wRXJTMkZJejFnN0FMUnFHdWxOZlFaSmZxdUktNWxUNlZRNGYwZWQ2SncwSkhic3NBQjBMa29zRlHSAfsBQVVfeXFMUFV1aHI0THNmRVlLWFl0cE41Z3lEYXJlekhxTG9KOTVLVVpMTTNGSnRJSkxQVUhZLVRscWRwUDVkNnRNR3Nra0VnRVdBRE9tYlhZbGNvVjVvelByTjFfakVZeHRwdElmbjc1alhib1pySk5zQU1Fc1MwT2dwYVBDOElnNEM4TlJaeGgtb2l0TzM0ODZnZ3oyS0M2R2V4bHJ3QlBCdkxlQl9OT1pUWWVlU1lLNWhFcFNGSENQZlNfRS0tRktfMG5SckR2eFpQTDRVMG9JUGtRWjJCc09nYlZSenJzdDFVNjNNbm56eGM0eDBUMTBpYXVRd3VTYzA?oc=5)
+
+---
+
+## 5. 2 पैसे जास्त गेले तरी BMW घ्या, बंदूक डोळ्यासमोर असूनही टायगर श्रॉफ वाचले, टेक्नॉलॉजी जाणून शॉक व्हाल - Maharashtra Times
+
+**विभाग:** तंत्रज्ञान
+
+2 पैसे जास्त गेले तरी BMW घ्या, बंदूक डोळ्यासमोर असूनही टायगर श्रॉफ वाचले, टेक्नॉलॉजी जाणून शॉक व्हाल Maharashtra Times
+
+[मूळ बातमी वाचा](https://news.google.com/rss/articles/CBMiqgJBVV95cUxNR3RRSThCR2pGVUxRbll5ekFqMW9uS1NPZW53eGg2bU1tZjlNYzlIVWJpeEhRdENtY1dhQVpXMldoMHJIb1dTejRNU2ljMUh4ZXg4Q2dvU2tBaTJJUFFGWGtFTlJUSTllOUhxcjVobFJwa0U5eE1weWl2ME1FY1g5RmFuODJ5YVczWTZxYjZvdmVSdXJiSjZIUmotMnc3RnJuY05PYlFxZHBDZGx0RW1CYmJQc2ZKcV8tZTFCc1NmUGdfV3NJSzRxR2N0cUo3Q0VqcTVqMUZjWmR2QW03RHI2OXZlbFJIUWNkSDdBMDRiMTlFNFhiV1FxU1dUUlR3SnNRWTZKR3VKcTh2NkdTa21HdE5CTFU1cjlERE42ZmhIOHVqdHhvSVdwRVpn0gGvAkFVX3lxTE5WQ0lzZ01OWEdlXzBWdFU2NDJxVHpxNUExMU5UcFh0Y1lpZzZzejdPcThPamN1SUo2Sk5GVmZ0cGZUenBENmVfUHBiRmh1NDlYNjdPUERITzc4TmJmcDAtbDhNTEowMEFaYXNPUGN4NW1zcGFTRFFQZkdLVnZwZDVIWFpsd3FPc2R5SGJhdnBDSkNVSWh0QXM1SElnRDE3endoNnRPOXhDVHJQRjctYVczd2U4cmFiMFd1N01Nck9vdW1zYXVBUzFjeDc1ZFNOcTVJTGx4ZnhqVkN1TFhISUNySjdqNk9SZGh6SGtpWmJlS2Jlb3kxNGdYSXVKcVZadmZmOGdjRUxpLTBtWFNudlFDRVItWFFWUHhxUDl3bEFmV0hFVnVDWTQyUG1Mc252aw?oc=5)
+
+---
+
+## 6. आता 'या' तंत्रज्ञानाच्या माध्यमातून दुधातून होणार पिण्यायोग्य पाणी वेगळे; धाराशिव येथील विनोद जोगदंड यांचा ... - Lokmat.com
+
+**विभाग:** तंत्रज्ञान
+
+आता 'या' तंत्रज्ञानाच्या माध्यमातून दुधातून होणार पिण्यायोग्य पाणी वेगळे; धाराशिव येथील विनोद जोगदंड यांचा ... Lokmat.com
+
+[मूळ बातमी वाचा](https://news.google.com/rss/articles/CBMijgJBVV95cUxNTEkzNHdNNGJDZ0IyVkhpXzlFM3lpa0pJeU1DdVpsWjdhYVFrRko4MmFrM1ByREhHMmJHNWpTMmltUHRDMFUwdzBVYXdTNmtSbU44SmZMaklQSlNFckFyeUdFdWhha1UtUExpTlh4YVFQeDNuUXV3VllUc1pBUXdSNG4yS0o0Znk3eGtRZDZRYUVySWN2QlNTS2s2VTRkazJSMnRpMklLOUZJbjFQWGJ4Q0txN3dzWUE0R2ZkVjFsVm9KcEVBWmtYcjZUX08tSExmVkJaVTJvSkh3OWE2dy04djBtd0lkM0ZUY2xDWklXaGRWd2k4VG1HWVlJNlRTYVY1SlR1ckF5UjlLVWswQ0HSAY4CQVVfeXFMTUxJMzR3TTRiQ2dCMlZIaV85RTN5aWtKSXlNQ3VabFo3YWFRa0ZKODJhazNQckRIRzJiRzVqUzJpbVB0QzBVMHcwVWF3UzZrUm1OOEpmTGpJUEpTRXJBcnlHRXVoYWtVLVBMaU5YeGFRUHgzblF1d1ZZVHNaQVF3UjRuMktKNGZ5N3hrUWQ2UWFFckljdkJTU0trNlU0ZGsyUjJ0aTJJSzlGSW4xUFhieENLcTd3c1lBNEdmZFYxbFZvSnBFQVprWHI2VF9PLUhMZlZCWlUyb0pIdzlhNnctOHYwbXdJZDNGVGNsQ1pJV2hkVndpOFRtR1lZSTZUU2FWNUpUdXJBeVI5S1VrMENB?oc=5)
+
+---
+
+## 7. AI and Future of Jobs कृत्रिम बुद्धिमत्ता, नोकर्‍या आणि आपला भविष्यकाळ - Marathi News - MahaMTB
+
+**विभाग:** AI आणि कृत्रिम बुद्धिमत्ता
+
+AI and Future of Jobs कृत्रिम बुद्धिमत्ता, नोकर्‍या आणि आपला भविष्यकाळ - Marathi News MahaMTB
+
+[मूळ बातमी वाचा](https://news.google.com/rss/articles/CBMitgFBVV95cUxPdzBYWUw1c2lWZUpJQURWS1oxM0RMazJVS0FEYi1RQnZYcnZCWnFTRjFhMHBsQ2gxLWZjWXpsRmVIQW9IdG92Rk5IMEU5SEY3Vk5idnc2Y2d1ZW9fUU5WekFPWjZmajBQbVoyUkxjUkN1aW5lWnp3U2R6X0RWMEJHS2JrUnI3bWZGVmd0S0tycldtZVVMekw3TlEtXzlkVTA5R1ZCRjZTeEp5ZHlsNEgzODBKNGs0dw?oc=5)
+
+---
+
+## 8. गोवा एआय टेक कॉन्क्लेव्ह 2026 चे 22 व 23 ऑक्टोबरला आयोजन; देशभरातून नोंदणीला प्रतिसाद : माहिती तंत्रज्ञान मंत्री रोहन खंवटे - तरुण भारत
+
+**विभाग:** तंत्रज्ञान
+
+गोवा एआय टेक कॉन्क्लेव्ह 2026 चे 22 व 23 ऑक्टोबरला आयोजन; देशभरातून नोंदणीला प्रतिसाद : माहिती तंत्रज्ञान मंत्री रोहन खंवटे तरुण भारत
+
+[मूळ बातमी वाचा](https://news.google.com/rss/articles/CBMid0FVX3lxTE9WUkFZSXdrNzNyUUl6eTJBMjY5aXc4SjBWNE5RTGQzdy0tT3B6bzR5ZVN3WUVCeDhEWDU5ZU9abXBzdDdiMExnN1VLejA5N1NoRlppQkQ2dDNnSUIyc3VET0tDWDZMT05FX2xMMUJDZ3FGbVpzNGFj?oc=5)
+
+---
+
+## 9. राजनाथ सिंह ताजिकिस्तानच्या दौऱ्यावर! SCO च्या बैठकीत करणार भारताचे प्रतिनिधित्व - Hindusthan Post
+
+**विभाग:** भारत आणि स्टार्टअप
+
+राजनाथ सिंह ताजिकिस्तानच्या दौऱ्यावर! SCO च्या बैठकीत करणार भारताचे प्रतिनिधित्व Hindusthan Post
+
+[मूळ बातमी वाचा](https://news.google.com/rss/articles/CBMimAFBVV95cUxPWElLbGFvZTRVLXpLajMwUk1fZzJYRTFEUGVrczlSR3BhZHFEbkJVNDlFNzVXaHFzLXE4cHl4ekRHOFN6TDByU09LT25PdkRGTy0wU3cwVVJpbWNZZS1iYUpuY0ZOQXdVQlFzUWhibTN1Q2tXX1JLUFpBX3k1UWR3RDRFeFZfUzV5Yk92N0Mxc05uclFyVHkxcw?oc=5)
+
+---
+
+## 10. AI In Agriculture : ‘एआय’च्या आधुनिक तंत्रज्ञानामुळे दुष्काळातही फळबागांना संजीवनी; सातारा जिल्ह्यात कृषी विभागाचा उपक्रम - Agrowon
+
+**विभाग:** तंत्रज्ञान
+
+AI In Agriculture : ‘एआय’च्या आधुनिक तंत्रज्ञानामुळे दुष्काळातही फळबागांना संजीवनी; सातारा जिल्ह्यात कृषी विभागाचा उपक्रम Agrowon
+
+[मूळ बातमी वाचा](https://news.google.com/rss/articles/CBMixgFBVV95cUxNY1BuZkFNRzNqSFF4bndSTzdKZkxlMW50aWhJc3JYT0hXYWFyM0hRZmZhVDhRV3NsQ0xGOEtiOC14X0FhZDVFbUxkQmlDQmxsZGxUOFloOERFeEl0dDd2V1NtTmdlRThCYnZHbVFabmE4QnFLN0huSTMyMzJzdTFWSVMtZ2l3QUJiMEk5V3J1Z0ltSngwWUQ4MTY5T1h1dGFMYnEtZVNKRWpQREtOY1FwZ3hENC1NT3NDdUVsSFlmazhSc2N1OGc?oc=5)
+
+---
+
