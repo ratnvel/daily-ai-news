@@ -1,0 +1,102 @@
+# दैनिक AI आणि तंत्रज्ञान बातम्या — 2026-10-24
+
+## 1. Poland's proposal for a technical partnership - tarunbharat.com
+
+**विभाग:** तंत्रज्ञान
+
+Poland's proposal for a technical partnership tarunbharat.com
+
+[मूळ बातमी वाचा](https://news.google.com/rss/articles/CBMifkFVX3lxTE9rLVNZRFY5ZFJnUlVqekpNWHRBTEF5QWxha2ZIQ3pmNjJyNFZQV0ZxcXJpbEpCZVRNelpvVW5RX2hmZlpRYTJ6TTlmWFpSRVFQN1p1RHlRWUZVOGt2NS0tcVdGXzN5Q2R2UUF2dmJHLVNmb3hLZ01KNWlCZk1kQQ?oc=5)
+
+---
+
+## 2. रक्तातील कर्करोग पेशी ओळखण्यासाठी स्वदेशी तंत्रज्ञान; पुण्यातील Actorius ला केंद्र सरकारची मान्यता - Hindusthan Samachar Marathi
+
+**विभाग:** तंत्रज्ञान
+
+रक्तातील कर्करोग पेशी ओळखण्यासाठी स्वदेशी तंत्रज्ञान; पुण्यातील Actorius ला केंद्र सरकारची मान्यता Hindusthan Samachar Marathi
+
+[मूळ बातमी वाचा](https://news.google.com/rss/articles/CBMijwFBVV95cUxNbTI3aGNHRjVXZk9JOXZUbmd4NmlOYmxfLXF6ME8xVmxuZTFCd2tiV0NMR1Nacm1Kalg0QWxKOWpCU01DRWVsZUJkcEZfQy1Ja09ESjd1YzFFeEEyaUZmUWgxZkpadmUwX1ZTeXFHQ05mMmE1a2dmcDFmcUVrakFPVXp4QWNUN1FLc3JKTXRZOA?oc=5)
+
+---
+
+## 3. Oppo ने २००MP कॅमेऱ्याच्या स्मार्टफोनसह लाँच केले Pad Mini आणि इअरबड्स; फीचर्स पाहून व्हाल थक्क, किंमत मात्र… - Loksatta
+
+**विभाग:** तंत्रज्ञान
+
+Oppo ने २००MP कॅमेऱ्याच्या स्मार्टफोनसह लाँच केले Pad Mini आणि इअरबड्स; फीचर्स पाहून व्हाल थक्क, किंमत मात्र… Loksatta
+
+[मूळ बातमी वाचा](https://news.google.com/rss/articles/CBMi7gFBVV95cUxQYXpPTURyQnVZdEFTLXdQSG1raXMxX3lwRGtULXp1bFBsTDg5R0o1cjZOYUZseENOQ3RvWVRNd3otcGozUzlzUFp2Y0dMWWgwN2ZPLTdpWC02bXNOcXhfUkVxaE04aTFhX2s4RzNCa2p6cW9FdkJJT2VSUHpKWXNWZ0N2akRBY3lWMUtVTWZCVU1DdU9adG5IUWpfc3VTcVB0R1ljTFB5WWdlT0lIUU9QRDQxYjdpSFJsTUJyTFJxeVgtaF9EZGx5Q2tiSjVMOWw2QnZlZDVTd1Rpa3NxalRiZ3ZCUERidmliLXBYa3pR0gH0AUFVX3lxTE14ek1zbkZYQ1VzS1pIWkV0di1QU1RYakR2UjBCcHVHVWxGZzVodm5qZUxtWWVGVHFSdGg0VXVmWDdKSmloV015dnhrTmROUzlpb2V0WXk1NjdnN3N1N1A3dW1DOWplY1lDVGppdUEwckNUY0JYdVc3N2hLQlpVTWtZdlhfOEVscXNHN2JpMGRzMzlMOW5aX0hJdVE2NFBEbC1YYkZWSGt4QkRSa1RsZWRSVzVlOVJuUWV5RV9xejl5RGxfZVNUVXg5dEtjZktjc0JESE9Ob2NrUHZfQ1JoaGlxT2VCQXE4amFBU29pbnhZOWF2bEg?oc=5)
+
+---
+
+## 4. अमेरिका-चीन AI स्पर्धेत भारत कुठे? जागतिक AI व्यवस्थेचे नियम ठरवण्याची संधी - orfonline.org
+
+**विभाग:** AI आणि कृत्रिम बुद्धिमत्ता
+
+अमेरिका-चीन AI स्पर्धेत भारत कुठे? जागतिक AI व्यवस्थेचे नियम ठरवण्याची संधी orfonline.org
+
+[मूळ बातमी वाचा](https://news.google.com/rss/articles/CBMimAFBVV95cUxQUTc5cWFpeVRZaXpQZ0hCekVsSUNlSDZsNkQwQzhTekJIaGtIalVTLVZEdUJkVXVBMGZwZDFscFQxc0RvMHRpT0dXd1hpN0xvb3lRclFnS2N1SHZIVktmc01qYUZqWXdSVFQzcmlRQzVpM2hVVTlPUDR2R2RPdGV1aTdmenJqTDdjYXU1NmpHa0tKUnJjaktiZQ?oc=5)
+
+---
+
+## 5. Sugarcane Workers’ Children Education in Beed ऊसतोडणी मजुरांच्या लेकरांना मायेचा आधार! - MahaMTB
+
+**विभाग:** तंत्रज्ञान
+
+Sugarcane Workers’ Children Education in Beed ऊसतोडणी मजुरांच्या लेकरांना मायेचा आधार! MahaMTB
+
+[मूळ बातमी वाचा](https://news.google.com/rss/articles/CBMi6wFBVV95cUxOSC1kZFROaTM5X1o5aEhPeGlRMi1RZ3AyWnhBMTVOcWx0TzBadGZyVFd6bjBqaU4yT0hCbnI0aDZHeFNhRUFSdHJPT29UcFlTTEpQOUF5SW5nUm9Dbi1hRnNTRC1YV2d0cGliTGpoX3FiNGlCTWtDd1BJZWdTc2VIek9QaUh1TzVsZVQ3bFhsQlphTnNVeUp0NFNpU3hSYTNNcTFqMU5xTDVEdTc0SFp2LWo0bDB3RExkVnNSd0hrMGNxWmVnaEQ0d05WbElwV2I5RG1UZDZGNHlDb0Z2MG5FVWM1RGtQSWcxcFVJ?oc=5)
+
+---
+
+## 6. Make the most of AI opportunities - tarunbharat.com
+
+**विभाग:** तंत्रज्ञान
+
+Make the most of AI opportunities tarunbharat.com
+
+[मूळ बातमी वाचा](https://news.google.com/rss/articles/CBMib0FVX3lxTE9Jb2tTT2U4dGI0SDlNYWIxaEdMUTZKeHhyQzVNdnY1SGFQWUcyWHIzSjFiazhSUG1wS1JQTTJySUl1ZHNPS29sS2FFNTJfQ1FGQmVRaWF1d0RmMkFlOW9qbTAzRHNDNTZlcjlOaUlkMA?oc=5)
+
+---
+
+## 7. जगभरातील सायबर सुरक्षा यंत्रणा अचानक सतर्क का झाल्या? जाणून घ्या PHP तंत्रज्ञान काय आहे - BBC
+
+**विभाग:** तंत्रज्ञान
+
+जगभरातील सायबर सुरक्षा यंत्रणा अचानक सतर्क का झाल्या? जाणून घ्या PHP तंत्रज्ञान काय आहे BBC
+
+[मूळ बातमी वाचा](https://news.google.com/rss/articles/CBMiX0FVX3lxTE8yeGhqcUVuTUdsVHJKU0ZZUFNGa1lyajFKUU1Kdl9WSWQzWkczRkN4dVp4SmRuTVJyc3hDUWFFd3E2SFp4YWpGdDFHcF9Ea1VUVzJtMUVpaEM2RzllSDNN0gFkQVVfeXFMTjZBeEZuYkJqMmRJdGp1SWQ4ZHJka08xVkVRRWNFdV9UNzcyRHIyUkZzdVE2Q2Y2NXl2amcxLS1Jd3Zwd0NEXzVNeVRHS1JvdnBUbXQyblAyRVNBdlNud3RFM01jdA?oc=5)
+
+---
+
+## 8. AI Policy 2026: गोव्याच्या 'एआय' धोरणासाठी 250 कोटी; 50 शाळांत प्रयोगशाळा, 50 हजार तरुणांना प्रशिक्षण - Goa News in Marathi - Dainik Gomantak
+
+**विभाग:** AI आणि कृत्रिम बुद्धिमत्ता
+
+AI Policy 2026: गोव्याच्या 'एआय' धोरणासाठी 250 कोटी; 50 शाळांत प्रयोगशाळा, 50 हजार तरुणांना प्रशिक्षण Goa News in Marathi - Dainik Gomantak
+
+[मूळ बातमी वाचा](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUWJpOFlFTlFBT091V1NqcDMwVGZOVnVmTHFlcXN6VkdiREZKYTdOTmpEZnNWQTc1ODhiYzk5YnN3S1RwUlZLdXAySy02LXlLMFZqTkM3cF9BTTFEWnpDUTNCNWNmSTB6MHdzWTdQaVlSRkNpSWlWVjJZSU4xb25DZWhReUJnRUVucFBQVG40OThDVG1DNHhmeUkxUzlvdjFIRVRibDd3T0VQQlJMQkZqbG41ajBEU2ktOHVTR2xybzHSAcABQVVfeXFMTlFiaThZRU5RQU9PdVdTanAzMFRmTlZ1ZkxxZXFzelZHYkRGSmE3Tk5qRGZzVkE3NTg4YmM5OWJzd0tUcFJWS3VwMkstNi15SzBWak5DN3BfQU0xRFp6Q1EzQjVjZkkwejB3c1k3UGlZUkZDaUlpVlYyWUlOMW9uQ2VoUXlCZ0VFbnBQUFRuNDk4Q1RtQzR4ZnlJMVM5b3YxSEVUYmw3d09FUEJSTEJGamxuNWowRFNpLTh1U0dscm8x?oc=5)
+
+---
+
+## 9. हात न वापरताच वाळूत सुंदर नक्षी! Automatic Sand Art Machine कसं करतं काम? - Marathi News | Live News in Marathi | मराठी बातम्या | US-Israel-Iran War
+
+**विभाग:** तंत्रज्ञान
+
+हात न वापरताच वाळूत सुंदर नक्षी! Automatic Sand Art Machine कसं करतं काम? Marathi News | Live News in Marathi | मराठी बातम्या | US-Israel-Iran War
+
+[मूळ बातमी वाचा](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQYzJmdjJPd2cwLW5rWjFvVHJuQXJ2SEVKSlA4RWNjc0REV2RZc1h3N2pnWG41MFh1Ql8tNzM3NU41ZlhGTGdPdDB2b2poUE10VzlmXzVjV1JyQ1g1TXBpWXd5eXEydmZNc0FMLTZHc3JzbzdZandmMnEwLTRkeVkxeTl0NnZlV1hmMzRHbk1rdW9HbldQX0o4MjJWXzZ1RmMyeHNhTnBwSTdCamlTTUpMUnNUY3Z6elR4X3dMb0pIbC1EQW44REltODhJMk1qRXY2Rzc3WVItVUt5dnZSanc0NldPQdIB4wFBVV95cUxQYzJmdjJPd2cwLW5rWjFvVHJuQXJ2SEVKSlA4RWNjc0REV2RZc1h3N2pnWG41MFh1Ql8tNzM3NU41ZlhGTGdPdDB2b2poUE10VzlmXzVjV1JyQ1g1TXBpWXd5eXEydmZNc0FMLTZHc3JzbzdZandmMnEwLTRkeVkxeTl0NnZlV1hmMzRHbk1rdW9HbldQX0o4MjJWXzZ1RmMyeHNhTnBwSTdCamlTTUpMUnNUY3Z6elR4X3dMb0pIbC1EQW44REltODhJMk1qRXY2Rzc3WVItVUt5dnZSanc0NldPQQ?oc=5)
+
+---
+
+## 10. गोवा AI धोरण २०२६ जाहीर; विद्यार्थ्यांना प्रशिक्षण, नवउद्योजकांना प्रोत्साहन, रोजगाराच्या नव्या संधींवर भर - Lokmat.com
+
+**विभाग:** AI आणि कृत्रिम बुद्धिमत्ता
+
+गोवा AI धोरण २०२६ जाहीर; विद्यार्थ्यांना प्रशिक्षण, नवउद्योजकांना प्रोत्साहन, रोजगाराच्या नव्या संधींवर भर Lokmat.com
+
+[मूळ बातमी वाचा](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPNUtzdEVocGlzak1USGFaSDBXeXVaZTJBeVlJSEx6MXJFWjlHNklZdHJXVnRodlVrc3pyZThjdlBtQWQxZWVyYVQ4Y1ZBUjQwYjJ3RlNhcmltRDVQQngyZVM4RWRuZ01LOVMyMjBSVmVEdGs0REY5cEgzZ2hvR3EtWjROX0FQcnpiaGtBUHppYVdRZjBPdmRHOXZvM0xyVVluZVVPZjEwTzEtSldDUTJaQnptNGdCQ2gwVGdWd0NtNVJKYzRYc0tDRnhEOWNoQnVUMDdOSW5iUDdWVHl3UmROMnV3WVZVc09v0gHoAUFVX3lxTE81S3N0RWhwaXNqTVRIYVpIMFd5dVplMkF5WUlITHoxckVaOUc2SVl0cldWdGh2VWtzenJlOGN2UG1BZDFlZXJhVDhjVkFSNDBiMndGU2FyaW1ENVBCeDJlUzhFZG5nTUs5UzIyMFJWZUR0azRERjlwSDNnaG9HcS1aNE5fQVByemJoa0FQemlhV1FmME92ZEc5dm8zTHJVWW5lVU9mMTBPMS1KV0NRMlpCem00Z0JDaDBUZ1Z3Q201UkpjNFhzS0NGeEQ5Y2hCdVQwN05JbmJQN1ZUeXdSZE4ydXdZVlVzT28?oc=5)
+
+---
+
