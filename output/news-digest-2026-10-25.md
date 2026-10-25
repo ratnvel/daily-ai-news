@@ -1,0 +1,102 @@
+# दैनिक AI आणि तंत्रज्ञान बातम्या — 2026-10-25
+
+## 1. साय-फाय – विचार वाचणारे यंत्र - Saamana
+
+**विभाग:** तंत्रज्ञान
+
+साय-फाय – विचार वाचणारे यंत्र Saamana
+
+[मूळ बातमी वाचा](https://news.google.com/rss/articles/CBMib0FVX3lxTE1SNk05Mk15TDFHbzhocW9ia283amNkTllxMnlJbkQwY0FIRnNQQVZKMmVKb2RKd0ZOTUZ0OUlTVnZDeVU5T0JlSTlKVWNCU0VBdTU3b0hrRG1JS05hWTlWMUJfZlFfQ0tZclV3U3F3MA?oc=5)
+
+---
+
+## 2. Jaykumar Rawal | दोंडाईचा येथे मॅग्नेट 2.0 प्रकल्पातून राष्ट्रीय सुगीपश्चात तंत्रज्ञान संस्थेचे उपकेंद्र उभारणार - पालकमंत्री - Pudhari News
+
+**विभाग:** तंत्रज्ञान
+
+Jaykumar Rawal | दोंडाईचा येथे मॅग्नेट 2.0 प्रकल्पातून राष्ट्रीय सुगीपश्चात तंत्रज्ञान संस्थेचे उपकेंद्र उभारणार - पालकमंत्री Pudhari News
+
+[मूळ बातमी वाचा](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRmVZeDRVZm1EcGFINHVXMlBoelk1TWJXV1N1OGNzVFBRTmZBMDcxMHdOd0pMRUhCYnJNbkVsRVc2cG9oTExHbENFb0dsQ1FuNThSa19keGE4c0lnUTBhQk9YLURRMjdkNnpnVjB1LUNfY3NtM0tIV2dvUkM0Q3JhbTJpRUFhWHZuMmYwZk0wX2tzcmVydnJJY3JzUWdPcE5QQlB2SVBZZnFuU2hFa1RzdmctWnFUNkZ0RmpVcW5CVmVKVk8wc3NnVE5idTdRdTZuM2wyRtIB4gFBVV95cUxOb2tkbnVGN1ZBcmlKR2RQT1VTeXVOVXZFbG9VZ3JKSVhnWVZ0LXpiYUtZTVNNUjA3ZVZaSTNqblpVNnAxNXFoSlNQTnZTNVhfdkJkRlZUNTFEeDk0TVpGWVdMMXdRdUxXWm42OWlkZDJqQ2JUNUFPRURES1pSU25SMlRneEZna3dQYXQzUFlRRm5XM2taaUF4MkhueDQ0SFlQNFhpVlhOOVJOQXVSaUdJM0dKeHlEazV4T2JLUmZ2THl1Y1R3UEFyVXQyeE0xVTMwTDRPaFlCYmFyM2QxZnhORldR?oc=5)
+
+---
+
+## 3. Made In India Smartphone Brand: ॲपल-सॅमसंगला देणार टक्कर! भारत 2028 पर्यंत लॉन्च करणार स्वतःचा स्मार्टफोन ब्रँड; केंद्रीय मंत्री अश्विनी वैष्णव यांनी दिली मोठी अपडेट - Esakal
+
+**विभाग:** तंत्रज्ञान
+
+Made In India Smartphone Brand: ॲपल-सॅमसंगला देणार टक्कर! भारत 2028 पर्यंत लॉन्च करणार स्वतःचा स्मार्टफोन ब्रँड; केंद्रीय मंत्री अश्विनी वैष्णव यांनी दिली मोठी अपडेट Esakal
+
+[मूळ बातमी वाचा](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbWpvTlBXd2hFWTk4N0s1bUFKV0VCQXZpcWxTVnlJMkhWUHVZNElhTm84NnJwcHM5eUh3TUw5Qkk3ZkYxMlcxUlFEbGNUenVwdlJlRHEwZl83ZTBIN1g2RWNtZHowTTJsdWRyV0tVSEpZT2dDUDdveDQxZkVMeVZOeW93Nl9jTXlxdGxJQ1BCUmNOVmlCVkFsMmJWUktwcVlrUXo4bFVxYi1xT1l3NDM1WkluR3NOeGFDR3E00gHIAUFVX3lxTE5KMnZnNFhUbkdxa19oS1NoMzdjb0hLa0xld2xMckc0aXBzVkY2dF9rMzFXSXJ1SkFYMm4zR1dlU3hxX3hsajVDbWFVeFNQQ1c2U050cDBaMnJ2QzZ6anpoQk5xamZCTVBJV3dVMFg2dnk3OG9aaE9DODFqRk1ORFE4UG9KdG1HNFdNdVBrTFpTYWdhdXNxUExpWUk1ZlVIZDc5SVhVaDNhZUd1Q1RqNEN5cDhSaHN4aC1JekV3djJuTXNVVXhjSTdE?oc=5)
+
+---
+
+## 4. आनंद वार्ता : खानदेशच्या शेतकऱ्यांसाठी नवी पहाट; दोंडाईचात उभे राहणार राष्ट्रीय तंत्रज्ञान केंद्र! - Loksatta
+
+**विभाग:** तंत्रज्ञान
+
+आनंद वार्ता : खानदेशच्या शेतकऱ्यांसाठी नवी पहाट; दोंडाईचात उभे राहणार राष्ट्रीय तंत्रज्ञान केंद्र! Loksatta
+
+[मूळ बातमी वाचा](https://news.google.com/rss/articles/CBMiugFBVV95cUxQdkNkTFNoZ2hGZ2ctZ0hYb3prejhpNE0xa0tfOEp1WGVlMnZZTlBqQ1c4WFM2TGx0Q3JDZk0yZ1ZQVEhyQnJNWnFIb1kyQ1AtMEp5bTZ3RVlVZ25LRS1kU3JMTkcyWHJZQ2R0bW40YURzUmppLTFVaTZfYmlJRHhtcmdaRVFYcENiVDlTNXo4VHJoUEsyV2NLS1FJUFJIRW5PZEFUVnhqU3ZEbjAwN1lDSUloLU1rM1NscWfSAboBQVVfeXFMUHZDZExTaGdoRmdnLWdIWG96a3o4aTRNMWtLXzhKdVhlZTJ2WU5QakNXOFhTNkxsdENyQ2ZNMmdWUFRIckJyTVpxSG9ZMkNQLTBKeW02d0VZVWduS0UtZFNyTE5HMlhyWUNkdG1uNGFEc1JqaS0xVWk2X2JpSUR4bXJnWkVRWHBDYlQ5UzV6OFRyaFBLMldjS0tRSVBSSEVuT2RBVFZ4alN2RG4wMDdZQ0lJaC1NazNTbHFn?oc=5)
+
+---
+
+## 5. अभिजीत खांडकेकरसह 55 कलाकारांची फौज होणार एआय तंत्रज्ञानाच्या मदतीने साकारलेला मराठी चित्रपट 'बागुलबुवा'चा भाग! - ETV Bharat
+
+**विभाग:** AI आणि कृत्रिम बुद्धिमत्ता
+
+अभिजीत खांडकेकरसह 55 कलाकारांची फौज होणार एआय तंत्रज्ञानाच्या मदतीने साकारलेला मराठी चित्रपट 'बागुलबुवा'चा भाग! ETV Bharat
+
+[मूळ बातमी वाचा](https://news.google.com/rss/articles/CBMiugFBVV95cUxOQmpxNFNCOWU5YWpEN2x3aFZHZkhvQTEtRnprOUdWS1Fqa2EyOHVMNF9ZenY1cmFJU1dGSTJ0RFBtZzlrdlg2QUdGbEwtSGhYSXhIYTE1OGpiMXNkbG5xTmM3emktUGhfVzVtZWhOYTJhaU1Ub0RKa29LQlE5b3Z3TGtWT0hZREhWVUtfMDEtZnVEOHdnZHl4Sl92TjhsLWE0c3BFUXVUbFhYRnEzQUg1UWNlQm1rNGp4UnfSAboBQVVfeXFMTkJqcTRTQjllOWFqRDdsd2hWR2ZIb0ExLUZ6azlHVktRamthMjh1TDRfWXp2NXJhSVNXRkkydERQbWc5a3ZYNkFHRmxMLUhoWEl4SGExNThqYjFzZGxucU5jN3ppLVBoX1c1bWVoTmEyYWlNVG9ESmtvS0JROW92d0xrVk9IWURIVlVLXzAxLWZ1RDh3Z2R5eEpfdk44bC1hNHNwRVF1VGxYWEZxM0FINVFjZUJtazRqeFJ3?oc=5)
+
+---
+
+## 6. 2028 पर्यंत बाजारात येणार पूर्णपणे भारतीय बनावटीचे स्मार्टफोन: आयटी मंत्री अश्विनी वैष्णव यांची घोषणा - ETV Bharat
+
+**विभाग:** तंत्रज्ञान
+
+2028 पर्यंत बाजारात येणार पूर्णपणे भारतीय बनावटीचे स्मार्टफोन: आयटी मंत्री अश्विनी वैष्णव यांची घोषणा ETV Bharat
+
+[मूळ बातमी वाचा](https://news.google.com/rss/articles/CBMiygFBVV95cUxNbzBJeGVIQ2dYZVhUUlhKQkNWQzNGdWRYa0p4NEkzZjF2dWtuOC1LbFdVRlI1UHJ4bnZEY3dyeTA4aVk1VlBBMlJLT29mdGNON0V6c0VPakpDQjJyLXN1OFc5SGJsRWcxYnNVajk4d3ZGQWxodHU3TXRMei1wenlXakNSNF9hc096Y01nd1hnZG0wSnNtamtWVGtlb2NyNmxnUlJiTWpkeG80N3hXakhGamlVeDdjWUJvb096OHFJSC1zNTBhX0F6SU9B0gHKAUFVX3lxTE1vMEl4ZUhDZ1hlWFRSWEpCQ1ZDM0Z1ZFhrSng0STNmMXZ1a244LUtsV1VGUjVQcnhudkRjd3J5MDhpWTVWUEEyUktPb2Z0Y043RXpzRU9qSkNCMnItc3U4VzlIYmxFZzFic1VqOTh3dkZBbGh0dTdNdEx6LXB6eVdqQ1I0X2FzT3pjTWd3WGdkbTBKc21qa1ZUa2VvY3I2bGdSUmJNamR4bzQ3eFdqSEZqaVV4N2NZQm9vT3o4cUlILXM1MGFfQXpJT0E?oc=5)
+
+---
+
+## 7. Poland's proposal for a technical partnership - tarunbharat.com
+
+**विभाग:** तंत्रज्ञान
+
+Poland's proposal for a technical partnership tarunbharat.com
+
+[मूळ बातमी वाचा](https://news.google.com/rss/articles/CBMifkFVX3lxTE9rLVNZRFY5ZFJnUlVqekpNWHRBTEF5QWxha2ZIQ3pmNjJyNFZQV0ZxcXJpbEpCZVRNelpvVW5RX2hmZlpRYTJ6TTlmWFpSRVFQN1p1RHlRWUZVOGt2NS0tcVdGXzN5Q2R2UUF2dmJHLVNmb3hLZ01KNWlCZk1kQQ?oc=5)
+
+---
+
+## 8. रक्तातील कर्करोग पेशी ओळखण्यासाठी स्वदेशी तंत्रज्ञान; पुण्यातील Actorius ला केंद्र सरकारची मान्यता - Hindusthan Samachar Marathi
+
+**विभाग:** तंत्रज्ञान
+
+रक्तातील कर्करोग पेशी ओळखण्यासाठी स्वदेशी तंत्रज्ञान; पुण्यातील Actorius ला केंद्र सरकारची मान्यता Hindusthan Samachar Marathi
+
+[मूळ बातमी वाचा](https://news.google.com/rss/articles/CBMijwFBVV95cUxNbTI3aGNHRjVXZk9JOXZUbmd4NmlOYmxfLXF6ME8xVmxuZTFCd2tiV0NMR1Nacm1Kalg0QWxKOWpCU01DRWVsZUJkcEZfQy1Ja09ESjd1YzFFeEEyaUZmUWgxZkpadmUwX1ZTeXFHQ05mMmE1a2dmcDFmcUVrakFPVXp4QWNUN1FLc3JKTXRZOA?oc=5)
+
+---
+
+## 9. पुण्यात 8 ऑक्टोबरपासून ‘एडब्ल्यूटीआयएस’ तंत्रज्ञान प्रदर्शन: संशोधन, उद्योग, नवकल्पनांचा संगम घडवणारे प्रदर... - Divya Marathi
+
+**विभाग:** तंत्रज्ञान
+
+पुण्यात 8 ऑक्टोबरपासून ‘एडब्ल्यूटीआयएस’ तंत्रज्ञान प्रदर्शन: संशोधन, उद्योग, नवकल्पनांचा संगम घडवणारे प्रदर... Divya Marathi
+
+[मूळ बातमी वाचा](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQUmZyTEYxV1JNVEd2a3NLd2JPUmV6RUIzZVZQMVJJNDU1X1d3aHRJMFlCamk0ay1kQW5DS25UZjhwbldhbjRoTG5TMzJiMkpnaHFib18yZGFYd3k4ZFE2ZzdQaUhOdVVGQUhSTTlNYzJiUUE1bFJqZ1ZRRlBNa0Z0aHF2b0F1ODcyT1hSVTk0OGRoRTgtZXlBTmZKTUlxbG9Ncm5GaDRKcERXY1ZCMTdrWHg0WHdCYm9JbmtQQUJDaFUwcHN4R3NBX2tJeTIxcV80UUU1Q09aY9IB3AFBVV95cUxQMnBpTUp6QVNjSkdfN3Nfd2ZLcXhxUkszRUxzdTJ2TGp5QmRnYzRzUXg3cm5GR0xXS3pOc3ZTQkpab25Nbl9sbUVpemtUempOeWNYMFRWREhVYm1DMVJhNVRhWldEWUNJajJFd0ljdU91bWhEdEcxRkZMY1daYUFnZjJpNUpFR3BlbDZJZzZZNkRTeTFxV0p3ZHdDSGdvekJVUUExbW44QnJsbmtMNmlqal9rVzRWY3lNYjk0SWd3WFlGNjN1cmtsdTlDQ0RobldZd25Hd2ZnN2FMU1VL?oc=5)
+
+---
+
+## 10. Oppo ने २००MP कॅमेऱ्याच्या स्मार्टफोनसह लाँच केले Pad Mini आणि इअरबड्स; फीचर्स पाहून व्हाल थक्क, किंमत मात्र… - Loksatta
+
+**विभाग:** तंत्रज्ञान
+
+Oppo ने २००MP कॅमेऱ्याच्या स्मार्टफोनसह लाँच केले Pad Mini आणि इअरबड्स; फीचर्स पाहून व्हाल थक्क, किंमत मात्र… Loksatta
+
+[मूळ बातमी वाचा](https://news.google.com/rss/articles/CBMi7gFBVV95cUxQYXpPTURyQnVZdEFTLXdQSG1raXMxX3lwRGtULXp1bFBsTDg5R0o1cjZOYUZseENOQ3RvWVRNd3otcGozUzlzUFp2Y0dMWWgwN2ZPLTdpWC02bXNOcXhfUkVxaE04aTFhX2s4RzNCa2p6cW9FdkJJT2VSUHpKWXNWZ0N2akRBY3lWMUtVTWZCVU1DdU9adG5IUWpfc3VTcVB0R1ljTFB5WWdlT0lIUU9QRDQxYjdpSFJsTUJyTFJxeVgtaF9EZGx5Q2tiSjVMOWw2QnZlZDVTd1Rpa3NxalRiZ3ZCUERidmliLXBYa3pR0gH0AUFVX3lxTE14ek1zbkZYQ1VzS1pIWkV0di1QU1RYakR2UjBCcHVHVWxGZzVodm5qZUxtWWVGVHFSdGg0VXVmWDdKSmloV015dnhrTmROUzlpb2V0WXk1NjdnN3N1N1A3dW1DOWplY1lDVGppdUEwckNUY0JYdVc3N2hLQlpVTWtZdlhfOEVscXNHN2JpMGRzMzlMOW5aX0hJdVE2NFBEbC1YYkZWSGt4QkRSa1RsZWRSVzVlOVJuUWV5RV9xejl5RGxfZVNUVXg5dEtjZktjc0JESE9Ob2NrUHZfQ1JoaGlxT2VCQXE4amFBU29pbnhZOWF2bEg?oc=5)
+
+---
+
