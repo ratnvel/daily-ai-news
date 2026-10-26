@@ -1,0 +1,102 @@
+# दैनिक AI आणि तंत्रज्ञान बातम्या — 2026-10-26
+
+## 1. चिपमुळे मनगटावरच उपलब्ध होणार ‘मेडिकल लॅब’ - Pudhari News
+
+**विभाग:** तंत्रज्ञान
+
+चिपमुळे मनगटावरच उपलब्ध होणार ‘मेडिकल लॅब’ Pudhari News
+
+[मूळ बातमी वाचा](https://news.google.com/rss/articles/CBMitAFBVV95cUxQb0N4Z2ZqNE9WUGhhVE4tdHlRU2RnRlJhVTFOREp1NXZXVDZYUFcybklQRFNjZUhiU2RnaDM4WHBoMUdhZ2RBZng4M3VBMUZvVHJoeTQ4TEpndXNXMWxOQ0piSFItNXZBaWUyYmFPVzRISFJ5SlpfdHhvbG9VcEdka1p6TE5rSzl3R3BkU1pYd1FvYVZnMWtoTy1DZFI3TFFQN2pLRUNfeUNZdkhjSlNuT1FmWTTSAcIBQVVfeXFMTUVUVW9maTlhS1UwZTh1R0YzNHdLaWYzZjgwdEk4YTBPbzhzR2p1c3JsZXNRbERVdU16d2VEUVdGVi1SYTIyWUNuaE45a1VOODJ2cGtWVnUyazNoMk1iMTE1YS14Z0RWS3Q0enBOMHI2a0l1cnMtbTJWTDNtdlJqY3ZWTkNJN3B3QjNXZllNREZpTDk3ZzVGajloT2JGNjlxOXFDVDVzLUctRVFoRWZ2ZFFPN3FQVzM5dmNjTkdha0JXSlE?oc=5)
+
+---
+
+## 2. दुबईतील 1 कोटीची नोकरी सोडली, भारतात सुरु केलं स्टार्टअप, आता वर्षाला मिळवतेय - ABP Majha
+
+**विभाग:** भारत आणि स्टार्टअप
+
+दुबईतील 1 कोटीची नोकरी सोडली, भारतात सुरु केलं स्टार्टअप, आता वर्षाला मिळवतेय ABP Majha
+
+[मूळ बातमी वाचा](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPanlyRlBJMXBVMHJoc05RcjdxNExQTjluUkt5Tjg3Q1djdnVuNjV4WXJIRFlVNnRRQ29zeGNpdDJIZmd4eTduaFZ2blVFNzlRMzVXUDA5eTBvSGkwMFhHM2c1bW9VZDFra1l2Qm9tdDF1emlGM1F5cXo2WWpnTHJaZHJOWGo5WXRpRkV2WURUZ2tIbjRHRGxCTUZESTY5c0JlYmVMa3prVUhReHY4cG9SRDJXTTVMS3hNTnhaYzRDTWZHS045WTdNZ3RhR0N0blNQX2fSAdcBQVVfeXFMTUM5RXExN2lxM202Um5UVjY4VG84QlAtWFVZZDNOSnd6WnlkU3dVSWR5bXFmenRhVmhNekhNc0dteGllblcwTmhKZWx6dnpPMzRLV2ViZzVadm55YVhJT2NGMzB3eFlUMzlpTTE2WmY2R3JBb0FkcEFmbWpXazhHajVTRzNLZ183cGhtdkN0b3FkMzNHOUxzOFA3ZEZFWVF2RFlGQzdpbjBUVWEzT2tMWWRuc0R2aWxmekpKSEdjMHo5N1RaM2VRaVVBT3hFRWFrdTFkZXdmOU0?oc=5)
+
+---
+
+## 3. Forest Protection: काँगोच्या जंगलांवर आता सॅटेलाईटची नजर; जंगलतोड रोखण्यासाठी नवं तंत्रज्ञान - Asianet News Marathi
+
+**विभाग:** तंत्रज्ञान
+
+Forest Protection: काँगोच्या जंगलांवर आता सॅटेलाईटची नजर; जंगलतोड रोखण्यासाठी नवं तंत्रज्ञान Asianet News Marathi
+
+[मूळ बातमी वाचा](https://news.google.com/rss/articles/CBMi4AFBVV95cUxOMkJYMV9KeE55TUpvb3hzUWoyb2tqYnlBa2dlX18yZmNYdU42SG8zellqSXRaMW5ZS3hwRU1JYWwzbTI1dkxWVTBGS0ZCTlNuSVFjXzV0ckpjZ21TcWdBUjdTVFlMYXVHVVZtNXBoOUM4Z1FoZ3d5TGpMUlhQSDJreXlCUGxabG9lN3NjUXRDNXZnZXFWSG5qNGxfcV9Yd2lqaUVnNnhPZDZ3elFhSGZwMHNobVBHajdxUmdISXR0dnl5aDJDU1ZVNGxfdTlYVjZScWtNYTFwMVY0Tms2V3paT9IB4AFBVV95cUxOMkJYMV9KeE55TUpvb3hzUWoyb2tqYnlBa2dlX18yZmNYdU42SG8zellqSXRaMW5ZS3hwRU1JYWwzbTI1dkxWVTBGS0ZCTlNuSVFjXzV0ckpjZ21TcWdBUjdTVFlMYXVHVVZtNXBoOUM4Z1FoZ3d5TGpMUlhQSDJreXlCUGxabG9lN3NjUXRDNXZnZXFWSG5qNGxfcV9Yd2lqaUVnNnhPZDZ3elFhSGZwMHNobVBHajdxUmdISXR0dnl5aDJDU1ZVNGxfdTlYVjZScWtNYTFwMVY0Tms2V3paTw?oc=5)
+
+---
+
+## 4. Success Story: पतीचा दुबईत अभियांत्रिकीचा ठसा, पत्नीची परदेशात तंत्रज्ञान क्षेत्रात झेप; कांडगे दाम्पत्याची प्रेरणादायी यशोगाथा - Esakal
+
+**विभाग:** तंत्रज्ञान
+
+Success Story: पतीचा दुबईत अभियांत्रिकीचा ठसा, पत्नीची परदेशात तंत्रज्ञान क्षेत्रात झेप; कांडगे दाम्पत्याची प्रेरणादायी यशोगाथा Esakal
+
+[मूळ बातमी वाचा](https://news.google.com/rss/articles/CBMi_gFBVV95cUxNSUkwdE1FVHJOTHdQbUlQdHZxNnVNVHN4MU9SNkwtUmt4ZTNxbWZ6MVN4TW84b3UxMjBJR2dJa2tsdzZKZ1RzeEFDaGhkT1Y2alF2ZUtldWIwd28wWUxVaENEWkFPT0gzZkE0NFAtOHE4N1VOSjExVS1ZMk1CQW9HRmF3dkNPMWpEbWNRcnd2UGF5VVMzZW1HZVdwclpsdjVRSnFHVGVoZTJVYktackpUbVpIdDdxRUJrUDVFZUFxaDhKLWIxSEVvdkdTbFpydzB4ejVEZEw1d0dxd3NDcU9XTlVGb3U0bmdfWEdXdEtMVGpFUHhnSG0yTHlDb3Jsdw?oc=5)
+
+---
+
+## 5. AI in Sugarcane Farming: ‘एआय’ तंत्रज्ञानाद्वारे ऊस उत्पादन वाढीवर मार्गदर्शन; दुष्काळी परिस्थितीत कृषी विभागाची जनजागृती मोहीम - Agrowon
+
+**विभाग:** AI आणि कृत्रिम बुद्धिमत्ता
+
+AI in Sugarcane Farming: ‘एआय’ तंत्रज्ञानाद्वारे ऊस उत्पादन वाढीवर मार्गदर्शन; दुष्काळी परिस्थितीत कृषी विभागाची जनजागृती मोहीम Agrowon
+
+[मूळ बातमी वाचा](https://news.google.com/rss/articles/CBMioAFBVV95cUxPb2RNWmpPblUzNW1qZHpJSzctOEVoQ2lLOFVPbTNvVHNCblhxN0lOQ2NrYUpDajl2OEE3bjhyb0J5d2o2cjdvWW9wejJ5YXFWc0gtYlpudHZrQnFUUXpQam5hRUF4dDV0MXpDQV9CSElwVzdjV0FWTzJISDVvdjllOHBXZ3lqVWdpRlhqR0xPUkhVQ3Z4dEhOandQcUhOcS1n?oc=5)
+
+---
+
+## 6. Microgreen Farming: नेदरलँड्समधील मायक्रोग्रीन शेती - Agrowon
+
+**विभाग:** तंत्रज्ञान
+
+Microgreen Farming: नेदरलँड्समधील मायक्रोग्रीन शेती Agrowon
+
+[मूळ बातमी वाचा](https://news.google.com/rss/articles/CBMimgFBVV95cUxNWVpsTktiU1VXZmRfVG9LQjc3ZWpva0dwRjZZUjE0U2R2OEpuZnR5Y2V5cmJsYlZ0SGtkbm52NnZqQ3VnREFuOVBVa0ZjX2ZROUVUd2JRcG5GZ1NrVmJsOGlDSzcydTNCbDlUd3cxN1U0bVVXMHI0enY5ZjkxUXlGUnNOLUI5WWNuV2tkdzN5WjdSZ19PWFpJbXd3?oc=5)
+
+---
+
+## 7. SIR मध्ये वापरलेल्या सॉफ्टवेअरची निवडणूक आयोग माहिती देणार नाही! RTI ला दिलेल्या - ABP Majha
+
+**विभाग:** AI आणि कृत्रिम बुद्धिमत्ता
+
+SIR मध्ये वापरलेल्या सॉफ्टवेअरची निवडणूक आयोग माहिती देणार नाही! RTI ला दिलेल्या ABP Majha
+
+[मूळ बातमी वाचा](https://news.google.com/rss/articles/CBMitwJBVV95cUxNV3ViZllVT0dhdmNERzJNN2hGSEF1SUhDNTdPRHFwSDdtMTBfQXlaRFloY2tSWGtQQk9lQUpxaVM0ZWZQcnVlWWQyVGZCY0RrV1E5SUdQUXlGay1IbjlGZ29Va0Y3X212RkpjX2tYd3BHUFNHRVB0c3JjTC1qV2JlRmNmRGRBczNxdDlPbXAtNTlrRWkyS01Ecmg2MzQ3amlmVXhzbk9wVlkyS3NYUU4yeTNVNU96QldQVVpOeWJ1enNhT1A0Vzk2SEtwbkN3MVVYMS1xLXdiVzZ5eEExQ0E0WEtfLWcyYzN6bFRSaS03STZ3RC1ZdUhvZGdKQ1d0NGVpWkZXUW5Pa1dTWkYtUUZlaW0xakpVTS0zTHA1UXdCb04zX3FiT1lUYWxGVFRPbkxnS1ZUY3FmZ9IBvAJBVV95cUxQbHNBUlNSbEdVUjhkc1RmRjg0dUpUaFJlUGxDamNTNGMxTGhYNzg5bnI2WTk2S3RPLTVCWUFHR3lyU3hrVzBDRFdfdlBDN1dhMW5YSG1tVGpVdE16ajh3SFV6X3pUZ1hMTjRCeVF0eHAtWWpJZWtEYmRTRFJpRC03YVN2YkROZ2dKbGdhbXNzZUVsR3hvQWZLLU02Uk8tbG5VUFVRb2oybG9raFJ4ekg0ejF1c3pOSld2SnFZR3JROFN3NXNOOEp4WkxBUG00ZFctdDVreVpZSnVuY3FLNXc0RzJmamFIQ0NRM0NfeUdnNk9OVTJCYXZsLVFnWk8yRWUwSDFtUXJ5RDhZOUgzaFgtUVE4aDZfMUxQT1M3M0llLUpvck5teTV1RFN1RUtSUTJCYnlJMENUNk52MXh2?oc=5)
+
+---
+
+## 8. Cancer cells : कर्करोग पेशी शोधासाठी पुण्यात स्वदेशी तंत्रज्ञान - Dainik Prabhat
+
+**विभाग:** तंत्रज्ञान
+
+Cancer cells : कर्करोग पेशी शोधासाठी पुण्यात स्वदेशी तंत्रज्ञान Dainik Prabhat
+
+[मूळ बातमी वाचा](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWk1ydUV1ejR5bzd3blI2ZU55UFVWdW9jVlg1SE8xcDBoRzlLUmV4c3N5RDFjOWo2NjdKZ2dVY09NWDYtbEU0OS1DYU92RTdJUFdPYjdYZXVRcF9GZDdMYzR2M2xoZW1RVWg5RmdyX1U0RUkzS0ZXNm41T0NMQjczYTlsMUtZYzkzaDFmTW9icm0zeVVnVUdXQmlZa2FDd2g5NGctNDBEaUZrZWJrUGx3ZEVaMXZjMm5I?oc=5)
+
+---
+
+## 9. Jaykumar Rawal | दोंडाईचा येथे मॅग्नेट 2.0 प्रकल्पातून राष्ट्रीय सुगीपश्चात तंत्रज्ञान संस्थेचे उपकेंद्र उभारणार - पालकमंत्री - Pudhari News
+
+**विभाग:** तंत्रज्ञान
+
+Jaykumar Rawal | दोंडाईचा येथे मॅग्नेट 2.0 प्रकल्पातून राष्ट्रीय सुगीपश्चात तंत्रज्ञान संस्थेचे उपकेंद्र उभारणार - पालकमंत्री Pudhari News
+
+[मूळ बातमी वाचा](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRmVZeDRVZm1EcGFINHVXMlBoelk1TWJXV1N1OGNzVFBRTmZBMDcxMHdOd0pMRUhCYnJNbkVsRVc2cG9oTExHbENFb0dsQ1FuNThSa19keGE4c0lnUTBhQk9YLURRMjdkNnpnVjB1LUNfY3NtM0tIV2dvUkM0Q3JhbTJpRUFhWHZuMmYwZk0wX2tzcmVydnJJY3JzUWdPcE5QQlB2SVBZZnFuU2hFa1RzdmctWnFUNkZ0RmpVcW5CVmVKVk8wc3NnVE5idTdRdTZuM2wyRtIB4gFBVV95cUxOb2tkbnVGN1ZBcmlKR2RQT1VTeXVOVXZFbG9VZ3JKSVhnWVZ0LXpiYUtZTVNNUjA3ZVZaSTNqblpVNnAxNXFoSlNQTnZTNVhfdkJkRlZUNTFEeDk0TVpGWVdMMXdRdUxXWm42OWlkZDJqQ2JUNUFPRURES1pSU25SMlRneEZna3dQYXQzUFlRRm5XM2taaUF4MkhueDQ0SFlQNFhpVlhOOVJOQXVSaUdJM0dKeHlEazV4T2JLUmZ2THl1Y1R3UEFyVXQyeE0xVTMwTDRPaFlCYmFyM2QxZnhORldR?oc=5)
+
+---
+
+## 10. आनंद वार्ता : खानदेशच्या शेतकऱ्यांसाठी नवी पहाट; दोंडाईचात उभे राहणार राष्ट्रीय तंत्रज्ञान केंद्र! - Loksatta
+
+**विभाग:** तंत्रज्ञान
+
+आनंद वार्ता : खानदेशच्या शेतकऱ्यांसाठी नवी पहाट; दोंडाईचात उभे राहणार राष्ट्रीय तंत्रज्ञान केंद्र! Loksatta
+
+[मूळ बातमी वाचा](https://news.google.com/rss/articles/CBMiugFBVV95cUxQdkNkTFNoZ2hGZ2ctZ0hYb3prejhpNE0xa0tfOEp1WGVlMnZZTlBqQ1c4WFM2TGx0Q3JDZk0yZ1ZQVEhyQnJNWnFIb1kyQ1AtMEp5bTZ3RVlVZ25LRS1kU3JMTkcyWHJZQ2R0bW40YURzUmppLTFVaTZfYmlJRHhtcmdaRVFYcENiVDlTNXo4VHJoUEsyV2NLS1FJUFJIRW5PZEFUVnhqU3ZEbjAwN1lDSUloLU1rM1NscWfSAboBQVVfeXFMUHZDZExTaGdoRmdnLWdIWG96a3o4aTRNMWtLXzhKdVhlZTJ2WU5QakNXOFhTNkxsdENyQ2ZNMmdWUFRIckJyTVpxSG9ZMkNQLTBKeW02d0VZVWduS0UtZFNyTE5HMlhyWUNkdG1uNGFEc1JqaS0xVWk2X2JpSUR4bXJnWkVRWHBDYlQ5UzV6OFRyaFBLMldjS0tRSVBSSEVuT2RBVFZ4alN2RG4wMDdZQ0lJaC1NazNTbHFn?oc=5)
+
+---
+
