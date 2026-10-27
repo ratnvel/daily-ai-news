@@ -1,0 +1,102 @@
+# दैनिक AI आणि तंत्रज्ञान बातम्या — 2026-10-27
+
+## 1. पुण्यात ३० व ३१ ऑक्टोबरला ‘मोटोटेक २०२६’; वाहन उद्योगातील आधुनिक उत्पादन तंत्रज्ञानावर मंथन - mymarathi.net
+
+**विभाग:** तंत्रज्ञान
+
+पुण्यात ३० व ३१ ऑक्टोबरला ‘मोटोटेक २०२६’; वाहन उद्योगातील आधुनिक उत्पादन तंत्रज्ञानावर मंथन mymarathi.net
+
+[मूळ बातमी वाचा](https://news.google.com/rss/articles/CBMiREFVX3lxTE92QUczNmtCeDRXcF8wNUR4VVM4VWdQOVpBVkJyalJQcDhSdjRJbzVvUTBqaEZBU2F2TGRYRGxlblVkRmlS?oc=5)
+
+---
+
+## 2. AI Job Loss: एआयमुळे तुमची नोकरी धोक्यात? २०२८ ते २०३३ ची धक्कादायक 'टाइमलाइन'; हर्ष गोएंकांची पोस्ट चर्चेत - Maharashtra Times
+
+**विभाग:** AI आणि कृत्रिम बुद्धिमत्ता
+
+AI Job Loss: एआयमुळे तुमची नोकरी धोक्यात? २०२८ ते २०३३ ची धक्कादायक 'टाइमलाइन'; हर्ष गोएंकांची पोस्ट चर्चेत Maharashtra Times
+
+[मूळ बातमी वाचा](https://news.google.com/rss/articles/CBMi_gFBVV95cUxPcGotdWdOT011RDh2T3A3aTNvTld4Rkt4M0JHYXhXY0M2c0tBWDBZbVlmb3NTLUZkUWlJV1lRMU45NllDR2FkUUdOZlpMMVhaamgtZURaUGtRbkhUQVgxSW5YQUNjREU0dE1CQzdTVjQ1cTExVXN5ZWE0cEM0T1FYX1Z2MkZtSHdkQzItS3FKNXB2Y3I3VDF1UFRDcVRJNlR5VmZaYWpHbGVORG52dWJRdV9COGRGSjBXYUxTNllEQ05ndkFzNDVwMlU3QTZIeVZZbTZRWlVZLXJrQVVRNkpKOGxhSkJ5TWhFWWJkamxSVTVqdTdIZHFXV0JPVmdOUdIBgwJBVV95cUxNZVU2Smd4d284Z2VCaUdsdWFOX3lISFgwRzQtbk1BWFFvXzU4Y0h4TlBwOHB2T1FtNk13SGJ5SjdMWERfRDJ1Mk1oRmhveFBqalNPR0EtSTlKdUFFMjlVV3ZPMHV3Mmc1UE1WZGpUY2NSZUxOMXdGVFhELWtvWm1tcGx0Mk41aUhfYWlNTF9aQ2h5eFhmLVJwMlBIZERrQjVXRFhmRG5ST1VDcjd0TF9BTmlRbmRIZ1ZUdjV3YlA3TmVWcjFxSXdXckU3NlB2cmNTS0VRc2otTXFoV0NYeThFdm9GZEpGLU5vT0l3QmQzNDhZNTZvOG9mMjRnVHRCeWhDUktN?oc=5)
+
+---
+
+## 3. OTT Rules: ओटीटीवर आता अश्लील कंटेंट 'बॅन'; स्वतंत्र कायदा की माहिती तंत्रज्ञान? नियंत्रणासाठी मोदी सरकारचे प्रयत्न सुरू - Hindusthan Post
+
+**विभाग:** तंत्रज्ञान
+
+OTT Rules: ओटीटीवर आता अश्लील कंटेंट 'बॅन'; स्वतंत्र कायदा की माहिती तंत्रज्ञान? नियंत्रणासाठी मोदी सरकारचे प्रयत्न सुरू Hindusthan Post
+
+[मूळ बातमी वाचा](https://news.google.com/rss/articles/CBMirwFBVV95cUxNVXoyVlZNVE5JcnZhT1h5d3VJcmZzTUlBc1hEdjJNbzBRdWkxOUlmZzRWZkpFeVY4TXJmdE1YcjExWUd5MlpETGpMVmE1bnpLVk02VWFrLXBjWl9jb1dvMThqVmJZU1MwQjkwMU4tZEdoNTF6eEhLMWNvN0MtZFdVQWtEZHF4RUI4UGZ2THgxQ00wLTMwTzlsRVZaNk1KMWdaRDdkY0xEbk1mR1ZidGNn?oc=5)
+
+---
+
+## 4. इस्रोच्या SpaDeX उपग्रहांचे पुढे काय झाले? - Marathi News Esakal
+
+**विभाग:** तंत्रज्ञान
+
+इस्रोच्या SpaDeX उपग्रहांचे पुढे काय झाले? Marathi News Esakal
+
+[मूळ बातमी वाचा](https://news.google.com/rss/articles/CBMingFBVV95cUxNVTdlLW1DLXdiYm9PdVI3QXlYbWRCcW5aaGpJY1pYbkIyd282aWR1UXRaa0FrZTZqUk9sbHl0VTNIdmlxQ2RRZlE3VVk2YmNmZ3VLaE4zVElnTy1SMVlsMVRpNGJEQUp6dXBvUFFUeXFwSjZuaVpVaUlKRGtiR24xR01CS2VOdTB2ZG9RM3RRaGtCeFJrMVhiRnRJS2hhQdIBngFBVV95cUxNVTdlLW1DLXdiYm9PdVI3QXlYbWRCcW5aaGpJY1pYbkIyd282aWR1UXRaa0FrZTZqUk9sbHl0VTNIdmlxQ2RRZlE3VVk2YmNmZ3VLaE4zVElnTy1SMVlsMVRpNGJEQUp6dXBvUFFUeXFwSjZuaVpVaUlKRGtiR24xR01CS2VOdTB2ZG9RM3RRaGtCeFJrMVhiRnRJS2hhQQ?oc=5)
+
+---
+
+## 5. AI मुळे नोकऱ्यांवर संकट? १० वर्षांचा अनुभव असलेल्या इंजिनिअरचा शेतीकडे वळण्याचा विचार! - Prahaar.in
+
+**विभाग:** तंत्रज्ञान
+
+AI मुळे नोकऱ्यांवर संकट? १० वर्षांचा अनुभव असलेल्या इंजिनिअरचा शेतीकडे वळण्याचा विचार! Prahaar.in
+
+[मूळ बातमी वाचा](https://news.google.com/rss/articles/CBMiygFBVV95cUxNMXh1ZlM4VGJ3dEg4dTVRbmhVVzctTWxPd09hUWVWc2xnc1Ytb2dEcXpUUUVBQ2NPWlBKdUJrS2syenBwX2JTdDlXRExqYVZ6WklNTXpUNlJORHFPRWQ5SlZ0aFdtLTdDRmxqZ3ptb3RBdjJ2d1B1NEFQSmpyVDJvQTk2dEYxSjJSbGZ3QTJSQV84eHZFbG5LTzAwS0ZfSUstQ25kUVpkeXZ0ZWxoV1JHOXAtOVF4ckExdGgwM2JuZkFucVRJek5jamR3?oc=5)
+
+---
+
+## 6. InsurTech And Life Insurance : पॉलिसी काढणं आता झटपट! इन्शुरटेक आणि तंत्रज्ञानामुळे विमा खऱ्या अर्थाने घराघरांपर्यंत पोहोचणार? - navarashtra
+
+**विभाग:** तंत्रज्ञान
+
+InsurTech And Life Insurance : पॉलिसी काढणं आता झटपट! इन्शुरटेक आणि तंत्रज्ञानामुळे विमा खऱ्या अर्थाने घराघरांपर्यंत पोहोचणार? navarashtra
+
+[मूळ बातमी वाचा](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVEJNU1UxZWM3d3ZaeDQ4VS1sQ3JfMXZFWXVHTWp2bGJ3RFZRS3Q0TUFGM1dqUGZsSFBBYVJUSDFDWU1paGI0ZmhtUWdEeU1yRzRVR0M4d3ZBUXNrbENHU3RHb1djNERMNE53R2pDeVJNU0doVGNWcTJzRjNrX2RhU003RWtiWTlUOTIzSTJGTFdqWHFxTU12dW5oeE14cko4S1RUUDdsdGhObmRwMllrUVdVcEVFR3Zt0gG-AUFVX3lxTE1UcWdsNm9sZ1pyWm5nNFpNeTFMUkRoTXptc0I1cUI2dmJsNEVsaWY2RThDTEFBc2EzWFgwZm11MEJHNXItUFdKUm1FbVhJdlE3LUdzRmxWa09aYWlydXp3b0Ewd3lESmlsTEdPOGlPWG93MGUyNzFnZ1FqUFVkaWJjX2dzSi1KRTdxWmZkX0d2S0VnUXJoamdyb2d6NGNtSnpSdHZEYnhES3lDY1VaODRXd0xiajlFbXV1LUJZWkE?oc=5)
+
+---
+
+## 7. एआयमुळे भारतातील नव्या नोकऱ्यांचे बदलणार स्वरूप; तरुणांच्या प्रशिक्षणावर होणार परिणाम - Esakal
+
+**विभाग:** AI आणि कृत्रिम बुद्धिमत्ता
+
+एआयमुळे भारतातील नव्या नोकऱ्यांचे बदलणार स्वरूप; तरुणांच्या प्रशिक्षणावर होणार परिणाम Esakal
+
+[मूळ बातमी वाचा](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZVdzVFZlVWZXRmpEdE5sM1dhVWJPTmhoN2xFUXhtZUZLT1Bjcm41bFk3Nk5OTFhLcDZEVnJsZWg1X2owek1mMHFZa1NkYmZlWlI2bzFzQVNUQ3RjdzVEdzNEYWFnWXViT2xTV2V0Tk5SOEdCY2N2REVTclREWHMtVTZsTUNDM0lV?oc=5)
+
+---
+
+## 8. शेतातलं पीक वाचणार, हुमणी अळीचा कायमचा बंदोबस्त होणार, शेतकऱ्याच्या लेकाचं नवं तंत्रज्ञान पाहिलं का? Video - News18 Marathi
+
+**विभाग:** तंत्रज्ञान
+
+शेतातलं पीक वाचणार, हुमणी अळीचा कायमचा बंदोबस्त होणार, शेतकऱ्याच्या लेकाचं नवं तंत्रज्ञान पाहिलं का? Video News18 Marathi
+
+[मूळ बातमी वाचा](https://news.google.com/rss/articles/CBMi9AFBVV95cUxQWFhwTW1BMGczdHdzMERfaG9acDM3YXMtSG54eWd5aWM4OThic2Y4UDFDVXV5XzZVOHdWWWhZSURoNXViYjFJS0Q2NWhvZVdVc0VZQXpjZkxqdmRrMXZBYUFLY0EwSTVYejVmM2xfd04zMnN3QVRXX3lvdXBkNHVGU1BQVDJyckdXSEJVd0JPM2pKU3FPU0dmTnQ0UUhuWG4tb2Zjd05lX3lPSmdNWF8weXlHSlB1dDhqcG04N3NnaVZ4MTNZQU9jeHJfZGJZUVRvUDFtTUh3bG1fTk5PalRBeTBjRDJzZlBSeERUX3Nrc3Z1YWpv?oc=5)
+
+---
+
+## 9. Health Awareness| जाणून घेऊ खाद्यतेल निर्मितीचे तंत्रज्ञान| Understanding Edible Oil Production Technology - Agrowon
+
+**विभाग:** तंत्रज्ञान
+
+Health Awareness| जाणून घेऊ खाद्यतेल निर्मितीचे तंत्रज्ञान| Understanding Edible Oil Production Technology Agrowon
+
+[मूळ बातमी वाचा](https://news.google.com/rss/articles/CBMikAFBVV95cUxPR21NLUZPclBDZlc4X0lKSDJKczRaaklwQ0R3SzFkemZ1REZIa1B6d09pSXVibjkzRzB6OENCT3dETWdpZG1tVzBCcE9VN0l2OFdNRmhqQ3hsVzFJMk4tcjdCTllsWkphTzZkZEN2OWlRY3BOZURFVFNKR3R4WEhhT0J0NFFNTGgzT0xfNFFNbkk?oc=5)
+
+---
+
+## 10. Nokia Strategic Partnership : Nokia चा भारतात मोठा गेमप्लॅन! AI बाबत तगडी रणनीती; 5 वर्षांच्या मेगा कराराची घोषणा - navarashtra
+
+**विभाग:** तंत्रज्ञान
+
+Nokia Strategic Partnership : Nokia चा भारतात मोठा गेमप्लॅन! AI बाबत तगडी रणनीती; 5 वर्षांच्या मेगा कराराची घोषणा navarashtra
+
+[मूळ बातमी वाचा](https://news.google.com/rss/articles/CBMirAFBVV95cUxQdG5sU0xmcVNzWm9qTjgzeUhrbkl1LVo5MmlUVDgxTnM3eDNxSndRUXVzOWZXRXZRczZsSXU5NWRIbkQtOGlmaEVGNGxPbWhpc2R1RUdkZG55VzFWR2tvMGV6MGQ4M20tMUJvME9ybWhKbkkwSWRfdU1XRlhaZy00aVZ6TElKdzE5UVhRalFCc3dvSVlzZllZQVNicFpLOWxPcjBVWkZtdksydkt50gGyAUFVX3lxTE5GcHVMeGZybHNHNkV5R3hiN08tRFRTeVk5UDhzZU04Q1Zid3p0a2c2UW43VUxpZ2RobWJNZ3c0TmNKNnQ0QlBaNndGNnNjbW9mUmFkSUZMUzRFdXZWTDRQc29IVmF0M1dsOHFEdWlzc2tCSlBmbTZhRnk2UDBxRVFNR05vdTFyMHVFaFVTTF9nd3gxdmo3U3NnNExTX1YxbG15T3M4ZVZaNWtTSDY1akpSR2c?oc=5)
+
+---
+
