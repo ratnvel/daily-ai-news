@@ -1,0 +1,102 @@
+# दैनिक AI आणि तंत्रज्ञान बातम्या — 2026-11-01
+
+## 1. खिडकीतूनही तयार होणार वीज! Transparent Solar Panels नेमके काय? - Marathi News | Live News in Marathi | मराठी बातम्या | US-Israel-Iran War
+
+**विभाग:** तंत्रज्ञान
+
+खिडकीतूनही तयार होणार वीज! Transparent Solar Panels नेमके काय? Marathi News | Live News in Marathi | मराठी बातम्या | US-Israel-Iran War
+
+[मूळ बातमी वाचा](https://news.google.com/rss/articles/CBMizgFBVV95cUxQZmt1SHIwWmpWakQ0Zm5mYjhJaFRReTFKbVRFVkFqZU5uMWZqYzZnSUtlSGhtOVkxcVY1WWhGclpPdW5SaEh6dVhIM29uVGJFajFsUFFkaGZoNDhDdVllYUxPd3l1QmZsRDE0SzYyT2dBS2p5WjlHNDFvOUtNSm1ucFNEV1puYy1pZERvMUhZVmF6bjBReUd5V2duM3lld3VnVVlrNnhaSkRPallxYTRVamtLSjM0SDVKTFBTVkJGYjZwS2FtamcyLXRadXlHQdIBzgFBVV95cUxQZmt1SHIwWmpWakQ0Zm5mYjhJaFRReTFKbVRFVkFqZU5uMWZqYzZnSUtlSGhtOVkxcVY1WWhGclpPdW5SaEh6dVhIM29uVGJFajFsUFFkaGZoNDhDdVllYUxPd3l1QmZsRDE0SzYyT2dBS2p5WjlHNDFvOUtNSm1ucFNEV1puYy1pZERvMUhZVmF6bjBReUd5V2duM3lld3VnVVlrNnhaSkRPallxYTRVamtLSjM0SDVKTFBTVkJGYjZwS2FtamcyLXRadXlHQQ?oc=5)
+
+---
+
+## 2. मालवणच्या स्वच्छता व्यवस्थापनासाठी नगराध्यक्षा ममता वराडकर, सभापती पूनम चव्हाण बंगळुरू दौऱ्यावर; घनकचरा व्यवस्थापन, सांडपाणी प्रक्रिया आणि आधुनिक स्वच्छता तंत्रज्ञानाचा घेणार अभ् - tarunbharat.com
+
+**विभाग:** तंत्रज्ञान
+
+मालवणच्या स्वच्छता व्यवस्थापनासाठी नगराध्यक्षा ममता वराडकर, सभापती पूनम चव्हाण बंगळुरू दौऱ्यावर; घनकचरा व्यवस्थापन, सांडपाणी प्रक्रिया आणि आधुनिक स्वच्छता तंत्रज्ञानाचा घेणार अभ् tarunbharat.com
+
+[मूळ बातमी वाचा](https://news.google.com/rss/articles/CBMilgFBVV95cUxPcERreW9YaTR4SC0xMXBoMlo2NXg3c245ZWFDdzNXM3ZZOVN6ZWdWMnlGOG0xeXU1VU1pMDlmcW9mdUNDMWVsbXNRWm5QWEJzQmJGajI2RTBkQ2tDMWozUVhNMjRIaFBJRVZoQThlYXZjY1E0R1VIS0tRei12QnRzRHpsMGNNZjFxSGZTTDAzbTFYcGNTV1E?oc=5)
+
+---
+
+## 3. Khet Bachav Abhiyan: ‘खेत बचाव’अंतर्गत रब्बी पीक नियोजन - Agrowon
+
+**विभाग:** तंत्रज्ञान
+
+Khet Bachav Abhiyan: ‘खेत बचाव’अंतर्गत रब्बी पीक नियोजन Agrowon
+
+[मूळ बातमी वाचा](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNktQZ01QUklyeHZkVmprSnVUTEotakhmYXJVSVBwT2RVd05jZWhDSUVmOEVkOFVVa00wX3lxZWoxTElaQTViaGVXLTA1amdTcUpoUGpBTFNramFtdER4TTl2RGljZkEtTkF4bHBXRUl1YzA4RTJpbGRYMDRHTmJOOFJUMHlnclVxclV2ZXFLZ1RYa05HZEc3ZUZDNVhsU29FOC1HeFoxOHpPSmM?oc=5)
+
+---
+
+## 4. ISRO चा मास्टरस्ट्रोक! NVS-03 मध्ये दोन खास फीचर्स, अमेरिकेच्या GPS ला टक्कर? L1 बँडमुळे स्मार्टफोनमधील मॅपिंग ॲप्स थेट सॅटेलाइटला जोडणार? - Maharashtra Times
+
+**विभाग:** तंत्रज्ञान
+
+ISRO चा मास्टरस्ट्रोक! NVS-03 मध्ये दोन खास फीचर्स, अमेरिकेच्या GPS ला टक्कर? L1 बँडमुळे स्मार्टफोनमधील मॅपिंग ॲप्स थेट सॅटेलाइटला जोडणार? Maharashtra Times
+
+[मूळ बातमी वाचा](https://news.google.com/rss/articles/CBMi_wFBVV95cUxNcUxQejFfRDZwM2kwSG9pYTJteGNtLWs5SEdnMU5XUWxiYWl0VlZ3Q3VvaEtPcC1saGxXdUREVDRON1RzMkNGaEZhNm9HdzFyX3JEdmRPX2xabV96UFdaTjVCUDFIMWpHUmR6S3Q1LTJRbWNaX2xMakVWdTM2enQxYk9pTk1vT3lIWkZxTlhlT1Q0c1BnUDFSZGRhS3NRZmtQNEo0UGZPVXhyRkxMQmREQzF3RDBMaHB3dTJjcGp2VEFPUTZBaW9yblYtaVZmb3A4MDU0UFRLUWhwZzluOXYwancxRENqQzZhZWtzdnR2cDhBSnFIVWFodVptVVdrRTDSAYQCQVVfeXFMUDViY1Bvb0ZUU28tZjdQUTFLcGdtU1gtcmtOSlNHSDAtcThYT2ZQMkR1Mzl3VFdWSVpvRUxmRjBIVFR0VWwxX1ltNFRRb2tnVzRoMV9QU0RZbk9hbF9QcTl6a0IzMVRuTVkwZW1lNVBzVnpOdzVxOVJZY2FyUWFTV2pfVHFrT25CQnZaU01oUHdtU2wzR2tyQVhrN1hNUldhLTNaN2lxNjV5RE1fb2FFd0RWU21SS0xsdTlQMWxlczJPcUhLRGhfX2VqekpLUldZTGFscFl0empvQTNGdVg0TnByX1RyWTBWaHdXN1ZfRnB4ZlRjZGxUdkI3RWtzQm43SGQ2NVM?oc=5)
+
+---
+
+## 5. Potato Cultivation Technology: आदिवासी भागात पोहोचले बटाटा लागवड तंत्रज्ञान - Agrowon
+
+**विभाग:** तंत्रज्ञान
+
+Potato Cultivation Technology: आदिवासी भागात पोहोचले बटाटा लागवड तंत्रज्ञान Agrowon
+
+[मूळ बातमी वाचा](https://news.google.com/rss/articles/CBMinAFBVV95cUxPZ0JtZGNSYW9JSGNnSGNLV05KSEhic0Zma2NVdTVsZlFiNmx2cm5qYmtqOW4zWS04cnZsVFljN2owRlJ4clBUc1VITmVlQTVBMVBqTkpZcUlmVzNyWTlZME0wSllXSk9wSHNFUzZFLTlyWEQ3ZGFlTURkd09sYnNJSktjSDREcnRsaEZQTzh4cGs4RWNYVDFZcGVtZjQ?oc=5)
+
+---
+
+## 6. ‘हेल्थ फॉर ऑल’साठी आधुनिक तंत्रज्ञान, सर्वसमावेशक आरोग्यव्यवस्थेची गरज; वैद्यकीय क्षेत्रातील तज्ज्ञांचे मत - Lokmat.com
+
+**विभाग:** तंत्रज्ञान
+
+‘हेल्थ फॉर ऑल’साठी आधुनिक तंत्रज्ञान, सर्वसमावेशक आरोग्यव्यवस्थेची गरज; वैद्यकीय क्षेत्रातील तज्ज्ञांचे मत Lokmat.com
+
+[मूळ बातमी वाचा](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPcnF1eUFabVhvRm8zTmhoWEtwN01iamhZLVZJSzFaT1l6bWpKODh3SHExX21mYkVzQ3JXS1lwakdoM19JZ3FqbXZLdEh3MHRnb2FLd3g0LTNmN3JtU3lFSEtiZDktbUdYZVgySkwyRWJDZFNuZWpzczRIVnNjSEpaWGhkckN4eWxSa3IzajNvS25LQmo1NkF4NjhsMUlVQ3hoZkVEQnRaUjJza0hIaTR6SkJkYXNWSXJfM2RObDhuUTh6am9CRVpqTnBfSGJsVXZITVQ2VdIB2gFBVV95cUxOWHNnTkdTY0tMN29TcU1VaTJCdElTVDZZZVdzOUlHTHVVcExaT1dqQjJuS3pXOUYzRmdieWZwZkhzWTBiZzMxYklQanJfZWYwREFIYlRKQ1BxdzBhMnVENjN1VnZMTzFSeThLT3FFOXJkWVF1UFpPVFZJaXNBeTIwMUs0eW9rSU1XSlJkMzQ0VEplcGJyUUt1WmxRMnJIbTctUWxIX0E4UmZqc0plWjRNTUNieFZ6OW5waFlFakZKNjdOMy1JTlVfUmJNbkxKZ0t4U3dWbllDcDNYdw?oc=5)
+
+---
+
+## 7. lokmanthan - लोकमंथन
+
+**विभाग:** AI आणि कृत्रिम बुद्धिमत्ता
+
+lokmanthan लोकमंथन
+
+[मूळ बातमी वाचा](https://news.google.com/rss/articles/CBMidkFVX3lxTE91S3FJODFGQmFqRFB3T013Qy02YUYxdkU3N3JXYWxPMzdOZmxVVDVBSlE4eEp0REFnNTVETUlteTRBOHdsT2VtYnJKcnJhSnp2NFFVZFZvVmgtWENXVjgxNUlxVTFLTmJzdjB1aDdNVzcxcjc2Y0E?oc=5)
+
+---
+
+## 8. PM Modi News : शेतकऱ्यांचे उत्पन्न वाढविण्यासाठी मोदींचा निर्धार! विज्ञान-तंत्रज्ञानासह शेतीच्या सर्वांगीण विकासावर भर - navarashtra
+
+**विभाग:** तंत्रज्ञान
+
+PM Modi News : शेतकऱ्यांचे उत्पन्न वाढविण्यासाठी मोदींचा निर्धार! विज्ञान-तंत्रज्ञानासह शेतीच्या सर्वांगीण विकासावर भर navarashtra
+
+[मूळ बातमी वाचा](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcFNjQmthZW9tMjRuRU5vVjdoWDlnWHZkS0ttRWVWeDhad2t5YkZxbXpqSWUwSTdoWlo2OGVXdjNmS2Z1Wkl6blJkb2dOZFI3Znh5aVNnQkdiRTFGTjhPaEdQd3J0bkx1d09oQ1ZQeUtfUjNCZUdFanFvU0Nma2JFSjRsRV9DSE9BeWh0RHhMLXRGX2JBbnY4VFM2cWR2a25oSXN4NzZ4LW8xSHhDOU9neEhRLU91bGto0gG-AUFVX3lxTE1mbEJCSm41RWNFY0xOT1RFcVdxMmFod3FsdnRYMGhiV01EWGdGRHNzREhjTzY3WGd0VGtlRDBuNjZxT0NSaG5PSURTNGVNcEx0bVMyR04zVjJNQjBYcjd1dTY5TW1UUlNoY0NFdnB1Nk40dWNoUk9lekFNNEpmVjd4RFRVTWIxdFpHM01DMFF6Y2VvNFA4dllMektIWWo2dWV5Z0VJNlJqS05sUDl5LTJWaFJpT2dEUE9HcGJvZHc?oc=5)
+
+---
+
+## 9. कृत्रिम बुद्धिमत्ता आणि सायबर गुन्हेगारीचा धोका - MahaMTB
+
+**विभाग:** AI आणि कृत्रिम बुद्धिमत्ता
+
+कृत्रिम बुद्धिमत्ता आणि सायबर गुन्हेगारीचा धोका MahaMTB
+
+[मूळ बातमी वाचा](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeUsyS0FoYi1WdkZkZWpoc0JkZ1I1RHUweC1ueEdfdFhVNlV3TlNUd3dUVU9Rdk9qMGZ2aXc1akFsS3hHWkNGUVlJRERfdXpyMG1nZTRSajBldFBTNDJZRjRuNjdfX0sxbUc5c0cxQUJJWHRtSC1JVTZZaTZERGFTbmczeE9xQV9zZl96VHZDa1ZIcWFzb3F6ZHlEV0oxMjM0LThQXzBtdm0?oc=5)
+
+---
+
+## 10. आज मध्यरात्री इस्रोच्या 'NVS-03' उपग्रहाचे प्रक्षेपण, GSLV-F18 रॉकेट झेप घेण्यास सज्ज - Maharashtra Times
+
+**विभाग:** तंत्रज्ञान
+
+आज मध्यरात्री इस्रोच्या 'NVS-03' उपग्रहाचे प्रक्षेपण, GSLV-F18 रॉकेट झेप घेण्यास सज्ज Maharashtra Times
+
+[मूळ बातमी वाचा](https://news.google.com/rss/articles/CBMi_gFBVV95cUxQWjRjNW9ZVndRMTJrQVdNOXUzeHhUVmF6UXp3bGZzcC0yNEdNcDNJZE55dUYtdU5rTUhLRFJxMXJ2aFowWndJTXdkVjZ4R3o0ZDNNTXBoSmhNS2NBc0RleDNwRGlpZHNiX2Y1LTFRbFpqNmM0SnBPMGpsb3hCWkgzNnNBd1d4QjBLWWhPdHVZdjlvSVM1NEZfcVVUajFfUTNSVjhmOWxnODVuc3kwcFQ1QVVxZTM1S1Y1MFk3RndWUFlLS1BRSHhxdV9YN2J5Z1l6ZEwzcnE3VVBmVDE5V2FxS2JrSW53ZDVLR3VJRHNFVG9ibUtqMHoyMTNTVGd1QdIBgwJBVV95cUxOVFF3Ny1lWGxvZTZacmZRSWFnWm1US0dpSE9pN3hEalR4eUM0YV9kakRhQXcyc2NqMmJVZy05eDMtb1FadmZrcmQzbmVoX2EtSHNIYXk5ajdRa3hzalJfLUljRXl4bFVYVUtMNWpSQzJUODJqejE5eXRQbzVKcHBBMUlXMENtdnZRa3NOMUZuWjNiSjM4QmdFNXFtcWlZYmtxZDNzYUtrVlpORVRVSmxHN19xVTNlbE1kWnhRSHVJaEMwMnU4aTVqUUpHQjlXVHBTaDl0S0VtS1hpYVJCeGpYeWM1bENsZHdVckFHeXFNVWdVRWc4QnZlMUpnYVlQTzU0M2hF?oc=5)
+
+---
+
