@@ -1,0 +1,102 @@
+# दैनिक AI आणि तंत्रज्ञान बातम्या — 2026-11-06
+
+## 1. कुंदेवाडीत शेतकरी-शास्त्रज्ञ संवाद: कृषी निविष्ठांचे वितरण व मृदा आरोग्य, गहू लागवड तंत्रज्ञानावर मार्गदर्शन - Divya Marathi
+
+**विभाग:** तंत्रज्ञान
+
+कुंदेवाडीत शेतकरी-शास्त्रज्ञ संवाद: कृषी निविष्ठांचे वितरण व मृदा आरोग्य, गहू लागवड तंत्रज्ञानावर मार्गदर्शन Divya Marathi
+
+[मूळ बातमी वाचा](https://news.google.com/rss/articles/CBMivAJBVV95cUxOSFpfYjFmcFZCZjZCSmUtM3JvUEs5bFg1SzJQTjhxaUpZejJnV3FDc2hXNDA4SmV6ck9yVldTUDhKcDNyT1Y0YWlkWEFxYXlIVWdIVjBpN00wTHcxWnZqZ3A1NnJJcWl4T2J5RmhPWGE2c3l2enYwV1kwb3lUOHMxdXk1ek40SFdXSFhKaFJCRHFRZUItRERfNG8wbzBjSHBDRW9Rc1JHWHdyeWFRTWNPWER0Y1RoWXl5blZDUGFjY3BmYnBET0ljMTUySVhWSjRDQlhYeG5oNHp4N2RXazBHU2Zwekx3YjJ0LUV2ME1jek1nbDBCcUNNbktOak9kay1CTjg4Wkl4bDV3cmVKZTlHS0I0dFJtVm1Ea1NXS0pfU1FpNVZJV2FpM3NjVHZ0U0xvaDJYSlY5UGxHZEIx0gHCAkFVX3lxTE5pUHJ2U1V5ZXo0R1RtRzBNdW1rbnBiRk1FdGs1NXVucDE4ZVU2RGI0T0J6Sjc1dFh5SzVsVHJWT3hwT0pEaHBIeDlwMTFleVlnbXQ0SS14dXk3dGtUbi1ScC1yQkdKdmplSzlGRm5PWjlGbFFLeDRNd2JpcmdTZmQ4VGI2eThzdi1pQlhPWjFwX1o4SkdDaEJRMXVwUkY4QndKUFVfQTBqSFFYY2U4dUduZlJIME1JS1E4eXREanhaTHZhYi1QekQzVndzNTZPN0xjZmtOTFNiWUpXM0pzVExhSy12YnBFUHp1dGxQRE5saGR4enhCaFZnNmgtOG5HTEJzbkZlOWJtWk5LbE8tWmdzY01YdElIV3NkUWRPSFRCOXlUVzdMS0JXMHFSclhJaGZVam1ITnlzRGxEakYyd0RFRlE?oc=5)
+
+---
+
+## 2. गुगल मॅप्सला कसं समजतं रस्त्यावर ट्रॅफिक आहे? जाणून घ्या तुमच्या फोनमधील GPS आणि क्राउडसोर्सिंगचा भन्नाट टेक गेम - Maharashtra Times
+
+**विभाग:** तंत्रज्ञान
+
+गुगल मॅप्सला कसं समजतं रस्त्यावर ट्रॅफिक आहे? जाणून घ्या तुमच्या फोनमधील GPS आणि क्राउडसोर्सिंगचा भन्नाट टेक गेम Maharashtra Times
+
+[मूळ बातमी वाचा](https://news.google.com/rss/articles/CBMilwJBVV95cUxPUllONjhSS0ZmbGJHLW5Fc3k5ckF3a19hQWlUdDU4LUpMd3phUUpLMDVHQlFVMER0UFZudko2VENtSVJGcDZBVGp3eE4zVktwdlZUMm9maFdHcTdYeVVoYS1XdzBvcDZVWXVVeldiZ1YzLVBHcHpjdHZMeEhsc1ZSa2hWam94SnNwRDZ6TlFTMGNHaW4zUFZkWUFzRGZ4Y3lwZ2RQUEFFbEFnenFDNFkxUjZpRTEteUFpbC1vWnR1MHpldGdYZEZwbkY0NWwzaWFrSzI5X2tUMFBLQkJmQS1nSWxGYWtORlV3UUI2UmhXanlSOUQxNDNQb29SOHg2R29pOWNxM2Fzb1VUdkdyLWxWWWZvemJyZlHSAZwCQVVfeXFMUDZEMXRhSG5pTjZXWVM2U2lHU0FoN2RRSW5kb2Nnc1poeF85SFE5ZGNfYzNxdXRaU24xbzQ0WW95VGV1b1hkS1VsamFEN2QxbW9wSms1TWFFbWRtSE9OMFpmZ3dYb29XQlRQM2JXOHh0LW92TktDMmMtSUtqUGp2MmJCRlFFNTZLWFJ3bWlBeVRUdkFwaE4xQXBtckJ5eWF0cXRkQkdaLVViVmdieVBIS0hsYUZocm1HZEo4QTdHdUlvbFNRUmI4NURkemZwWHF1VExTbldmRkI3ZVhhZHRUd1BpRFZhc2ozT1pkYXZhSjM5cUtfYzVNOFpKY3EwR2VaelhqMWVGSmdHajZGVkxxRFNGNlYxSFF5R0ZCQXM?oc=5)
+
+---
+
+## 3. BBF Technology: सोयाबीनसाठी दुष्काळात बीबीएफ तंत्रज्ञान वरदान - Agrowon
+
+**विभाग:** तंत्रज्ञान
+
+BBF Technology: सोयाबीनसाठी दुष्काळात बीबीएफ तंत्रज्ञान वरदान Agrowon
+
+[मूळ बातमी वाचा](https://news.google.com/rss/articles/CBMinAFBVV95cUxNWHB2Q1E3NlNDbHNqazN3M1Ewb3FnVDJZX2c2VlI2MHFjMGs2OEIyQVMwRllQczZpLVhFRFc4RTd4V1hDcDNuVjd5dm9SYmNRNEEwQkZTOFlta2JHaWVfdEVaNWYzTlpRNS1fNmUtcGVwTFN1Y25GQnRReTNiU29SZ3RUa3ZiWUxsNDc3QUVsSFlNVlpzNW1NQzV3M2Y?oc=5)
+
+---
+
+## 4. ‘जेएसडब्ल्यू’च्या ईव्ही प्रकल्पासाठी ‘सिमेन्स’चे डिजिटल तंत्रज्ञान - Esakal
+
+**विभाग:** तंत्रज्ञान
+
+‘जेएसडब्ल्यू’च्या ईव्ही प्रकल्पासाठी ‘सिमेन्स’चे डिजिटल तंत्रज्ञान Esakal
+
+[मूळ बातमी वाचा](https://news.google.com/rss/articles/CBMie0FVX3lxTE9paGpNYXQ1b1d3SkI2V0xUUThWOHBlQnNpZ1dNWDAxT1VjeWItdGlDdmFwY2ZCX2hQMEJ5Q0haMjRpY0pCcmIzNFEzd0xEOTVmMzJnam9BdXh6T29xZHlqZnFYYXlBVkhLTFY5Q3R3Q085aVgySlhnMFNac9IBgAFBVV95cUxQTWx4czBsemw3QWRnSUpLSFp3TjZaeXJmZ2tpeFZKVVJvZ0hTSU1OZWVSRXBoN25TRnZnVS1SVVVET3FORDFDVjBNb05iN0JKLVpZMFVReTJ6Y2UzTmEtNEozY3JjdU5WZThUSGlRYnNmTXlNemtnYnJScVBCNFU1TQ?oc=5)
+
+---
+
+## 5. Surabhi Fodder Tech: पिकांच्या कचऱ्यातून होणार पौष्टिक चारा! 'व्हीएनआयटी' आणि 'माफ्सू'चे 'सुरभी' तंत्रज्ञान; दुष्काळात शेतकऱ्यांना मोठा दिलासा - Maharashtra Times
+
+**विभाग:** तंत्रज्ञान
+
+Surabhi Fodder Tech: पिकांच्या कचऱ्यातून होणार पौष्टिक चारा! 'व्हीएनआयटी' आणि 'माफ्सू'चे 'सुरभी' तंत्रज्ञान; दुष्काळात शेतकऱ्यांना मोठा दिलासा Maharashtra Times
+
+[मूळ बातमी वाचा](https://news.google.com/rss/articles/CBMinAJBVV95cUxNMzlZS2ZvUjRneDFzcndjWHZWMWloSnhlT1JfU2k2TkVMMTRrdDlNYlN3SDRiVkhITFlBX01uaEZQZ2o3TUtSVWdUZFM5YjNEN2FCNHhTbHFZVVBJd0M4aENhc25tT08zc2FRWUVXNnhMOFQtelpfMHRudlpDdFR3YzVFaHhDM3lVX2hXNmJkLXhTSFFtWXE5bDBNQ09Uak9DTWlLcEFXR0RxYnhlQ055NnRHcnF4NVNjRlVLX3VCQUpKN1VHZjhRSHMxUlpmZTB0WkdyWlZaU0ZkMmVVMUJFYVJFYW9UQmdEWVBoLU9xcVJ1NW9HaGNqUnRiNlJJcm9aaVdGWjBXYjdNekk2d1NCTzlkWHZEV2d0Zkd2aNIBogJBVV95cUxOUkdMeHhLeFNrX1ViN1FLdHdFejJ2MzlKa3lYNlpnMXRMSnA0dVVLSjI4MlZDRXhCaTlFeV8wVHpYb1B3MEVManBjbmQ3QlVRYnotZzdBQmpIQ0V4TGtGU1BCVVN4SVFmTk53MXZvbXVFQ2wyQU9yRG5WR3JNMl9oZ2gybVh1VDN0ZVVKZVJLbVRNaDkwc3M4SDBLTzJnWVlydmV4NVJQUTNHR0hYTzJNSjRJM2c4a2RoeFR1Qnlrdlkyel9zU2k5alJVb3JRdzAyVjgyaUtnRDhQVUxITW9hbE1abF9aSVhvYmpWck8yRVRRM0lPR1NrU1Q3WjNiWHJVc3NFbEJUbnlXblhBUnBCRFpwdDBGallKcXdnc0VBX3RzZw?oc=5)
+
+---
+
+## 6. चीनच्या मनसुब्यांना सुरुंग लावताना...India TBM Technology - Marathi News - MahaMTB
+
+**विभाग:** तंत्रज्ञान
+
+चीनच्या मनसुब्यांना सुरुंग लावताना...India TBM Technology - Marathi News MahaMTB
+
+[मूळ बातमी वाचा](https://news.google.com/rss/articles/CBMiswFBVV95cUxOaEtFM0tqMmRKMzlmOWt6RktUakdRYmZmXzNHY190dEwtUnd2Qno5TlFLSm9HYVowam1xcHFKQ2R2NUhqTElaWmEwWUc2TkdkMGFPRHByMWJFem5DLUR6RzJIT0pqU0NwUEZpVkVCbU9UVG9SalEwSmRHY19GOGJoaHlkU29sZURhVWozWDNmbmZiMXcxaWhoMlhxckM5c2xmZmdueGZsVGwydHFEcFFTeDl5Yw?oc=5)
+
+---
+
+## 7. तंत्रज्ञानाच्या महासत्ते स्वप्न पाहताना डिजिटल विवेकालाही महत्त्व हवे - Loksatta
+
+**विभाग:** तंत्रज्ञान
+
+तंत्रज्ञानाच्या महासत्ते स्वप्न पाहताना डिजिटल विवेकालाही महत्त्व हवे Loksatta
+
+[मूळ बातमी वाचा](https://news.google.com/rss/articles/CBMivwFBVV95cUxObXo3UWdyMXlxanFlVnJsTG5VYnQ5eVZHQ0toaUZLZGRZTVFzQ08yVmQtQ0ZUbEVGZ2NSM19nWm9FRnVxN25aSDJoOEF6OUhjTkdFZmFTbllXRTJ4Z1NRYk9SSlpDOUwyQ09xa2VwSE5JajZDQUs1ZE56QXNYWVRnNXFvem90cWJjbFJxY1hOS3ZBWXdZTFI2VlRqMTh4YzdyWVVCV2N3UXRnYjBTMHNtajEtM1ZsS0pnVDRvOHB6NNIBxgFBVV95cUxNRGd6aHJ3VWZHbkhEQ0t1b3phdFpGLV93bEJzbXRUczF3a2xya1hDYnJ0SHluUVpqZWdycWZfM3I0OFpSX0FTcUQtaG14Vy1EOEVtRXk4MnJoTjFOR3dsYzMySlVqOWdBcFFaWlFfd1JQaEVTZzFjdzY1UmRHV3dmMmpET2thWlB1OFlscW11c0F3VmwzWUdDLTFmd3FMZWI3bWNXaWY1UHgyQ1hvNVlZMng0cllWaWc2TFFfT1lxZTZNRnprN0E?oc=5)
+
+---
+
+## 8. जेडी मजीठियांचा नवा प्रयोग! AI तंत्रज्ञानासह प्रेक्षकांच्या भेटीला ‘तुलसी है ना’ सीरिज - My Mahanagar
+
+**विभाग:** तंत्रज्ञान
+
+जेडी मजीठियांचा नवा प्रयोग! AI तंत्रज्ञानासह प्रेक्षकांच्या भेटीला ‘तुलसी है ना’ सीरिज My Mahanagar
+
+[मूळ बातमी वाचा](https://news.google.com/rss/articles/CBMivwFBVV95cUxOM0ZFaDEzcXdjRks1ZDQ1NkFJTTFySXctc2YtYTBnS29Va19fdlpvRnNkTXpvVTdEUUZ1TGlnVEFaM0d5c0NwUlJPd0xSU3phQWNoZkJpZk1Ecm85ZFRxTFNLMUhFOEFTUGRvYk9wZjBVZkJFbmpqWE9Ua2lIYi13UDQyMGc3dDlUb01KZ3FWb3pYdFpxZDZZczZZUjg0NVB5ZWU3bWY4aXpwb0JMQXE5ZEUwWHlLc2dmWHg4X1p6Y9IBxAFBVV95cUxQZjVJTjNyS1JVQXVGOXBqaGFyRUhfNzNhdjd3NV94aVJnMGdNLWoyNS1wcF9GTngyWU9BNGFIbE0xNl9uc0pPc09ObXkzdElCWWQwMnFhYTVHNWpTcEhrNFRUaXp2OHdHRkdZaFQxY1A0RGZlbWs0dDFEQkIxaTNUT0tiY1FmVGhPV1VndWZmT29sMEFNZkI0Zm40R0Y3cEYwUTJQc2NxV0NtTHZFcWtibUdLTU9NZmhudEgtdV9RWGpBdnJT?oc=5)
+
+---
+
+## 9. गगनचुंबी इमारतींच्या देखभालीसाठी ड्रोन तंत्रज्ञान; पालघरच्या मिखिल कोटक यांना ऑस्ट्रेलियन सरकारची मान्यता - Loksatta
+
+**विभाग:** तंत्रज्ञान
+
+गगनचुंबी इमारतींच्या देखभालीसाठी ड्रोन तंत्रज्ञान; पालघरच्या मिखिल कोटक यांना ऑस्ट्रेलियन सरकारची मान्यता Loksatta
+
+[मूळ बातमी वाचा](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaU5lMHphZVB2Ym5lWlR5d2QzNUF5dlB0a2ZyNkRCODREb0ZrVVlfbFJDcElPVlo1RC1aRnl4czVLMVJSOVU5YzFRRjIzMnhrbmRoODdESVRyQjhTVjRob1c3ZC1VZmlzYU9QaF8zbnUzT0toZnVwak9FdXZ5WDhXWjcwYnhEcjZ3Nk16YUw0aGUzckxQdzU0cEVGVTdpNTNJR2pIREdBNW1CZkdCbWxDVS13SUtJZGNx0gG_AUFVX3lxTE5IdWpkN0c4X1Q0V2tQc2c3eWZ6alV2b3ZGLTZTbVpCc254b2tIdTFfa3VPQld6NHBQdElBYkRadmh3WEw2bUJlcEI5eXR0VzAxeDJSbU5USThhRi1TNVZLMThxZ1VRc0dtSTk5c1BsUVFhcnZLSVUxVmRRYXJJYUJRcl9DNE95YldiTHNuNGFaRWZFV2paaFdySVQzS1d2N0Q5TFFPVENWenJwaUpSNW9nUG51UFdJN19YYmpfM1Ew?oc=5)
+
+---
+
+## 10. US Market News : डेमोक्रॅट्सच्या विजयाचा टेक कंपन्यांना फटका; स्पेसएक्स, टेस्लासह AI क्षेत्रातील शेअर्स घसरले - navarashtra
+
+**विभाग:** AI आणि कृत्रिम बुद्धिमत्ता
+
+US Market News : डेमोक्रॅट्सच्या विजयाचा टेक कंपन्यांना फटका; स्पेसएक्स, टेस्लासह AI क्षेत्रातील शेअर्स घसरले navarashtra
+
+[मूळ बातमी वाचा](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSk9fNEtTRk1iQmdrcENMUzBhdW1iYndnTUdkRHFneS1BU0RZalNnWFI2UnFBbTMxTW5rUGhNanI1NVBfbC1MRUt0emZTMFVtcW11MTFfanNlbloyOVR5MVBfeVJydEp0MGlVa25sdHZhUlhycGdfUjM0RnA2VldTMWJZdTdVUUVQaXFCVFl4d0xpZmNfeDg3WTNIOU1iQ09sdmtBM25GWDl5Z9IBrwFBVV95cUxOSGdRUVZHZnhYc3VadWNDcW5oWW5yZmtBcnhEUDhiVEszTkNnUXRacTYySXlKZTJiWUxDcGhZOGduZld2a1B4WUtlaGhLRE1mQWVVQXZHSVVvdmRpZ2dKeEtKa0NuMzNpelMzVXBfS1JkaldGVW1FTDJmNnllVWZBVlJJaE0tWHViMXM4cWNla3g3N2hTRnRmVmxNVWtVMGNKUEw1VnlBdkNrZEROYmdV?oc=5)
+
+---
+
