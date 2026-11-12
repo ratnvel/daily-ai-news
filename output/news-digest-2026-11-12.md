@@ -1,0 +1,102 @@
+# दैनिक AI आणि तंत्रज्ञान बातम्या — 2026-11-12
+
+## 1. अमेरिकेची कोंडी की चीनची बाजी? - NavShakti
+
+**विभाग:** तंत्रज्ञान
+
+अमेरिकेची कोंडी की चीनची बाजी? NavShakti
+
+[मूळ बातमी वाचा](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOd2xvQlJkYVBxVzVHM1IyZzdITWFYanR1aU56TFAzaW1JSHE1M3AxVDVnaUNlQXdZRnJITE9ZRW5RbFJ1TWR1ak83QnN2MWd3S3JERWczMG5fUzh2WXMwQmZoX2E0a0RETjJBVU8wZGFQRGZ3NXNFeHBmcWdwTUtFQWhSTmlZa2hGMkZ3U0cyZjAyYWUtWnFMYnlZZzVZOUhVZlJmT0lfcTZPTTZfSks4RVJOZk1xTUdkMHJiams1VVAyMm5WODlXUldNVTZ4TmVUNVVMVtIB4gFBVV95cUxPUUJzNDR4ZlNQSkpJY1JSSU5LYzJublF2S3FVNXQtcl9wVVljVm5sTEdZSE9ZVFR3VVMwYmVYN081M010ZGtEWER2Q0VPVUxDY05qYjlNa3FITWZMM1RkRDljdWFEU3hUNjBnN25EVUw1Q1QtUnBvbnZwYWtYVnBiakZuR3ctSElDN3l5Ymd2YzVKa1R5SWhIcHNCMTdEeFBhRmRCU3M4Nk1pZzRHMWxzeTFkSTNES2d3YTVtdFRKLTdxRFJ4RzI4ZENVREhvbGh6NFFwbF9id2drdlRHRnpkRmRB?oc=5)
+
+---
+
+## 2. कारचा रंग बदलेल एका बटणावर! काय आहे E-Ink Car Body Technology? - Marathi News | Live News in Marathi | मराठी बातम्या | US-Israel-Iran War
+
+**विभाग:** तंत्रज्ञान
+
+कारचा रंग बदलेल एका बटणावर! काय आहे E-Ink Car Body Technology? Marathi News | Live News in Marathi | मराठी बातम्या | US-Israel-Iran War
+
+[मूळ बातमी वाचा](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcUJZZkNfTVpSY3BuYUtlOFB4cG1sNjFqaEFLQkhtMmNXNVFZWHZyd2wwNXMtNE8wUmFWUDNnMHdvaHF3RVpVUUNLWGxJbFFHNWQweG53NWt3TkoxSWFRY1RzWm9YLXdfQS1FVjRXZFdRUkZ2TTVRTDNfaFZBMnJmUjNnWGZOenk3ZjRrTC1RSGc0TDFSOHNCZEk5NlFyY1llQkxOeE9ETzVSbU82UGJmTUlPU1Z5dlh3N1NISlVCUHbSAcABQVVfeXFMT3FCWWZDX01aUmNwbmFLZThQeHBtbDYxamhBS0JIbTJjVzVRWVh2cndsMDVzLTRPMFJhVlAzZzB3b2hxd0VaVVFDS1hsSWxRRzVkMHhudzVrd05KMUlhUWNUc1pvWC13X0EtRVY0V2RXUVJGdk01UUwzX2hWQTJyZlIzZ1hmTnp5N2Y0a0wtUUhnNEwxUjhzQmRJOTZRcmNZZUJMTnhPRE81Um1PNlBiZk1JT1NWeXZYdzdTSEpVQlB2?oc=5)
+
+---
+
+## 3. कारचे हेडलाइट्स चक्क आत लपतात! काय आहे Pop-Up Headlights ची भन्नाट टेक्नॉलॉजी? - Marathi News | Live News in Marathi | मराठी बातम्या | US-Israel-Iran War
+
+**विभाग:** तंत्रज्ञान
+
+कारचे हेडलाइट्स चक्क आत लपतात! काय आहे Pop-Up Headlights ची भन्नाट टेक्नॉलॉजी? Marathi News | Live News in Marathi | मराठी बातम्या | US-Israel-Iran War
+
+[मूळ बातमी वाचा](https://news.google.com/rss/articles/CBMi4AFBVV95cUxOWFI1aHpXQ0lBV2JlVDFiQW5nOEc3ZnRNMmFXVDBGSkJzWlprS1BYRXhSYnR5QXBaRUpad3VRN1ZrT1FZQVVhcWNtRW9MTi0tQW1MbmVVTFRuQU1rMXdrUmhTT3Jqa3VUX3FVWHFGYXBFVWxXekdic1dVRmdMZzA4aElxZUJ6UVVEckhMUDBkVU82ZXVBZnlfcGY5S3A3ZXc4RERlRURaS0hPMFB5VFRRcEtDWVJxdTZBcnoxOUVFRDZEcWhQRHVnaWlEZEFyX2RYd1V0dlRRbVBhWTQwQjlldNIB4AFBVV95cUxOWFI1aHpXQ0lBV2JlVDFiQW5nOEc3ZnRNMmFXVDBGSkJzWlprS1BYRXhSYnR5QXBaRUpad3VRN1ZrT1FZQVVhcWNtRW9MTi0tQW1MbmVVTFRuQU1rMXdrUmhTT3Jqa3VUX3FVWHFGYXBFVWxXekdic1dVRmdMZzA4aElxZUJ6UVVEckhMUDBkVU82ZXVBZnlfcGY5S3A3ZXc4RERlRURaS0hPMFB5VFRRcEtDWVJxdTZBcnoxOUVFRDZEcWhQRHVnaWlEZEFyX2RYd1V0dlRRbVBhWTQwQjlldA?oc=5)
+
+---
+
+## 4. Agrowon Diwali Article: इंडसटिल : शेतकऱ्यांचे कष्ट कमी करणारे तंत्रज्ञान - Agrowon
+
+**विभाग:** तंत्रज्ञान
+
+Agrowon Diwali Article: इंडसटिल : शेतकऱ्यांचे कष्ट कमी करणारे तंत्रज्ञान Agrowon
+
+[मूळ बातमी वाचा](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWVpjVjdZOWt5N1NMblFNYjNGd19JS2o1VS1xbG1oTkJzbFJienZKODg0bUlpaVB2cWg2LVBtV0g4WXJteGZiaXNyMWdqeGhQYndhX1hwYURqajhoTzg4bU9UekRrUWZWd3FqYXpjWGVNQjQ5b0RQVGl0emYyc04zZ2dqNndMVE9pTnY5bExac0c4Smd2NDVwU01UNkpFT2lsY3NYVkFVc3RWMFk?oc=5)
+
+---
+
+## 5. ऑस्करच्या शर्यतीत 'रामायण'ची चर्चा, पण ९०च्या दशकातच महेश कोठारेंनी मराठीत केला होता CGI चा प्रयोग! - Marathi News Esakal
+
+**विभाग:** तंत्रज्ञान
+
+ऑस्करच्या शर्यतीत 'रामायण'ची चर्चा, पण ९०च्या दशकातच महेश कोठारेंनी मराठीत केला होता CGI चा प्रयोग! Marathi News Esakal
+
+[मूळ बातमी वाचा](https://news.google.com/rss/articles/CBMiogFBVV95cUxQVF9Nb04zVDJxVlc3eFFSM1M0WGhwaUFPakFReGZTRTFBeE1FZzBwR2hYU01IRnpGQXVhQktzSW1ReWV2dVhVQkJJUmlMWGZ3RzB5U0QxdG96dXRvRzVnQU5xVGtRXzZ1Qi1jX1QzVUVNNWoxWkRqdTV3LXdzUkZYWExKZWowTHI2SGltRERBdHRqQWpQYnN3Zy02NVdLQ1I2RUHSAaIBQVVfeXFMUFRfTW9OM1QycVZXN3hRUjNTNFhocGlBT2pBUXhmU0UxQXhNRWcwcEdoWFNNSEZ6RkF1YUJLc0ltUXlldnVYVUJCSVJpTFhmd0cweVNEMXRvenV0b0c1Z0FOcVRrUV82dUItY19UM1VFTTVqMVpEanU1dy13c1JGWFhMSmVqMExyNkhpbUREQXR0akFqUGJzd2ctNjVXS0NSNkVB?oc=5)
+
+---
+
+## 6. Agrowon Diwali Article: बायोमी : माती जिवंत ठेवण्यासाठी... - Agrowon
+
+**विभाग:** तंत्रज्ञान
+
+Agrowon Diwali Article: बायोमी : माती जिवंत ठेवण्यासाठी... Agrowon
+
+[मूळ बातमी वाचा](https://news.google.com/rss/articles/CBMipgFBVV95cUxOcF90SnBweFR3dy1OaU5GTVZsemE5RDhJTElrMnRrNXg1YkQxRXVhUHFRNmZxcHBjUXhteWdtY0cydl9zMnN5ZUwtcXRuTDRpMDVvcjRqQjZ1NjJtVEkzaW5mdWpnN1dIZG5wQWFPYlk0d3VzV3EwQnoxMkRvTWR6N2JxcjZFZjBUYzdXTUVJeWhKWWdZNTBtUGhFQ2FoNHVSOS12THNR?oc=5)
+
+---
+
+## 7. Rented Grandchild Startups: आजोबा-आजींना आता रेंटवर मिळणार नातू... कुठं परदेशात नाही तर भारतात सुरू झालेत स्टार्टअप्स - Pudhari News
+
+**विभाग:** भारत आणि स्टार्टअप
+
+Rented Grandchild Startups: आजोबा-आजींना आता रेंटवर मिळणार नातू... कुठं परदेशात नाही तर भारतात सुरू झालेत स्टार्टअप्स Pudhari News
+
+[मूळ बातमी वाचा](https://news.google.com/rss/articles/CBMisgFBVV95cUxNdDF3TDYzVVR5SWRHc0Z2N0RGS3lndUl1ejFQWVlLTE1XallQYUxDcmdaUjc0RDBzRWhoZElXQzQ2bUdFRzYyaTlXS285MGswT0YyM3ltNVJEOTNadEpJZlRZZ1lDT3MzdC1pdVlCaVZhX2JnbHk1MXRqUDlpQ3lCX1ZJeWdERXl5ejdLT3FYSXYwbFZKR2h4N05INWNDYk8xZTRxWXVaQW9IYnhxdm5yaGJn0gG_AUFVX3lxTE81elBOUzEzLUllYmFEc3FMaTIwb0Zqb04wNjhzM1BvdHFiQ1c1WGs5WndobFNFbnJmeDJxZDhsZmVmUl91VzJYalU4YzNLVmF6Q2NWb2stMmRfZkhFNnVCdGVCanpmUktPbUZVMWdicUhfdUNaOW5xMUhZTVVCVHdNWmJGbExwQ2g3aHN5U2VCSlZwb0dvejRKNjJuaTVYcXhGcm5kbGNMZDlkVGdBeFFDVWUzckJIN1NST2dKRnFB?oc=5)
+
+---
+
+## 8. China Economic Crisis : चीनच्या अर्थव्यवस्थेची दोन टोके; तंत्रज्ञान क्षेत्रात मोठी प्रगती, मात्र बेरोजगारी आणि घसरत्या गुंतवणुकीमुळे आर्थिक आव्हाने कायम - Esakal
+
+**विभाग:** तंत्रज्ञान
+
+China Economic Crisis : चीनच्या अर्थव्यवस्थेची दोन टोके; तंत्रज्ञान क्षेत्रात मोठी प्रगती, मात्र बेरोजगारी आणि घसरत्या गुंतवणुकीमुळे आर्थिक आव्हाने कायम Esakal
+
+[मूळ बातमी वाचा](https://news.google.com/rss/articles/CBMiywJBVV95cUxPV3dPRVN5dFR3U1U2ZFA1ckYxY251UVpHNExwRkk3b2E0M1RfV2lObWFQQzVmdVJ0eS1iZHp2cEJpU1FacE1KWHh2YVpWaWtRV2s4Uk1VVlRzcktTc0Y2TEZEYS1seG10TTNocVpLWW8wR2xUTk8wSVotcXQxZWdJeTFNS3RrdU81UHA1bE5jeEdRbVQ4VXBBOUtPblBRYnp0TXdEVnRDX3ZXTW9JLTZjQWM2V2stRUo0UnBVeEZXZTVHbWJTWThkMGh4Q0JMQldydmswUGVJT18yS1F4cnQ1S0s5bFpQOHgwWGNtY3QxRDF6ZmRHQnZ2VkV2a3RBUXh0eUh2NHNXM1dSbXhQZFlST3M0S1lIbWt5bVFuY1V3c0M5U1g2ZWU2WE9LSl9FS3JKNHdMT1ExTXFRaVBZQmVjeTRHNjJ3OXFFMXdJ?oc=5)
+
+---
+
+## 9. हवेच्या मदतीने कार रस्त्याला चिकटते! काय आहे Ground Effect Technology? - Marathi News | Live News in Marathi | मराठी बातम्या | US-Israel-Iran War
+
+**विभाग:** तंत्रज्ञान
+
+हवेच्या मदतीने कार रस्त्याला चिकटते! काय आहे Ground Effect Technology? Marathi News | Live News in Marathi | मराठी बातम्या | US-Israel-Iran War
+
+[मूळ बातमी वाचा](https://news.google.com/rss/articles/CBMiswFBVV95cUxOT0hVeHdnQzNPYVBTc19xTzVVSndnYTAxR2FDdkIzR3B3cUlacFM3alVZTmtENGc3NXVtdVU3ZURrclBEN2Y2aDZTUkhEN1d4aGxnSzV1RnEwQUxZMm9oc1g0TUJYd1BqUzZQeDVlUzBITTFmb1JUM2RMZlBPVWFFYU5PNFFtSi1TRWxSYU9XdTM4V2VHdlNWOE16NkdKeWVPeE1EOXg0RktfUllDY0V4U3I5d9IBswFBVV95cUxOT0hVeHdnQzNPYVBTc19xTzVVSndnYTAxR2FDdkIzR3B3cUlacFM3alVZTmtENGc3NXVtdVU3ZURrclBEN2Y2aDZTUkhEN1d4aGxnSzV1RnEwQUxZMm9oc1g0TUJYd1BqUzZQeDVlUzBITTFmb1JUM2RMZlBPVWFFYU5PNFFtSi1TRWxSYU9XdTM4V2VHdlNWOE16NkdKeWVPeE1EOXg0RktfUllDY0V4U3I5dw?oc=5)
+
+---
+
+## 10. बाईकच्या पुढे असतात छोटे पंख! काय आहे Winglets Technology? - Marathi News | Live News in Marathi | मराठी बातम्या | US-Israel-Iran War
+
+**विभाग:** तंत्रज्ञान
+
+बाईकच्या पुढे असतात छोटे पंख! काय आहे Winglets Technology? Marathi News | Live News in Marathi | मराठी बातम्या | US-Israel-Iran War
+
+[मूळ बातमी वाचा](https://news.google.com/rss/articles/CBMitwFBVV95cUxOQVFtd2VOY2ZyTGpDQWFYSDh5NGlWdjlQRW1fVHJtSVFGTFZwWHQzd2tRb1VLWjk4eUF1bExSMW1tWGZaZzhmQ0c3MTByQTVkZ2w4Und0eUtqdjhkT3NuWmJjQzBlNnVqQWxmdHV0clpPQVJjMkhaTU1KaTZKbGhfV0xnT3luaXFLSHkybHZXZVhBQ3BRZFJMOXJqdnEtcDZ4eXVwclR2eEpHNUNzT3FJbjcycl80ZXfSAbcBQVVfeXFMTkFRbXdlTmNmckxqQ0FhWEg4eTRpVnY5UEVtX1RybUlRRkxWcFh0M3drUW9VS1o5OHlBdWxMUjFtbVhmWmc4ZkNHNzEwckE1ZGdsOFJ3dHlLanY4ZE9zblpiY0MwZTZ1akFsZnR1dHJaT0FSYzJIWk1NSmk2SmxoX1dMZ095bmlxS0h5Mmx2V2VYQUNwUWRSTDlyanZxLXA2eHl1cHJUdnhKRzVDc09xSW43MnJfNGV3?oc=5)
+
+---
+
