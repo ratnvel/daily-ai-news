@@ -1,0 +1,102 @@
+# दैनिक AI आणि तंत्रज्ञान बातम्या — 2026-11-13
+
+## 1. चीनकरिता कथित माहिती पुरविणाऱ्या महिलेशी संबंध असल्याचे आरोप भोवले! जेन्सेन यांचा सीईओ पदाचा राजीनामा - ETV Bharat
+
+**विभाग:** तंत्रज्ञान
+
+चीनकरिता कथित माहिती पुरविणाऱ्या महिलेशी संबंध असल्याचे आरोप भोवले! जेन्सेन यांचा सीईओ पदाचा राजीनामा ETV Bharat
+
+[मूळ बातमी वाचा](https://news.google.com/rss/articles/CBMi6AFBVV95cUxORXJkYWFab1EyTUJsd3VaR3JGQTdIbi0xNC0xUjYxLWJ6MHpEZGtMQ2hLUVZYbnBMRUxSQ1NoSzNuNEE2ZUVIaDQ5cUhZZFZNSWhyNkN4OXBiWEplR1Y4cE9RQXBBUUZzcTZOQ1dPUGhCdG5Nbjl3ZU1NREpKeGoyWnA0N3hDSU5DSzI2LXdUc293YXEyMDg1RTBGbl8xUnNGWVBJcVFrMV85QWIyZHhkSjlMYXc3SGdkM0IweXB1cFRYWkN3RzRVQnVmMkxQdzFjV3pTYU5RT2U4S3ZUdTl6bWtYWnRkWUxH0gHuAUFVX3lxTFBfaXFsN0ROZ3hJUGR0Y0VQeVBCRUstU0UwR2lkenlxX2VzcUY0NklXT3g3M3l4bXU5NTJrMFBfY3MtT2hxSkVFQ29HRU93U0NFeFk3VjRqTGZXMjM4NFRwX19GNk1TcnAxNDJaX1VzYk03anVyZC1TaG9ldlFDY19GQWpSMDE2SVItM2RaQlB1QVROdUhzY0RWRnY1eXR3bFRRLXBCLUE4NDZQcUJNUm9ONFhKZXI0QVA4TUpMU19YUGkyLWRTak5ZN2IyZk4zeXgzdldicW5Dc0x1Q1AycVI1aC1YOWhOTHlqSTRySEE?oc=5)
+
+---
+
+## 2. Orchard Farming| ‘एआय’ हा सहायक, मालक तुम्हीच!| From the US to Satara: A New Model of Sustainable Farming - Agrowon
+
+**विभाग:** AI आणि कृत्रिम बुद्धिमत्ता
+
+Orchard Farming| ‘एआय’ हा सहायक, मालक तुम्हीच!| From the US to Satara: A New Model of Sustainable Farming Agrowon
+
+[मूळ बातमी वाचा](https://news.google.com/rss/articles/CBMilAFBVV95cUxPbm1LRk84Q3lRZmFVZENlZjQwLTRuT3pMR1NJVjBVMnAwRHAzbk4xc3pFckU0QjNabzlQQlNTMm9JQjJWVnBacnpTTVRwZE5neDhLYnE3aExicWloWURsY3JLYTdaaXpkaFItUWdwemhHQTFWN0F2WnhkWGtjYzA2c2NlZzMzQkJGbUdsZ2UzYXUxbW5U?oc=5)
+
+---
+
+## 3. Nitin Gadkari: टेस्ट ट्यूब बेबीप्रमाणे आता ‘टेस्ट ट्यूब गाय’ तंत्रज्ञानाचा प्रयोग; नितीन गडकरी यांची माहिती - Pudhari News
+
+**विभाग:** तंत्रज्ञान
+
+Nitin Gadkari: टेस्ट ट्यूब बेबीप्रमाणे आता ‘टेस्ट ट्यूब गाय’ तंत्रज्ञानाचा प्रयोग; नितीन गडकरी यांची माहिती Pudhari News
+
+[मूळ बातमी वाचा](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQTFhwTEJFTDFCakE5WE4xZW95TEw5UDVQY2loT0szeEJjUHU2d0piSDYyeHY0QXNQYnFXNjNNRGlDQmNMRlU0MlhaT1JoSVlLcTQwdzRoMEZucUZIQ0k2b3laTGRTeU05SjFpRnp2SU93WlV6VTd4MEhIcUU5YncwZ2lpbzYzeVBteGFOOWp5REN5WldRYjVoUndaV2lyYTdCc1J3cUFTa0d1TlZOTW9FNDdkMDlxWmd0SkU1N1FXTWRLangtWWpBaC1Yb3VDU2o3bXfSAd8BQVVfeXFMT2wwaXg4aWcwTlJZRl9DV191M3BYX1ItTVZ0ZHl6djVfcjFDUkt5d1MxeTVBSmVPS0lIRFZSNWNsNGo1bTg2a29wQ1B5bnNvODFKQnEzekREanFpaEVBeE1fUTc2b3E1bWlSaTB6Z0gyZWxYYUNnYlhxZ0tXSXpMcXBfbGJmNWlTMW9lSUYxdHFZNm9LMUNPc1ZfMEhWdmI5anJydFAwbnpEcVN6SUVNQjJKVE5uQkRTUmhXZGdFSTg2a1A0dzJOMlZ2MWhLR1Z2UHlTRmIxcXFDSU4weWVRbw?oc=5)
+
+---
+
+## 4. चीनच्या हाती लागल्या घातक Nvidia AI चिप्स - Maharashtra Desha महाराष्ट्र देशा
+
+**विभाग:** तंत्रज्ञान
+
+चीनच्या हाती लागल्या घातक Nvidia AI चिप्स Maharashtra Desha महाराष्ट्र देशा
+
+[मूळ बातमी वाचा](https://news.google.com/rss/articles/CBMibEFVX3lxTFA1WUx5a3Y0ZVpXWUk5dTR5dWZqYURTZXNzZUdic09INmhTR0g2N3FsUGtyc3NwekRhZU9acF8yUlpCaHBkbDdQY1Z6VF85NHk5d1RqbVA3dTZYcEZFc3BQNGNmUHRjVldxMzVFbQ?oc=5)
+
+---
+
+## 5. अमेरिकेची कोंडी की चीनची बाजी? - NavShakti
+
+**विभाग:** तंत्रज्ञान
+
+अमेरिकेची कोंडी की चीनची बाजी? NavShakti
+
+[मूळ बातमी वाचा](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOd2xvQlJkYVBxVzVHM1IyZzdITWFYanR1aU56TFAzaW1JSHE1M3AxVDVnaUNlQXdZRnJITE9ZRW5RbFJ1TWR1ak83QnN2MWd3S3JERWczMG5fUzh2WXMwQmZoX2E0a0RETjJBVU8wZGFQRGZ3NXNFeHBmcWdwTUtFQWhSTmlZa2hGMkZ3U0cyZjAyYWUtWnFMYnlZZzVZOUhVZlJmT0lfcTZPTTZfSks4RVJOZk1xTUdkMHJiams1VVAyMm5WODlXUldNVTZ4TmVUNVVMVtIB4gFBVV95cUxPUUJzNDR4ZlNQSkpJY1JSSU5LYzJublF2S3FVNXQtcl9wVVljVm5sTEdZSE9ZVFR3VVMwYmVYN081M010ZGtEWER2Q0VPVUxDY05qYjlNa3FITWZMM1RkRDljdWFEU3hUNjBnN25EVUw1Q1QtUnBvbnZwYWtYVnBiakZuR3ctSElDN3l5Ymd2YzVKa1R5SWhIcHNCMTdEeFBhRmRCU3M4Nk1pZzRHMWxzeTFkSTNES2d3YTVtdFRKLTdxRFJ4RzI4ZENVREhvbGh6NFFwbF9id2drdlRHRnpkRmRB?oc=5)
+
+---
+
+## 6. कारचा रंग बदलेल एका बटणावर! काय आहे E-Ink Car Body Technology? - Marathi News | Live News in Marathi | मराठी बातम्या | US-Israel-Iran War
+
+**विभाग:** तंत्रज्ञान
+
+कारचा रंग बदलेल एका बटणावर! काय आहे E-Ink Car Body Technology? Marathi News | Live News in Marathi | मराठी बातम्या | US-Israel-Iran War
+
+[मूळ बातमी वाचा](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcUJZZkNfTVpSY3BuYUtlOFB4cG1sNjFqaEFLQkhtMmNXNVFZWHZyd2wwNXMtNE8wUmFWUDNnMHdvaHF3RVpVUUNLWGxJbFFHNWQweG53NWt3TkoxSWFRY1RzWm9YLXdfQS1FVjRXZFdRUkZ2TTVRTDNfaFZBMnJmUjNnWGZOenk3ZjRrTC1RSGc0TDFSOHNCZEk5NlFyY1llQkxOeE9ETzVSbU82UGJmTUlPU1Z5dlh3N1NISlVCUHbSAcABQVVfeXFMT3FCWWZDX01aUmNwbmFLZThQeHBtbDYxamhBS0JIbTJjVzVRWVh2cndsMDVzLTRPMFJhVlAzZzB3b2hxd0VaVVFDS1hsSWxRRzVkMHhudzVrd05KMUlhUWNUc1pvWC13X0EtRVY0V2RXUVJGdk01UUwzX2hWQTJyZlIzZ1hmTnp5N2Y0a0wtUUhnNEwxUjhzQmRJOTZRcmNZZUJMTnhPRE81Um1PNlBiZk1JT1NWeXZYdzdTSEpVQlB2?oc=5)
+
+---
+
+## 7. कारचे हेडलाइट्स चक्क आत लपतात! काय आहे Pop-Up Headlights ची भन्नाट टेक्नॉलॉजी? - Marathi News | Live News in Marathi | मराठी बातम्या | US-Israel-Iran War
+
+**विभाग:** तंत्रज्ञान
+
+कारचे हेडलाइट्स चक्क आत लपतात! काय आहे Pop-Up Headlights ची भन्नाट टेक्नॉलॉजी? Marathi News | Live News in Marathi | मराठी बातम्या | US-Israel-Iran War
+
+[मूळ बातमी वाचा](https://news.google.com/rss/articles/CBMi4AFBVV95cUxOWFI1aHpXQ0lBV2JlVDFiQW5nOEc3ZnRNMmFXVDBGSkJzWlprS1BYRXhSYnR5QXBaRUpad3VRN1ZrT1FZQVVhcWNtRW9MTi0tQW1MbmVVTFRuQU1rMXdrUmhTT3Jqa3VUX3FVWHFGYXBFVWxXekdic1dVRmdMZzA4aElxZUJ6UVVEckhMUDBkVU82ZXVBZnlfcGY5S3A3ZXc4RERlRURaS0hPMFB5VFRRcEtDWVJxdTZBcnoxOUVFRDZEcWhQRHVnaWlEZEFyX2RYd1V0dlRRbVBhWTQwQjlldNIB4AFBVV95cUxOWFI1aHpXQ0lBV2JlVDFiQW5nOEc3ZnRNMmFXVDBGSkJzWlprS1BYRXhSYnR5QXBaRUpad3VRN1ZrT1FZQVVhcWNtRW9MTi0tQW1MbmVVTFRuQU1rMXdrUmhTT3Jqa3VUX3FVWHFGYXBFVWxXekdic1dVRmdMZzA4aElxZUJ6UVVEckhMUDBkVU82ZXVBZnlfcGY5S3A3ZXc4RERlRURaS0hPMFB5VFRRcEtDWVJxdTZBcnoxOUVFRDZEcWhQRHVnaWlEZEFyX2RYd1V0dlRRbVBhWTQwQjlldA?oc=5)
+
+---
+
+## 8. Agrowon Diwali Article: इंडसटिल : शेतकऱ्यांचे कष्ट कमी करणारे तंत्रज्ञान - Agrowon
+
+**विभाग:** तंत्रज्ञान
+
+Agrowon Diwali Article: इंडसटिल : शेतकऱ्यांचे कष्ट कमी करणारे तंत्रज्ञान Agrowon
+
+[मूळ बातमी वाचा](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWVpjVjdZOWt5N1NMblFNYjNGd19JS2o1VS1xbG1oTkJzbFJienZKODg0bUlpaVB2cWg2LVBtV0g4WXJteGZiaXNyMWdqeGhQYndhX1hwYURqajhoTzg4bU9UekRrUWZWd3FqYXpjWGVNQjQ5b0RQVGl0emYyc04zZ2dqNndMVE9pTnY5bExac0c4Smd2NDVwU01UNkpFT2lsY3NYVkFVc3RWMFk?oc=5)
+
+---
+
+## 9. फॉर्च्युनरला टक्कर देण्यासाठी नवी SUV बाजारात! 'या' दिवशी होणार लॉन्च, हायब्रीड टेक्नॉलॉजी अन् दमदार लूक - Esakal
+
+**विभाग:** तंत्रज्ञान
+
+फॉर्च्युनरला टक्कर देण्यासाठी नवी SUV बाजारात! 'या' दिवशी होणार लॉन्च, हायब्रीड टेक्नॉलॉजी अन् दमदार लूक Esakal
+
+[मूळ बातमी वाचा](https://news.google.com/rss/articles/CBMiugFBVV95cUxNWWlPVHRTYkRJbldLeXA4aGpOM3YxRDM1TDROem42MnQ2LWdGUy1CY3NrTkdaY0lpSjQ0R05GcmdwWXI5RlFaRmxhTjB4YW0ydXBwbUFscXhMS0dMOW4yaHJYcUFQNjcweER2R1NPcHdGZ05oWDVRdk9ydktraG1NdVNFN0J6aVBiU2szc2VEWEhpWFQ4OEFwekNFdWViN1F3MlNxbDZBamhQOURaeXpsa3NrZ3RKMGM1T3c?oc=5)
+
+---
+
+## 10. ऑस्करच्या शर्यतीत 'रामायण'ची चर्चा, पण ९०च्या दशकातच महेश कोठारेंनी मराठीत केला होता CGI चा प्रयोग! - Marathi News Esakal
+
+**विभाग:** तंत्रज्ञान
+
+ऑस्करच्या शर्यतीत 'रामायण'ची चर्चा, पण ९०च्या दशकातच महेश कोठारेंनी मराठीत केला होता CGI चा प्रयोग! Marathi News Esakal
+
+[मूळ बातमी वाचा](https://news.google.com/rss/articles/CBMiogFBVV95cUxQVF9Nb04zVDJxVlc3eFFSM1M0WGhwaUFPakFReGZTRTFBeE1FZzBwR2hYU01IRnpGQXVhQktzSW1ReWV2dVhVQkJJUmlMWGZ3RzB5U0QxdG96dXRvRzVnQU5xVGtRXzZ1Qi1jX1QzVUVNNWoxWkRqdTV3LXdzUkZYWExKZWowTHI2SGltRERBdHRqQWpQYnN3Zy02NVdLQ1I2RUHSAaIBQVVfeXFMUFRfTW9OM1QycVZXN3hRUjNTNFhocGlBT2pBUXhmU0UxQXhNRWcwcEdoWFNNSEZ6RkF1YUJLc0ltUXlldnVYVUJCSVJpTFhmd0cweVNEMXRvenV0b0c1Z0FOcVRrUV82dUItY19UM1VFTTVqMVpEanU1dy13c1JGWFhMSmVqMExyNkhpbUREQXR0akFqUGJzd2ctNjVXS0NSNkVB?oc=5)
+
+---
+
