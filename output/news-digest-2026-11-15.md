@@ -1,0 +1,102 @@
+# दैनिक AI आणि तंत्रज्ञान बातम्या — 2026-11-15
+
+## 1. AI Chip War: अमेरिका-चीनमध्ये चिप्ससाठी महासंग्राम! भारतासाठी संधी की आव्हान? - Lokshahi Marathi News
+
+**विभाग:** तंत्रज्ञान
+
+AI Chip War: अमेरिका-चीनमध्ये चिप्ससाठी महासंग्राम! भारतासाठी संधी की आव्हान? Lokshahi Marathi News
+
+[मूळ बातमी वाचा](https://news.google.com/rss/articles/CBMinAFBVV95cUxNZG1WY3FoQldqWnQ3cUc5WW45bW00Q2QwblphdXNKdjZWZlVmam92ZHBTT1hKTlBNYzZmU1lTdUxQbFhyNDVMS3R6Z1QxRl9aZWJNdkJvelRiZVRrVzhpUDhmeGdJQmFKc2ZYSXFlc0Zxd3ZzN1E1eE9KOFViTE5NV1I3dmVUOVlvYUFpRkt3RTNTQ01OWVk4RzB2R2_SAaIBQVVfeXFMTTVGX2FVUnZ5dDRJbG5ISHBqZWNMaUJTejdMX25KaFlDdEQzQUo4Tk45MFZ4UDlHbFp4c051UVVmbkZxdUZIX1VaMERvVTZVUzhSRUhfZDh2cDJIcUJUclZ3M0loOXZudDJIM0RWaGpKcURiaDFWU0pXYjhTdTZKM3RlUlJfMDJrSjlMSW5uN1JxWjBQemphSERmODQ1QjVUQ2Vn?oc=5)
+
+---
+
+## 2. सुईशिवाय शुगर तपासण्याचे तंत्रज्ञान! काय आहे Needle-Free Glucose Monitoring? - Marathi News | Live News in Marathi | मराठी बातम्या | US-Israel-Iran War
+
+**विभाग:** तंत्रज्ञान
+
+सुईशिवाय शुगर तपासण्याचे तंत्रज्ञान! काय आहे Needle-Free Glucose Monitoring? Marathi News | Live News in Marathi | मराठी बातम्या | US-Israel-Iran War
+
+[मूळ बातमी वाचा](https://news.google.com/rss/articles/CBMizgFBVV95cUxPSDZTMldCNmZBSDFBVnZHQXZqLVZxTjZmLVBTWmh3c0JEbFA4bEpjZWxFenh4bEVMVzUtVERsbXEzd05VRDg2UFBXaDEweWFrZ3BXZngxNlpqSjR2OXJFOVItamNVNE12cHhqQ0ZSa1o0VzR6UjdTMjdfbDl2aXg2Q1Y1aExtQWstXzQzekNPc0V3WnJtZzR4N0JCY3AyMkdlZ0l5THVSWHNNMVZTUHpFbDBSNHhKOWN3cmxMNEtGX1FvOVVfVzh4U3FiWWxzQdIBzgFBVV95cUxPSDZTMldCNmZBSDFBVnZHQXZqLVZxTjZmLVBTWmh3c0JEbFA4bEpjZWxFenh4bEVMVzUtVERsbXEzd05VRDg2UFBXaDEweWFrZ3BXZngxNlpqSjR2OXJFOVItamNVNE12cHhqQ0ZSa1o0VzR6UjdTMjdfbDl2aXg2Q1Y1aExtQWstXzQzekNPc0V3WnJtZzR4N0JCY3AyMkdlZ0l5THVSWHNNMVZTUHpFbDBSNHhKOWN3cmxMNEtGX1FvOVVfVzh4U3FiWWxzQQ?oc=5)
+
+---
+
+## 3. आता चालण्यानेही तयार होणार वीज! काय आहे Piezoelectric Technology? - Marathi News | Live News in Marathi | मराठी बातम्या | US-Israel-Iran War
+
+**विभाग:** तंत्रज्ञान
+
+आता चालण्यानेही तयार होणार वीज! काय आहे Piezoelectric Technology? Marathi News | Live News in Marathi | मराठी बातम्या | US-Israel-Iran War
+
+[मूळ बातमी वाचा](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeGtEcTJ2UlpyaUgwVlJNV29POXFqZldnVFA3QTI3S3BtVmtMTEo5eVpYYTljbU8zdUxILVcyU2g3TUwyTWJlMjRSaU1tN21KREh0d2tFLUJ1UU9ETHN3RlM4ejJLRjlLckVJS3ZNZTF5NTAyRjBmQ2xPNS02czltM1U2Y2xGazJOLUV5VVo0Q2Z0VTRLd0RxTGZnajFEUWxHODBiRjBRNzRubTVYR195WXBYcXlBRHhj0gG4AUFVX3lxTFB4a0RxMnZSWnJpSDBWUk1Xb085cWpmV2dUUDdBMjdLcG1Wa0xMSjl5WlhhOWNtTzN1TEgtVzJTaDdNTDJNYmUyNFJpTW03bUpESHR3a0UtQnVRT0RMc3dGUzh6MktGOUtyRUlLdk1lMXk1MDJGMGZDbE81LTZzOW0zVTZjbEZrMk4tRXlVWjRDZnRVNEt3RHFMZmdqMURRbEc4MGJGMFE3NG5tNVhHX3lZcFhxeUFEeGM?oc=5)
+
+---
+
+## 4. Horticulture Technology: आधुनिक फलोत्पादन तंत्रज्ञानासाठी अभ्यास दौरा, वाशीमसाठी २० नोव्हेंबरपर्यंत अर्ज मागविले - Agrowon
+
+**विभाग:** तंत्रज्ञान
+
+Horticulture Technology: आधुनिक फलोत्पादन तंत्रज्ञानासाठी अभ्यास दौरा, वाशीमसाठी २० नोव्हेंबरपर्यंत अर्ज मागविले Agrowon
+
+[मूळ बातमी वाचा](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYm9RZWFMZXduX1pQWmtxNWpncHd0Y3NBYVR5dS1WVmVRVDZhZVdLRXhWQ1dRbWNWRnplcXhkRTlwZUNLTXVoM2JPX3NraHFHQ09aQWhveTRjdjktNkRrcG5MQmFxcm9hWU9ZVFN1dUV6ZUtPTHh5WEh3NXI1SUE3MDNCOThkNVpLMXFxeU5VTDRuWWV3UldWeTRiNG1HYkxWVzNwVEFrSHM1YlU?oc=5)
+
+---
+
+## 5. फ्रिजमध्ये बर्फ तयार होतो, पण साचत का नाही? जाणून घ्या No Frost Technology चे रहस्य! - Marathi News | Live News in Marathi | मराठी बातम्या | US-Israel-Iran War
+
+**विभाग:** तंत्रज्ञान
+
+फ्रिजमध्ये बर्फ तयार होतो, पण साचत का नाही? जाणून घ्या No Frost Technology चे रहस्य! Marathi News | Live News in Marathi | मराठी बातम्या | US-Israel-Iran War
+
+[मूळ बातमी वाचा](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQT3Rhd3VFd0ZaVnB0SzlyYkRFa2tscHQ4VGlEeHdxSDVOUFFCbTY0aVgtN3MwLTBMYjl4VE43OXVUcDYyN3dmdmU3Wm1Ua1ZjQTBqSTMyWWd6RGNyYkJBN0o2ZFBwVjY3bjUtWHFReHdJdlFCMUtOak8ybGpaeGxzWElsZy1Vak9uNTF2VThHeWU2YkttTkFNalpNYW9NUVlYWWJiNXJjRll4cEJxR3FWaXFfSU1sQ0tfWkZaTTdKZzY5OGlJb2N2Q1Rmb2MyMmFYRXlYRW5DYWlxRDVvMVd5bGxuRdIB4wFBVV95cUxQT3Rhd3VFd0ZaVnB0SzlyYkRFa2tscHQ4VGlEeHdxSDVOUFFCbTY0aVgtN3MwLTBMYjl4VE43OXVUcDYyN3dmdmU3Wm1Ua1ZjQTBqSTMyWWd6RGNyYkJBN0o2ZFBwVjY3bjUtWHFReHdJdlFCMUtOak8ybGpaeGxzWElsZy1Vak9uNTF2VThHeWU2YkttTkFNalpNYW9NUVlYWWJiNXJjRll4cEJxR3FWaXFfSU1sQ0tfWkZaTTdKZzY5OGlJb2N2Q1Rmb2MyMmFYRXlYRW5DYWlxRDVvMVd5bGxuRQ?oc=5)
+
+---
+
+## 6. ‘कॅन्सर, हार्टअटॅकपेक्षाही AI जीवघेणा ठरेल; 'AI च्या गॉडफादर'समोरच तज्ज्ञाने व्यक्त केली मोठी भीती - Maharashtra Times
+
+**विभाग:** तंत्रज्ञान
+
+‘कॅन्सर, हार्टअटॅकपेक्षाही AI जीवघेणा ठरेल; 'AI च्या गॉडफादर'समोरच तज्ज्ञाने व्यक्त केली मोठी भीती Maharashtra Times
+
+[मूळ बातमी वाचा](https://news.google.com/rss/articles/CBMi_wFBVV95cUxPY1N1MHlBNndTUGprTXcxQUJENUdkcEhNd3BEZVJzVHNJenJHbHhkLTd0ZENHQTRrTjByaF9UcWFXYVFPVEtrZnJNcURQTjJmdW0zYTdhcHZRNXpUWFdxdEhRUTR3Q2dzWTQ2dk9tRmdfemd1eWxPLUZrWFplZmVoWjdqUEV5eV92M0lJRjA4Y1RCZFpubldMRWlNZ3lKVGNSSTlQUzFhQmx6MG5PWjlhOEdsMXFDS2gxR1Z2RENwZEpRNUpBSkg2S1FKWVdLR2VmTUdKSmNVb2xwaE5jRFdFZTU4YXRNc0JXN0xHZVhfc1haUWZPWWVrazJDOXVDcnfSAYQCQVVfeXFMT3RLSWpSX05WSUZtZ2xOWTBGZ3ZhM2hRNVJiQ2daU3hYbEhEcjRzY3d3b2sxbHdOVmFpejJSWnRMTjhnSGZDYm1kLXJTaHRRMy1LUndXNmt6WWRhR09saVZENzdORW5JUERQeTdjZnVzMXJDNExiV1BERHFmUG5yOTZMWWlndHNYb0FTa2pMSldSdzRfcFRvTGJiZzlLWGlocjdFTENsb09UMWdMUEduc1ZfRGNXYXVMeS1zR3c1STcwOUdacl9DaXBuOEE2VjRjdkVEOFF1eGJhckFkNkM0bDFlSTdrMUlKbndTVVpFUVFMczZxSk80WTc5MENBM3YzR29SNXk?oc=5)
+
+---
+
+## 7. एनवीडियाच्या सीईओचा राजीनामा; नेमकं कारण काय? - Prahaar.in
+
+**विभाग:** तंत्रज्ञान
+
+एनवीडियाच्या सीईओचा राजीनामा; नेमकं कारण काय? Prahaar.in
+
+[मूळ बातमी वाचा](https://news.google.com/rss/articles/CBMivwFBVV95cUxQcm14bVl1Y1IzRDRFOURvRHdyNVlFY0R0bnBuN2VlT1F1MDZJcXRRY2VLSURTS3VncDFKQTFmN0hlY2dJTE5OelJsUlduX2JCZng4SUlKd2pXMEttRnJndDU3TS10NEhUV3FPREdLa1N0UzV3WFBOTE5jNTZ5Qm1Qc3NOanJKUE1VMzhzV3VlWEpidVRsTVhDRE5jWWs2ZG8tMEVmVGFZbVdKYVRPdmpJcjNtRGIzOWZxYUJ5VWk4VQ?oc=5)
+
+---
+
+## 8. चीनकरिता कथित माहिती पुरविणाऱ्या महिलेशी संबंध असल्याचे आरोप भोवले! जेन्सेन यांचा सीईओ पदाचा राजीनामा - ETV Bharat
+
+**विभाग:** तंत्रज्ञान
+
+चीनकरिता कथित माहिती पुरविणाऱ्या महिलेशी संबंध असल्याचे आरोप भोवले! जेन्सेन यांचा सीईओ पदाचा राजीनामा ETV Bharat
+
+[मूळ बातमी वाचा](https://news.google.com/rss/articles/CBMi6AFBVV95cUxORXJkYWFab1EyTUJsd3VaR3JGQTdIbi0xNC0xUjYxLWJ6MHpEZGtMQ2hLUVZYbnBMRUxSQ1NoSzNuNEE2ZUVIaDQ5cUhZZFZNSWhyNkN4OXBiWEplR1Y4cE9RQXBBUUZzcTZOQ1dPUGhCdG5Nbjl3ZU1NREpKeGoyWnA0N3hDSU5DSzI2LXdUc293YXEyMDg1RTBGbl8xUnNGWVBJcVFrMV85QWIyZHhkSjlMYXc3SGdkM0IweXB1cFRYWkN3RzRVQnVmMkxQdzFjV3pTYU5RT2U4S3ZUdTl6bWtYWnRkWUxH0gHuAUFVX3lxTFBfaXFsN0ROZ3hJUGR0Y0VQeVBCRUstU0UwR2lkenlxX2VzcUY0NklXT3g3M3l4bXU5NTJrMFBfY3MtT2hxSkVFQ29HRU93U0NFeFk3VjRqTGZXMjM4NFRwX19GNk1TcnAxNDJaX1VzYk03anVyZC1TaG9ldlFDY19GQWpSMDE2SVItM2RaQlB1QVROdUhzY0RWRnY1eXR3bFRRLXBCLUE4NDZQcUJNUm9ONFhKZXI0QVA4TUpMU19YUGkyLWRTak5ZN2IyZk4zeXgzdldicW5Dc0x1Q1AycVI1aC1YOWhOTHlqSTRySEE?oc=5)
+
+---
+
+## 9. Orchard Farming| ‘एआय’ हा सहायक, मालक तुम्हीच!| From the US to Satara: A New Model of Sustainable Farming - Agrowon
+
+**विभाग:** AI आणि कृत्रिम बुद्धिमत्ता
+
+Orchard Farming| ‘एआय’ हा सहायक, मालक तुम्हीच!| From the US to Satara: A New Model of Sustainable Farming Agrowon
+
+[मूळ बातमी वाचा](https://news.google.com/rss/articles/CBMilAFBVV95cUxPbm1LRk84Q3lRZmFVZENlZjQwLTRuT3pMR1NJVjBVMnAwRHAzbk4xc3pFckU0QjNabzlQQlNTMm9JQjJWVnBacnpTTVRwZE5neDhLYnE3aExicWloWURsY3JLYTdaaXpkaFItUWdwemhHQTFWN0F2WnhkWGtjYzA2c2NlZzMzQkJGbUdsZ2UzYXUxbW5U?oc=5)
+
+---
+
+## 10. Nitin Gadkari: टेस्ट ट्यूब बेबीप्रमाणे आता ‘टेस्ट ट्यूब गाय’ तंत्रज्ञानाचा प्रयोग; नितीन गडकरी यांची माहिती - Pudhari News
+
+**विभाग:** तंत्रज्ञान
+
+Nitin Gadkari: टेस्ट ट्यूब बेबीप्रमाणे आता ‘टेस्ट ट्यूब गाय’ तंत्रज्ञानाचा प्रयोग; नितीन गडकरी यांची माहिती Pudhari News
+
+[मूळ बातमी वाचा](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQTFhwTEJFTDFCakE5WE4xZW95TEw5UDVQY2loT0szeEJjUHU2d0piSDYyeHY0QXNQYnFXNjNNRGlDQmNMRlU0MlhaT1JoSVlLcTQwdzRoMEZucUZIQ0k2b3laTGRTeU05SjFpRnp2SU93WlV6VTd4MEhIcUU5YncwZ2lpbzYzeVBteGFOOWp5REN5WldRYjVoUndaV2lyYTdCc1J3cUFTa0d1TlZOTW9FNDdkMDlxWmd0SkU1N1FXTWRLangtWWpBaC1Yb3VDU2o3bXfSAd8BQVVfeXFMT2wwaXg4aWcwTlJZRl9DV191M3BYX1ItTVZ0ZHl6djVfcjFDUkt5d1MxeTVBSmVPS0lIRFZSNWNsNGo1bTg2a29wQ1B5bnNvODFKQnEzekREanFpaEVBeE1fUTc2b3E1bWlSaTB6Z0gyZWxYYUNnYlhxZ0tXSXpMcXBfbGJmNWlTMW9lSUYxdHFZNm9LMUNPc1ZfMEhWdmI5anJydFAwbnpEcVN6SUVNQjJKVE5uQkRTUmhXZGdFSTg2a1A0dzJOMlZ2MWhLR1Z2UHlTRmIxcXFDSU4weWVRbw?oc=5)
+
+---
+
