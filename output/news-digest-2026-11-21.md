@@ -1,0 +1,102 @@
+# दैनिक AI आणि तंत्रज्ञान बातम्या — 2026-11-21
+
+## 1. OpenAI स्मार्टफोन बाजारात उतरणार ? 2027-28 मध्ये पहिला AI फोन लॉन्च होण्याची शक्यता - Prahaar.in
+
+**विभाग:** तंत्रज्ञान
+
+OpenAI स्मार्टफोन बाजारात उतरणार ? 2027-28 मध्ये पहिला AI फोन लॉन्च होण्याची शक्यता Prahaar.in
+
+[मूळ बातमी वाचा](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZ25TMnViYnJCc3Rwelh5WVZQVlRZdkZsZDFXVUZSWERpMWw0QzZZeVNpQWJkN0NZZjBWYWJrOExJekpqSTQwUmJ5Z2NvRTIwTk5WNFBmNG5Kc3dsWnhqMFdtSWxoODBxcktCUlhvakZGMVJRakVRLXItdU1ROENRXzNZVkI2Wno0clVGODRDdzl0d2RVMTBzZzhPTUFKNE1FNHlIQnNuekNOa2pkYWFHU0M0Rnk4MUdW?oc=5)
+
+---
+
+## 2. NVIDIA आणि Microsoft ची झेप: AI ला क्लाउडवरून थेट Windows PC वर आणलं! - ETV Bharat
+
+**विभाग:** तंत्रज्ञान
+
+NVIDIA आणि Microsoft ची झेप: AI ला क्लाउडवरून थेट Windows PC वर आणलं! ETV Bharat
+
+[मूळ बातमी वाचा](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOYWs1NFF2Ty1CVnFYaHRmbDBQbFg0UmtVelVFeW1NLVpiNFAyWnVUSUQ1OS0wc2s5cl9xTmJ3anZudUltLW1WUXY0SjhkU3Bmd0JST1lINXN5Vk1DNVhrNGN6c1RZVC1TZHRhcGFmLWZhVHBNZHh0aTZSbjZpWThsSmw0c0pmaDNBWWRoNGZVZFZmYWpGZjBDYUEzbzNpdVVxTHc1WGZFTnZyb2l2TlE3TENGcGEtT180QmVRNVhYWE15cWR5Z0RxZdIBzgFBVV95cUxOZmtkaTB2SzMwemVzTnlIaG5MOG1ETTFfTVFHc2NxNUotMVVKMndCR2dxbHZVQkVPSmIxeXdpZXQyZC15OWRFNF9hbWZOYVJGbkdYUGZySHhOWU1BRVpOLUNqSEhaV0FUUGZ3U0tkOWxDa0dCVy12RWhGQXE3NDNSVGdwNWl1N2x3VFJiS1NpanhWUjd5UHVsRHRkTHJMSnJGT1Nzdkh6QlBwLWplckROQUZKMkhZdXVud1Z2VmxjMDVQU0pRU05QTUlzdlNlZw?oc=5)
+
+---
+
+## 3. India Startup Growth नवउद्योगांच्या आकडेवारीतून बदलत्या भारताचा वेध! - Marathi News - MahaMTB
+
+**विभाग:** भारत आणि स्टार्टअप
+
+India Startup Growth नवउद्योगांच्या आकडेवारीतून बदलत्या भारताचा वेध! - Marathi News MahaMTB
+
+[मूळ बातमी वाचा](https://news.google.com/rss/articles/CBMiogFBVV95cUxNZmdkcVpZNWRqZUMyMlBQeVQxc2IyeEZ3ZHF4TjFXM2RDX3ZrTkI4dkg3LTVzQ0them5pNnZrVWFXc1F1NXUzMmw0U1ZrQ3c0UVhyemdQOHJFRG5qTUI4SXJOX3BIdlIxWGxtNFg1SHotZVZNeGlIVVdMdS1hSHBUM2lWN3ZyMzZTWE51eG00UUNQTWZRSndTeTlTNVFUNG4xTVE?oc=5)
+
+---
+
+## 4. India First Deeptech U-Hub: देशातील पहिला डीपटेक यू-हब उभारला जाणार 'या' शहरात; सरकारने मंजूर केला २८१ कोटींचा निधी - navarashtra
+
+**विभाग:** भारत आणि स्टार्टअप
+
+India First Deeptech U-Hub: देशातील पहिला डीपटेक यू-हब उभारला जाणार 'या' शहरात; सरकारने मंजूर केला २८१ कोटींचा निधी navarashtra
+
+[मूळ बातमी वाचा](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQWFFuelh3bVJCOWlZX29xS01ueGdfbUI5MlBtVWR5dkhGdDdqUHFIeXBJM3NmZjVUTjM3S2ZaZ2laT180Q2FZQ0FrTFpDR0w0dUtDdW9tNk5iOHFnQW00ZE5fY2V3T3BKSERhUTZFbTBhNGpMMXdURjczdjYzRXZEYTl6b2hZbkJVS1Zma3Y4OFpyWHBpbDlIakpnQUNxeVZWSUl0Zl91X2dKYnVkNXd3WUlXT0NzbnFmcmdCN25BckVKUktlM1hoVtIBzgFBVV95cUxQQTQtVUlmT3V1ZF90ZERta3F6ZEsxMHl2ZXd2RDVIVndEekNrZDUzWUM2THFyMHR0YmpUNEZPb0gxT1JwdW91eEItaHZ5OXJtakhtUDVvY2kyVHoyUmJHTDliSTRyX2Rtdzk3OXJ5aV9Mbm9LN0FZTEZXbmhRWVNtaDNmaW10WWJ6cVFJWS1yU245c01mSXlBbm1JaTA3QndyeXRtdDBMMzY0Z21TVUk5T210WHJOQm1UOU5iX2l0MDhWcDV6ZEtyRUtZMEZFdw?oc=5)
+
+---
+
+## 5. ड्रायव्हरला डुलकी लागताच कार देणार अलर्ट! काय आहे Driver Monitoring System? - Marathi News | Live News in Marathi | मराठी बातम्या | US-Israel-Iran War
+
+**विभाग:** तंत्रज्ञान
+
+ड्रायव्हरला डुलकी लागताच कार देणार अलर्ट! काय आहे Driver Monitoring System? Marathi News | Live News in Marathi | मराठी बातम्या | US-Israel-Iran War
+
+[मूळ बातमी वाचा](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQZ2h1dHNTakhldG1aelhhYmtfbURfZ0RCYzlKMEt6ZWY1LTdFX3RpMlYxWlU1YzRrOURiRjZNQUE1UzVwLVlFRjhpRlF2b2RJaVh2ZXNkUnFNOFR4NzJKblhrdWhKMXRxLWYzSDJSNGU4S1F4dlNudWdmbUpCSHFaNXd0dHdTUlZRUUFHQ0FrQU11QjMzVjRrenRMY0lzYVRkelpkT1E4dTFsaUVXQlF6VWhobnNUejhTMW1VdjRoSGtKeC14V3VZLW9xdDBXT0FVWGhDd0lnSWItVUM2ZHfSAd4BQVVfeXFMUGdodXRzU2pIZXRtWnpYYWJrX21EX2dEQmM5SjBLemVmNS03RV90aTJWMVpVNWM0azlEYkY2TUFBNVM1cC1ZRUY4aUZRdm9kSWlYdmVzZFJxTThUeDcySm5Ya3VoSjF0cS1mM0gyUjRlOEtReHZTbnVnZm1KQkhxWjV3dHR3U1JWUVFBR0NBa0FNdUIzM1Y0a3p0TGNJc2FUZHpaZE9ROHUxbGlFV0JRelVoaG5zVHo4UzFtVXY0aEhrSngteFd1WS1vcXQwV09BVVhoQ3dJZ0liLVVDNmR3?oc=5)
+
+---
+
+## 6. मनगटातील घड्याळापासून ते मोटारी अन् विमानांपर्यंत ‘सरफेस कोटिंग’ महत्वाचे! - Loksatta
+
+**विभाग:** तंत्रज्ञान
+
+मनगटातील घड्याळापासून ते मोटारी अन् विमानांपर्यंत ‘सरफेस कोटिंग’ महत्वाचे! Loksatta
+
+[मूळ बातमी वाचा](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcmRoVmRrQm5td3RmLWd2cHpJSDdQZkwtSWpNMzRoaUFSYmdrNTc4bjRKOFVVMGR0ckRxMkk5RkFBNGdPa1hJQzdpbWItRWRRb0d0cktrNHR1c0VxVnJ4MTk3WnJJN2xacVlTOExNT1JvalNiaThUSHR0NG9lV2p0aC1DOUFPTEJlSzhSVGhDblY1SUd3TU9KZ1hwc3hpel9XcTgwdGowenjSAa8BQVVfeXFMUFk3U1RGUUMxRTl6dHl1RF91WFRfcTVOeVc5d3htYy1ncWFxa1FfVFYza1hmbHJhQnZldGJERHNEWVRGR05CeUhxRFVSNGs1MnJtWmxOSlotU3RCYW01cWdzTW83UmNvd1BlUGpaQTBxMmtGbjhNZUlSSFM3R015ZjVyY0FMX2lOemxvNG1TR2R3ZzBuSzNVMG9CeGhjWndPTnh5LXFnTnduc013UFFqOA?oc=5)
+
+---
+
+## 7. ADAS Level 1 vs Level 2: कारमध्ये कोणते तंत्रज्ञान देते अधिक सुरक्षित ड्रायव्हिंगचा अनुभव? - Marathi News | Live News in Marathi | मराठी बातम्या | US-Israel-Iran War
+
+**विभाग:** तंत्रज्ञान
+
+ADAS Level 1 vs Level 2: कारमध्ये कोणते तंत्रज्ञान देते अधिक सुरक्षित ड्रायव्हिंगचा अनुभव? Marathi News | Live News in Marathi | मराठी बातम्या | US-Israel-Iran War
+
+[मूळ बातमी वाचा](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWHNCNWJ3bFJja2ZjbXVjZkQ1eDkzSzNlcS00R1lWR1lZRl9sSmJIYlcyR3BpWXZNRUpPZmxBTUtSM1ZGSU5WNWg0S0ZXSjRRSFJKYmJfQ0JuM0R0MDZrT1dQVDBKUkVvYTQ5ZHdOdFdmRFNlTXNVSjR1eUIxRW90VXpsWWlkckN3MzNTeXpJRmdMTmJ3UVZfdksybnktVUhpWUE1bWJMYTRyRjR1eTBLMTJ0OG1DeUN5VG9HTURxWHdhZmPSAcMBQVVfeXFMT1hzQjVid2xSY2tmY211Y2ZENXg5M0szZXEtNEdZVkdZWUZfbEpiSGJXMkdwaVl2TUVKT2ZsQU1LUjNWRklOVjVoNEtGV0o0UUhSSmJiX0NCbjNEdDA2a09XUFQwSlJFb2E0OWR3TnRXZkRTZU1zVUo0dXlCMUVvdFV6bFlpZHJDdzMzU3l6SUZnTE5id1FWX3ZLMm55LVVIaVlBNW1iTGE0ckY0dXkwSzEydDhtQ3lDeVRvR01EcVh3YWZj?oc=5)
+
+---
+
+## 8. पुणे जिल्हा परिषदेच्या शाळेतील २५ विद्यार्थी 'NASA'च्या दौऱ्यावर, स्टॅनफोर्ड विद्यापीठ आणि गुगलसह नामांकित वैज्ञानिक, शैक्षणिक आणि तंत्रज्ञान संस्थांना भेट देणार - marathi.hindusthanpost.com
+
+**विभाग:** तंत्रज्ञान
+
+पुणे जिल्हा परिषदेच्या शाळेतील २५ विद्यार्थी 'NASA'च्या दौऱ्यावर, स्टॅनफोर्ड विद्यापीठ आणि गुगलसह नामांकित वैज्ञानिक, शैक्षणिक आणि तंत्रज्ञान संस्थांना भेट देणार marathi.hindusthanpost.com
+
+[मूळ बातमी वाचा](https://news.google.com/rss/articles/CBMiwwJBVV95cUxOby1kMVFmUVVMOHZaTkxYREtERkVBdEJ3b09jTXNUUTkzd2g4VEdJZmI1dG41VWxiMjREQWxiWVczWmZiejdQQkI5dWNxNmpUa3ozbHpJRlJHZ3lnalZlbk1DWnFXTWN0a3RpMjItVU1qNGY0QWVCZnJ1ZjlucS1pYk5NQ0FPbVVyYnF2azU5LUZxbzgySzY4bnY3Uy1GYXNFV0U3Qi1UaGVuMUdPb29tUHpTcHd6QUtVY2R4M3hwNmcxUTk0WXF3VkVidzVxbEo2dmNDZUNDZ2Z1VWx1YTFMa3RzaE8zOWR6Wkh4c09kaVJtekhQMFpEN0pnNnBLRUNSQl9pSWM3NG1sSkpiako2c1UtMkFvalJwUnlGNVBRRU1YNmV1Q1o5dC14SV9UR3B1RllhNWUwTko4Y045dDJwOTBuRQ?oc=5)
+
+---
+
+## 9. Russia Agriculture Technology : शेतीसाठी रशियाचे हवामान अनुकूल तंत्रज्ञान; पाणी बचतीसाठी पॉलिमर, दुष्काळ सहनशील खतांवर भर - Agrowon
+
+**विभाग:** तंत्रज्ञान
+
+Russia Agriculture Technology : शेतीसाठी रशियाचे हवामान अनुकूल तंत्रज्ञान; पाणी बचतीसाठी पॉलिमर, दुष्काळ सहनशील खतांवर भर Agrowon
+
+[मूळ बातमी वाचा](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQzY0WDhwYklQRlh6RmxubWNtMVZXUVB4TUlKVHZRQ1hUNTdxeUYzNmIyNmRyR3JNczBPa19MSEVReWVOaExCZTNxM2FwRjMxQnhST18tUW1jV0VKdHc0UGxQX19vTUdCQ1NVQ1lpX2NnRl9zNjlscU1OLUF5bm16V01keUpPN3RVR2hWX3RVWFRqZ3JqZWRkR2tYYXdpVkQ5NXpUZFZSOFozTzVHcjd0WW1DdXV3V2VtczBEN2RzMmxUTnM?oc=5)
+
+---
+
+## 10. कपडे न धुताही स्वच्छ होणार? Ozone Laundry Technology कशी करते काम? - Marathi News | Live News in Marathi | मराठी बातम्या | US-Israel-Iran War
+
+**विभाग:** तंत्रज्ञान
+
+कपडे न धुताही स्वच्छ होणार? Ozone Laundry Technology कशी करते काम? Marathi News | Live News in Marathi | मराठी बातम्या | US-Israel-Iran War
+
+[मूळ बातमी वाचा](https://news.google.com/rss/articles/CBMiwgFBVV95cUxONXU3c0tGSHBTakN5UDNnN2FRVTJwS2lFVXlvTi1Vb3RNTXdHODFzemVqSHRlN20wMW5vSm9RclpBSXJBYVZidEdDUXJiTlBNaHEwUXRoSmZWU2dEVjRFVV9uVFBfeEFYVEhpSUd2UVJHVHhKd2VDWlpuVEp0VlBCSW1NS2JyazdmS29reDBSRjBRcmhESXJuSmgzMGpSRDExZFdiaGpfeGIxNjUxTHppYldRZFlBYy1xb2ExQnJfb2R1Z9IBwgFBVV95cUxONXU3c0tGSHBTakN5UDNnN2FRVTJwS2lFVXlvTi1Vb3RNTXdHODFzemVqSHRlN20wMW5vSm9RclpBSXJBYVZidEdDUXJiTlBNaHEwUXRoSmZWU2dEVjRFVV9uVFBfeEFYVEhpSUd2UVJHVHhKd2VDWlpuVEp0VlBCSW1NS2JyazdmS29reDBSRjBRcmhESXJuSmgzMGpSRDExZFdiaGpfeGIxNjUxTHppYldRZFlBYy1xb2ExQnJfb2R1Zw?oc=5)
+
+---
+
