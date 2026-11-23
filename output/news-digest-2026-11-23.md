@@ -1,0 +1,102 @@
+# दैनिक AI आणि तंत्रज्ञान बातम्या — 2026-11-23
+
+## 1. India Startup Growth नवउद्योगांच्या आकडेवारीतून बदलत्या भारताचा वेध! - Marathi News - MahaMTB
+
+**विभाग:** भारत आणि स्टार्टअप
+
+India Startup Growth नवउद्योगांच्या आकडेवारीतून बदलत्या भारताचा वेध! - Marathi News MahaMTB
+
+[मूळ बातमी वाचा](https://news.google.com/rss/articles/CBMiogFBVV95cUxNZmdkcVpZNWRqZUMyMlBQeVQxc2IyeEZ3ZHF4TjFXM2RDX3ZrTkI4dkg3LTVzQ0them5pNnZrVWFXc1F1NXUzMmw0U1ZrQ3c0UVhyemdQOHJFRG5qTUI4SXJOX3BIdlIxWGxtNFg1SHotZVZNeGlIVVdMdS1hSHBUM2lWN3ZyMzZTWE51eG00UUNQTWZRSndTeTlTNVFUNG4xTVE?oc=5)
+
+---
+
+## 2. Yash Patil : वय 23 वर्षे अन् AI कंपनीची किंमत 42 हजार कोटी! कोण आहेत यश पाटील? एआय स्टार्टअपचा - ABP Majha
+
+**विभाग:** भारत आणि स्टार्टअप
+
+Yash Patil : वय 23 वर्षे अन् AI कंपनीची किंमत 42 हजार कोटी! कोण आहेत यश पाटील? एआय स्टार्टअपचा ABP Majha
+
+[मूळ बातमी वाचा](https://news.google.com/rss/articles/CBMimwJBVV95cUxOUHJxNmdrQWFFRlk2Znc0eVVheTJUazZFbGh4RWVCdW5EbUhJWURhQ1lSRVlpTGdpalBTQVVQa2tRdm1QZkRqRUx5Sk5kM2d1WVJLTklCbTh2ZUJMQ0h1bXhtUEZILU1UR2Z6dXVTVU94aENUTmhCdXNlTjVMcDJuTHgzNEczdUxYVTNFUWlVMlBETE9oRGQ0LVdRRzJMYlhjc0czcU5FU2haUmRsT2hzamZnbk1ndjlBanpYWXNwQkhXMHVNeUZzZE1OQ2ZVSDBNQ2t3WTYxMzNGM0hYc2FQc3VjTkFiVFU4Z0JLdjFVdGYxWDJLRFVuNDJ5U0UwTFE3VHpmYkk2U3NkazVkYmhOSE8xVm4wRkxjNEFz0gGgAkFVX3lxTE5YYVo1RHpWTHUwWVMzSFFkM19XakctUnVuZmN6eHl0OF9yT0Vtb05xcjd0SG5kbHlSWjBVNkRpTi15N3dDUlZvVWJDa0xDcUJWci0tSFZjTjNwU1ZxaFdIWXZ2VDFOcmpickk4UUJlamkxNmJIbVg1Q2RadHVYM2lCaWdOTjdzM0lGZmxhanB4b3FjelRIckk0ZzhYcndVdC1aM3lsUzZ2Tm1nMHVsNjlzVjhXRWhuZjNtOW0yUzdYem9Ga0JTRVBzbS1vQW1mQ0RKdUpzNE8xU1AxMHR6b2hOUDhpRXY1OGpXM3hkR3BGaWJHNVBuek91UFluc2hNRm9TMGUxc2dYazJkRTdGRWVVY3YxdHRkeWR2bndOT1VEaQ?oc=5)
+
+---
+
+## 3. भारत आर्थिक संकटाच्या उंबरठ्यावर? बेरोजगारी, शिक्षण व्यवस्थेवरून राहुल गांधींचा केंद्र सरकारवर हल्लाबोल - Deshdoot
+
+**विभाग:** भारत आणि स्टार्टअप
+
+भारत आर्थिक संकटाच्या उंबरठ्यावर? बेरोजगारी, शिक्षण व्यवस्थेवरून राहुल गांधींचा केंद्र सरकारवर हल्लाबोल Deshdoot
+
+[मूळ बातमी वाचा](https://news.google.com/rss/articles/CBMimgFBVV95cUxPajdFa08zSlNINlV5a3FnRU5pX2l5SHFEVXUzQVpvWlBOUkFIenZoUm1GdXR1cGxNeUxwb3BpNV9va2NiZV9OaGxwM00wTkZxc0NlTUg1TzJtWUswdkVMNG5VZTFldlRzVFBpNG40WlRJeXZBRVREY29wS3ltcGNscGxBRlpjMlZCOGMzZ0RPeE1rWnZJOUUtSVZR?oc=5)
+
+---
+
+## 4. दुबईतील 1 कोटीची नोकरी सोडली, भारतात सुरु केलं स्टार्टअप, आता वर्षाला मिळवतेय - ABP Majha
+
+**विभाग:** भारत आणि स्टार्टअप
+
+दुबईतील 1 कोटीची नोकरी सोडली, भारतात सुरु केलं स्टार्टअप, आता वर्षाला मिळवतेय ABP Majha
+
+[मूळ बातमी वाचा](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPanlyRlBJMXBVMHJoc05RcjdxNExQTjluUkt5Tjg3Q1djdnVuNjV4WXJIRFlVNnRRQ29zeGNpdDJIZmd4eTduaFZ2blVFNzlRMzVXUDA5eTBvSGkwMFhHM2c1bW9VZDFra1l2Qm9tdDF1emlGM1F5cXo2WWpnTHJaZHJOWGo5WXRpRkV2WURUZ2tIbjRHRGxCTUZESTY5c0JlYmVMa3prVUhReHY4cG9SRDJXTTVMS3hNTnhaYzRDTWZHS045WTdNZ3RhR0N0blNQX2fSAdcBQVVfeXFMTUM5RXExN2lxM202Um5UVjY4VG84QlAtWFVZZDNOSnd6WnlkU3dVSWR5bXFmenRhVmhNekhNc0dteGllblcwTmhKZWx6dnpPMzRLV2ViZzVadm55YVhJT2NGMzB3eFlUMzlpTTE2WmY2R3JBb0FkcEFmbWpXazhHajVTRzNLZ183cGhtdkN0b3FkMzNHOUxzOFA3ZEZFWVF2RFlGQzdpbjBUVWEzT2tMWWRuc0R2aWxmekpKSEdjMHo5N1RaM2VRaVVBT3hFRWFrdTFkZXdmOU0?oc=5)
+
+---
+
+## 5. maharashtra-women-startup-hub महाराष्ट्रात उभारणार महिला स्टार्टअप हब - tarunbharat.net
+
+**विभाग:** भारत आणि स्टार्टअप
+
+maharashtra-women-startup-hub महाराष्ट्रात उभारणार महिला स्टार्टअप हब tarunbharat.net
+
+[मूळ बातमी वाचा](https://news.google.com/rss/articles/CBMihgFBVV95cUxQSS1scklvMkFzcjhqdWdYb1I2TTVHaVV3LTZOY054Q0NtNmswTlVodkk3Vm92a2RLdjN0YU5sb2VDWE1XSW5CZndDN3JBZmg5eTJDeE1VdDR0aGpQazFTZ2lOZlVlV0NvQXdESHp5MWZlOGk0R2RPUU5HOGwzR0FxY1lCUE1HQQ?oc=5)
+
+---
+
+## 6. पुण्याच्या दाम्पत्याची कमाल! बनवली देशातील पहिली ‘मीठाची बॅटरी’; सूर्यप्रकाशावर होणार चार्ज, लिथियमला तगडा स्वदेशी पर्याय - Loksatta
+
+**विभाग:** भारत आणि स्टार्टअप
+
+पुण्याच्या दाम्पत्याची कमाल! बनवली देशातील पहिली ‘मीठाची बॅटरी’; सूर्यप्रकाशावर होणार चार्ज, लिथियमला तगडा स्वदेशी पर्याय Loksatta
+
+[मूळ बातमी वाचा](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaVUzQ29Jb3FXYVV4TmZoRUd6V09Gd1F5WW4yc3NNcU52ZHBmb01rYTdlVGlEVmtKN0hWYnlrVGV5bFVVVEdFcW5mQ2lpOGp5RzNDLU40bVNlNVg5YmtBeXNKcFg0SXVpTXg5S2tBaXJralg1b0ZuRnYxS2FOTWpCV2FsRkJiZGNmalRBa2YzLW1ndW9rM1FrNnl6YkVlcUtSUlpCSU11TUxPSjMtS3duVDRqREhPcUdHVHpWOGtZblrSAccBQVVfeXFMTnlfQ2tOdmo0ZXhZdjdiRWtuRkw0NmdqeWxqLWs5Qm9nSm1KQW14V2l0bEVrdkc1ZmQta01wWkRRanNrQVo3XzFVSE9WZTFMejBoRGZoOGhGV1VfWjBQZXpsSGplOVdHMkNDdGpzQzRnQ0M0R01wSFVVc04xVGdtNEVidi1sSndvUmlKOWtoTTJTR241TVNYYTFkdkh4WlhmdXUxSkJjVkJhRlgtejdUWmVUeFdsS1IyM1JNMXlhRXpicGVlUk1KNA?oc=5)
+
+---
+
+## 7. भारतीय स्टार्टअप संस्थापकांचा जगभरात डंका! परदेशात उभारल्या २०५ युनिकॉर्न कंपन्या; मूल्य ५५० अब्ज डॉलर्स पार... - Lokmat.com
+
+**विभाग:** भारत आणि स्टार्टअप
+
+भारतीय स्टार्टअप संस्थापकांचा जगभरात डंका! परदेशात उभारल्या २०५ युनिकॉर्न कंपन्या; मूल्य ५५० अब्ज डॉलर्स पार... Lokmat.com
+
+[मूळ बातमी वाचा](https://news.google.com/rss/articles/CBMimgJBVV95cUxQc0dDdmdNQ0gta2FkazZZbUUzWHF3V0YxSTFiUUNPVmFFckVzdFR4TTRkNm1UX0VPZXRCSVNPdEhhMFFNeTFsOEZwNDZSWm93RVdkMkdFbEdpRkp2V253Wk80VlBKRXFkTk8wSnpDNGp0SkEwcHJkQ3Q0a2tlZlZsTEZua0VaVVgtcVNYNFFSQ3NWMHctTkdUQlBvWTBmZUVhY21aTTVDaVdYS3EyMHZ3MzU1bldJZkxIb1BtS0k3NXFVT2UxaTJqTGRHakthV2xEaDdnTjktVV90ZnJKR1dSYXJpMTAzbGhDVUNYWHkxdDFsYWdjbzA2QlZfZXQzeUFpY3hacVEyaGJWOENOa2RPUklxVS1WckJjQUE?oc=5)
+
+---
+
+## 8. डिलिव्हरी ॲप्सच्या मागे धावू नका! उद्योगपती हर्ष गोएंका यांचा भारतीय स्टार्टअप्स अन् कॉर्पोरेट्सना गंभीर इशारा - Loksatta
+
+**विभाग:** भारत आणि स्टार्टअप
+
+डिलिव्हरी ॲप्सच्या मागे धावू नका! उद्योगपती हर्ष गोएंका यांचा भारतीय स्टार्टअप्स अन् कॉर्पोरेट्सना गंभीर इशारा Loksatta
+
+[मूळ बातमी वाचा](https://news.google.com/rss/articles/CBMiqwFBVV95cUxObGRET3NwTmFVbmpQWU9LVC03ZldCeHFpRzQ3bG83b3RCZElMUnJ5R0NDSHo5UlhXV2RCR0t5WERyQ2RkS3lTYi1DMk02WnRYLVFYdGZWTVhrSGZlazJEclZBUVhJOFU3SnI0Mm9MVHFQS0ZLQkZUUTMtUW1NWjlsNlYzb1VRYTJzTzZlNFhtZ1YzMzNHSEFoOUNNUnkzLWx3YnZSdnFWa3Y4dDTSAbIBQVVfeXFMTVpNcWhyM0VhYW9yQjFCTklMRk14eERBcnRaU2JfdHlUTVpFSS13OXRTSmQzUlJEQWt0Ni1aSE0ySWY3RFBNM0pHMUVKMWMwVThieDQwdHQ2a2E3bi15dERBTVpqRmNsRDFrajBfa2lHbjFMUlFDelBGQlNTXzE3WnlxeFdhaHBxRDAyQzl4X2ZrWU9WRjZUdUVQZHNMckkxVlJFcFI2WTNlWllnZjQ2UXhRUQ?oc=5)
+
+---
+
+## 9. Energy Startups : देशात ऊर्जा स्टार्ट-अप्स कमी का? इंडियन ऑईलचे अध्यक्ष म्हणाले, ‘शिक्षण-उद्योगांत दुवा नाही’ - Loksatta
+
+**विभाग:** भारत आणि स्टार्टअप
+
+Energy Startups : देशात ऊर्जा स्टार्ट-अप्स कमी का? इंडियन ऑईलचे अध्यक्ष म्हणाले, ‘शिक्षण-उद्योगांत दुवा नाही’ Loksatta
+
+[मूळ बातमी वाचा](https://news.google.com/rss/articles/CBMivwFBVV95cUxOcUl2MVg2N3Y4anhXbFEzRngtVUdrMmItXzBXMHBNaFpfbWgxbkNGMURrUjJHX0pEeXRjRTE2ZzZpeHQxZDNBWHh6Sm9rd05uOXNMNFB0VlpQenktRlRwelc0TUpyTW5TQkNMbmlvODN1NUREX19FQ3JEUmlEc3BOU1k5Z045TzNlMTZXVlExcGdzcjB4Z3ZsZmpOWGVYbHRPdE84VXpJcnVFZ3RsTkc1NkNwRlFzUEgxNXhPbTJId9IBxgFBVV95cUxNZl8xLTQ1dDRvd1RTZzZqT29mZGVxUHZWMlUzWjNTSjJmMEVQcDNyVnlMSlRlQjlDcXdhOG9IZ2F5ZG9FQ3JPdUE2N2VlLWdwNDhNc1JjYWJKMmphN19VZUZCWnI5QzgxbUFJelFVVTRlYXNxUkVMXzdrQURaWkZ4RVRHWDdmaVRzS21zMENxVVNYWlFqMlZqMk9lczB4a2szb0RJQ2dnQjlkZlpqRkFyOVYwaURLcWpiNjBSajNOUkpUWHZkeVE?oc=5)
+
+---
+
+## 10. आशिया-पॅसिफिकमधील टॉप 100 स्टार्टअप्स; भारत अव्वल स्थानी: कर्करोगाच्या उपचारापासून ते अंतराळापर्यंत, 19 भार... - Divya Marathi
+
+**विभाग:** भारत आणि स्टार्टअप
+
+आशिया-पॅसिफिकमधील टॉप 100 स्टार्टअप्स; भारत अव्वल स्थानी: कर्करोगाच्या उपचारापासून ते अंतराळापर्यंत, 19 भार... Divya Marathi
+
+[मूळ बातमी वाचा](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcmpFaVE5aTJVSHM0R1g2U3JYLXZmLTJTWks2cUI0UnhWQkxmeDZrMk9Td2pSd2xNcXhkZXM1bWZVdl9vMEFXVzRwQjBDZVdreXExTVNlQlk3bk9pSnlUNVl6WGpSR0xIa0pNRm1WSTViajVjWWJHQWZWeXl5ampiV2ZqeUxDd3ZkTS1jR0FwaWNxcTctSmNZcld3V0lzWGEwc09pWkZPZ0IxeWlTZGV0SGhScG9fZWh60gG-AUFVX3lxTFBVbE5yMm5yODlHR0FqTld3czA4UGYwbGlkX1I1LUdvaWNBa0JzSll5VVg3eVprOTBsM09JQjNvNFA5SUdIVy1VT0VUbUNJbXhCTEFvekFteU9pSEZaTUFfcjljZW03cmo2QTBSUHZmUW1kUnBEdHd4TjQ5ZkFRdURtX1lXVHNXMUplb01fMVQtUnUxZHp3b01PUlRFX2R4Y09XU3NmNDUwYy11cS1xMU5iMWx1QWEtNWFjbGw5alE?oc=5)
+
+---
+
