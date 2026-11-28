@@ -1,0 +1,102 @@
+# दैनिक AI आणि तंत्रज्ञान बातम्या — 2026-11-28
+
+## 1. “घरात अन्न आणि पैसे जमा करून ठेवा…” AI रिसर्चरच्या एका इशाऱ्याने जगभरात खळबळ; पुढील... - TV9 Marathi
+
+**विभाग:** AI आणि कृत्रिम बुद्धिमत्ता
+
+“घरात अन्न आणि पैसे जमा करून ठेवा…” AI रिसर्चरच्या एका इशाऱ्याने जगभरात खळबळ; पुढील... TV9 Marathi
+
+[मूळ बातमी वाचा](https://news.google.com/rss/articles/CBMi6gFBVV95cUxPdXYxU1NlU21SZkdIR2tIVDlCSkc3ZzdLanpmaHlmWndUUXAwU0UtY1hMamFNQzFpUHVSMV9QZXVZdnZGMkZFMUwxYmc5NDhKdVpsdmhfbjNGeWdYNmNFekg2YlBUQk5teEhIajZydDB6SHZpRjFlWnFXcFhrSEtSN0RWUmFWMXN3b3VWR0ZSTWNIQjlZSV9FOHZxbkxSTnh4Z05vMWwxUDJvcWNjdUg4em5PMWhjeVdycjVnaGFYSnlzNXppeU9XZDRYdm9QWFc0V21jWkU2b0Y1V0NGLXdfR0pDcHpUbWphS3fSAe8BQVVfeXFMT1J5SmxFRWF1RkFoZ28tWldscGlDNDRxeHA3dFlETUFuUkJzZmxVZ09CSjNxNUxWU0lwUHlyQV9PVjBPVVd0RS1DYVdpaUNlaVIxako1ejBUUkw1OHViTzQ2QjBobjRLSk9mN3lkbER3SlVaUFJzYXlCMnFMTzlkNTZ3TTNxdXA1TDBWdWpRYlBBZ2RKUGRpckhVT2x4a0NXamlVRkc1MEI1SENrYUItcWxtR2pOZjJlclQxVHhuaXdsSXo1TkhZaUFhdWZjN1BHb3lqdUZXamw4NERfRlNkRkFFX1F6OTlhR1VRMW5xZXM?oc=5)
+
+---
+
+## 2. Maharashtra AI Rural Development: राज्यातील ७५ गावांचा विकास आता एआयच्या मदतीने; ग्रामविकास विभागाचा पथदर्शी प्रकल्प - Pudhari News
+
+**विभाग:** तंत्रज्ञान
+
+Maharashtra AI Rural Development: राज्यातील ७५ गावांचा विकास आता एआयच्या मदतीने; ग्रामविकास विभागाचा पथदर्शी प्रकल्प Pudhari News
+
+[मूळ बातमी वाचा](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTnFRNnR1d1pvY3VtcjZITVZ0YTJ1UktiZFZDZzJzS2VJX0tRMGJ0UmFlcnhCT2d4a3ROOVdyeGRNaVZWZzEyUUdfbW8tbjlaOTVhN1Iza2J4eDlUN2R0QTcwWUFXdk9mV1oxWnlDT0lLYlJvdm5Lb2pRTjNEdnhhMWdsbW04NVpQa3lBNWtrRXZpUWVxU1ZiNllWSTBTczdrVlFxeVkxN000MnM?oc=5)
+
+---
+
+## 3. Tech news: अ‍ॅपलविरोधात OpenAI चा प्रतिदावा; व्यापार गुपितांच्या वादामुळे दोन्ही कंपन्यांमध्ये संघर्ष तीव्र - Navarashtra
+
+**विभाग:** AI आणि कृत्रिम बुद्धिमत्ता
+
+Tech news: अ‍ॅपलविरोधात OpenAI चा प्रतिदावा; व्यापार गुपितांच्या वादामुळे दोन्ही कंपन्यांमध्ये संघर्ष तीव्र Navarashtra
+
+[मूळ बातमी वाचा](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVkRGMmVCdUJmdF9tWlFXWTRXTFhQRXV5RW1aNG9TdENRNUd3UXVNYkZsa0pYWEREZUFENFB2c0Mta3ptbXk2QjAwcHp2eWtlUnV6RUdsLVhnQXFiY1hVZnVVZVAydi1uRTZ6SktPV2NYVzVWNTdNdmtJTjZjOWpoVlJGcjNtcDRkSUZyaVdKb01pWko2RG8yS0VFRFNHZjlVYkI2T2JDdFhpdUJndmJlN01VNXkzRF9V0gHGAUFVX3lxTE5MdnFXZXVKeHlJdXplMHVYTFRTWFhqSlhnSUVLZWMzejdvbGVPVmJqNlZ5bm4yTUV5TVhfV3NEM0FkdE9JbHQyTVExeXE0ZmVPbTcxclBSZWRZN19aQ21CMGdMa2lvdjVqUUtCOGRveDhheklsTTAxTWJtV0laMFZCMGplTi1adHFCR25JenJRRGpHd0hjS204VXpzajRwM1BXYlZFdXNYNy13MC1Xd0JvMmtLWW5yV0RpSEQwaEp5LTY2WWNyZw?oc=5)
+
+---
+
+## 4. Shivaji University Convocation Ceremony: कृत्रिम बुद्धिमत्ता, रोबोटिक्समध्ये नव्या संधीही उपलब्ध: राज्यपाल ... - Lokmat.com
+
+**विभाग:** AI आणि कृत्रिम बुद्धिमत्ता
+
+Shivaji University Convocation Ceremony: कृत्रिम बुद्धिमत्ता, रोबोटिक्समध्ये नव्या संधीही उपलब्ध: राज्यपाल ... Lokmat.com
+
+[मूळ बातमी वाचा](https://news.google.com/rss/articles/CBMi2AFBVV95cUxONHV4ZmV5UDdsMEpFbTZqOXZ4SWZjTmI1RzJNNUNQVHRULU90dTNaRVdjelI4VEJfYjNweVFWNzQzdUdiWU5NUTZsd0o2QXAxa0RPWkVBeXdUSVpTUlBvZkFLY3Z2SzVLVkNNY1JCVTM3RXhJRVVTSTNKc3lHREotcDBWZFdJeEtadmVrM09pdjRXWGI1MmJzbEFyT2o0X1BxQnczb2NCMHYyUWF2RFEyNWJMV0p6MDFackgwVHFUYlNCX2Nza25rYUY0OWx2ckc4RTdQQUlMeXPSAd4BQVVfeXFMTmNORFNPZGlJOG12RHB4Vmd6a05PZ19TTlhMckJHWGs3NTRwWC1IRGZzdlcwS2N1RnRMTHRnMDM1ajluZDUwS0pxV1lKVHdlazRHaWFVa1B5b0llbHN0YkZnb1lKX3BBVmhtVHM5SXR3MEg3YWliU1N1LXlsT05LUEIzMU55d0t3X0xqcG8wbTJGUjRCZ204bGlJRjZpRmpBREJNYUxET1I2ZGNjUVNZSUpkNGllTmxMSzZMOTB5WTVtdndrUmc3UWZUUmxGb19QQktrQk1Qd05xV0V3MkNR?oc=5)
+
+---
+
+## 5. Hyundai Mercury: हुंडईची सर्वात स्वस्त इलेक्ट्रिक SUV, बॅटरी स्वॅपिंगचे भन्नाट तंत्रज्ञान - TV9 Marathi
+
+**विभाग:** तंत्रज्ञान
+
+Hyundai Mercury: हुंडईची सर्वात स्वस्त इलेक्ट्रिक SUV, बॅटरी स्वॅपिंगचे भन्नाट तंत्रज्ञान TV9 Marathi
+
+[मूळ बातमी वाचा](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPX0t2NzVvRTl1MUNkRmZYdWlkcFhjM0tLQTh5UzNGX01HZnByNnJtcndZWEtQdzFqSUQwLUZGbi10cHpyelhHSmF2OHE4ZjA1TDRfNzRiVXlIdlJ3UGhVVXh0bTRRMUZHLWVWM3RIYl9VUU9EX09IQWxYUDN1dTFtdlVNcUlObkc5U0RUbXhTcXAwbEdEWVZ5X3NpSkxWbkdPdUxUOFJiMVpZNVF1bFpacWtaTmg3QWVQaGRRQ3dobmZIa0FTalE4TWFkbEluVDI4V2VPbDJZRC1ka3czYk5lMVh30gHnAUFVX3lxTE4xcElaRUlDRDd4a2J6eUltRzJmQmp6aFBqT2lPbVZfS3B5TEx4T3ZFRGk1SXlSRXBpUFVNUnBiT0lGTUVJaG5vbk5TM1pxWE1OZnNCVDNyY01aanc0Z19VdlQ2V3NjNFVZU1QyRE45T3AxNC1Tc3ZnY3J4NnpweWJoZm42TTRUZWdERkRva2dZWVdDa3g0RlpXeTVSaHRTQlV4ZGNsWXpEQXdUc040YmJCQ3dzR0taY0hvbFo2YzBZTlZyczBaQWNSODUtQ2tpcGhmMl82cTB0a19aSFVWakE2eHcyeWw1QQ?oc=5)
+
+---
+
+## 6. INS विंध्यगिरी नौदलात, ब्रह्मोस-बराक क्षेपणास्त्रांनी सज्ज: यातील 75% तंत्रज्ञान, उपकरणे स्वदेशी; प्रोजेक्ट... - Divya Marathi
+
+**विभाग:** तंत्रज्ञान
+
+INS विंध्यगिरी नौदलात, ब्रह्मोस-बराक क्षेपणास्त्रांनी सज्ज: यातील 75% तंत्रज्ञान, उपकरणे स्वदेशी; प्रोजेक्ट... Divya Marathi
+
+[मूळ बातमी वाचा](https://news.google.com/rss/articles/CBMixAFBVV95cUxQTDRDX05CWUJpSU1hNDhqS3d4NGxUd2tyd2lhcjNMYm5ueXF0VTVsUkc4Qm5nMlNrN3p2bkVGTHkwd1BUX3o2aThRQU5Kakw2T2t3VlF2MENyc211VGNsLXNGb0hrdm45WDNHTzhvbjI5a0hlVE5XZngxMjNXdjUyWFhhSUp5eWZKTEZqN2ZPTEFGdWZPZEl0NjJVSU9BZFFVY0p6VTNNbDc5Z1NBNE9yNVRGZUQycUJLeWlPMjNFbFhmLTN50gHKAUFVX3lxTE9sdHdpclVGMXc5UFItZDdMa2ZPVmJ5VW05ckJlOE1sY1FKRnQ3eU16Q2UtZ2Y0cEpKbnh3eEh3bkZ3RGR1NzRKQ21Tc015LWJNU3hXTmo3Q2pXTjdmdXdnWWRWWGFwRnBQLUVfWlJDUEg4cUcyUkNkenZZb2xBRVZ5RW1ZUlNCTTFrdjlKZ3MtWEtUbXU5TW95VXc2WUtqN21qSEM0YklxdW0yMDdqbHhQQUpUUUZJQXR5eUlKZjFOeXBaZWROZnVUN1E?oc=5)
+
+---
+
+## 7. यातील 75% तंत्रज्ञान, उपकरणे स्वदेशी; प्रोजेक्ट 17A च्या सर्व 7 युद्धनौका मिळाल्या - Divya Marathi
+
+**विभाग:** तंत्रज्ञान
+
+यातील 75% तंत्रज्ञान, उपकरणे स्वदेशी; प्रोजेक्ट 17A च्या सर्व 7 युद्धनौका मिळाल्या Divya Marathi
+
+[मूळ बातमी वाचा](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNYjQtb0Zaem1kWjFfdVN0NmhPVkc4QmMzNmhpSmJaZnNBNDFleV9zNXZtWUhnaGd5RldwSXZuQzVDakUwd1RfV2ZtbEdsaHp3YnpSZGFObFl0X0NkWV81dzdKaWxITHJfMGJzVllzVnl6MzRWS2oxMnFlbFpudVF3M0ZHVWdoem1zVS1RYmRkVFJDSXcyS0REMUQ4aEtrRXZkNG5UNm5CV25Vc2NkREcydW1xMjdCT1BvbE1hWEU3d0dmb3pmazh3emttTWM3akdWNkJCRw?oc=5)
+
+---
+
+## 8. Shivaji University Convocation Ceremony | कृत्रिम बुद्धिमत्तेचा स्वीकार करा; स्वत:ला सक्षम बनवा : राज्यपाल - Pudhari News
+
+**विभाग:** AI आणि कृत्रिम बुद्धिमत्ता
+
+Shivaji University Convocation Ceremony | कृत्रिम बुद्धिमत्तेचा स्वीकार करा; स्वत:ला सक्षम बनवा : राज्यपाल Pudhari News
+
+[मूळ बातमी वाचा](https://news.google.com/rss/articles/CBMiswFBVV95cUxNajFFeHF5R0tBSnV5MF9weWF6NVBtMHFEd0Jjb2lNWEhyeDYxMEY1eVpfUmJ5bGk1YUlxVVVoSWRud3RFQ0NwQVlrMlRaVXFSNG9zaUZHcjBHNE9namhJVEZscXlxNF9NUTBTQkh1ajd0bm5mZ3pmSEh3X25OY2VhLWkxX0NZZHhCZW9jbjEySWoyeGMzWmlnZHhNYnhlVnNlamU4bTRvLVNLX2VmTDRaSjktNA?oc=5)
+
+---
+
+## 9. शासनाची ‘महाजीपीटी’ प्रणाली सुरू नागरिकांना शासन निर्णय, कायदे व नियमांची - ABP Majha
+
+**विभाग:** AI आणि कृत्रिम बुद्धिमत्ता
+
+शासनाची ‘महाजीपीटी’ प्रणाली सुरू नागरिकांना शासन निर्णय, कायदे व नियमांची ABP Majha
+
+[मूळ बातमी वाचा](https://news.google.com/rss/articles/CBMilwJBVV95cUxQa255aXk4d0hXdC1leVA1WTNaYjhUNFEwNmFHREFDb0VSZ2NCb3l0V0Zyb0NyU3FrbnFDNVFpOHE3eHFRSkFxanNRM3FDMnRkWlBjcUNqQ2ZvV0NxVm9oUjYxanRaY0trZXRvX3pRWE1YeXRycXdUUXNiMXc5NU1kS0lWMXgwWDJUUDRybkVqNlliSFlqUmhucDNDclhPNVpYbzZKcm9NMTVCX0g4QVlDQmh0SlZDZTdxWFE1VlpjNEdmdm9sT1R0THZibkZGc2lyZ1dxWGFla2hWQ0Z1Q2lBdWFJZXpVTU1INTdQOWd1T1JONXR4em1GeExjZi1qeWNrYVRhb1FnZXBwOUJkbk13QXpzWHppNTjSAZcCQVVfeXFMUGtueWl5OHdIV3QtZXlQNVkzWmI4VDRRMDZhR0RBQ29FUmdjQm95dFdGcm9DclNxa25xQzVRaThxN3hxUUpBcWpzUTNxQzJ0ZFpQY3FDakNmb1dDcVZvaFI2MWp0WmNLa2V0b196UVhNWHl0cnF3VFFzYjF3OTVNZEtJVjF4MFgyVFA0cm5FajZZYkhZalJobnAzQ3JYTzVaWG82SnJvTTE1Ql9IOEFZQ0JodEpWQ2U3cVhRNVZaYzRHZnZvbE9UdEx2Ym5GRnNpcmdXcVhhZWtoVkNGdUNpQXVhSWV6VU1NSDU3UDlndU9STjV0eHptRnhMY2Ytanlja2FUYW9RZ2VwcDlCZG5Nd0F6c1h6aTU4?oc=5)
+
+---
+
+## 10. बुलढाण्यात आरोग्यसेवेला आधुनिक तंत्रज्ञानाची जोड! शासकीय रुग्णालयात रोबोटिक सर्जरी युनिट सुरू होणार - Navarashtra
+
+**विभाग:** तंत्रज्ञान
+
+बुलढाण्यात आरोग्यसेवेला आधुनिक तंत्रज्ञानाची जोड! शासकीय रुग्णालयात रोबोटिक सर्जरी युनिट सुरू होणार Navarashtra
+
+[मूळ बातमी वाचा](https://news.google.com/rss/articles/CBMitwFBVV95cUxPWE85cDEtbmtKdmg5Z05JNnQ4VWZONnRnT0MycmFUeTdldXNhbkJEMzZhVDNGbDNlc1BYZFFNMF9hWmxaZ2pic3B6YkNkV0V2eTJTVi0xY1RDQWJTTWlsRTFYMnkzbVhQa1RjdzFvOWkzNXdobVZ3YmNYNzVkdDM0cVlDU1YwcVlTU29Ma2RhMFpEOW5IUmVMNXc3SzUyUFY0UGpoVGtFbHVUSjBDZV9FVTRCcDdYODTSAcQBQVVfeXFMTUNGS2RMeUQ1dmg4TWRZTXZiNGV0QWdFTUtycEI1ek41UmpjTUJZTTVXMTVXUldhM3ZCck1GeTlUcnlIVFliVWRDeTFOWlBBbEREaTRrUkhCektDTnR4Sm5TNGhfQnFia3ZXNzNGMTFHRG45eEJ4S3RSUlVNQ3YxV1ZGUWpmRWlObE5TNzhka1JwSHdvcjVfYmlzdDRVdWdTTld1NFRDeVhWSi00RUdJOHFSZHU2LUk3RGM0VE05bHgzV2lxNg?oc=5)
+
+---
+
